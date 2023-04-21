@@ -1,3 +1,6 @@
 [submodule "themes/lugo"]
 	path = themes/lugo
 	url = https://github.com/lukesmithxyz/lugo
+[submodule "aurealm"]
+	path = aurealm
+	url = git@github.com:MiragonMx/aurealm.git
