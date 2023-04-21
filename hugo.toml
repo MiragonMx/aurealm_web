@@ -1,4 +1,5 @@
+# XXX: Update this file correctly (esp. URL)
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'lugo'
+languageCode = 'de'
+title = 'Aurealm Pen & Paper'
+theme = 'aurealm'
