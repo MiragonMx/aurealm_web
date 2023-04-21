@@ -1,0 +1,3 @@
+[submodule "themes/aurealm"]
+	path = themes/aurealm
+	url = git@github.com:MiragonMx/aurealm.git
