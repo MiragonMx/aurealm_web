@@ -1,45 +1,58 @@
+:root {
+  --red:   #800500;
+  --gold:  #D4AF37;
+  --light: #FEFBEA;
+  --dark:  #222222;
+}
+
+.light-mode {
+  background-color: var(--light) ;
+  color: var(--dark) ;
+}
+
 body {
-	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+  font-family: sans-serif ;
+  /*background-color: var(--dark) ;*/
+  background-color: yellow ;
+  color: var(--light) ;
 }
 
 main {
-	max-width: 800px ;
-	margin: auto ;
+  max-width: 800px ;
+  margin: auto ;
 }
 
 img {
-	max-width: 100% ;
+  max-width: 100% ;
 }
 
 header h1 {
-	text-align: center ;
+  text-align: center ;
 }
 
 footer {
-	text-align: center ;
-	clear: both ;
+  text-align: center ;
+  clear: both ;
 }
 
 /* For TAGLIST.HTML */
 .taglist {
-	text-align: center ;
-	clear: both ;
+  text-align: center ;
+  clear: both ;
 }
 
 /* For NEXTPREV.HTML */
 #nextprev {
-	/* The container for both the previous and next articles. */
+  /* The container for both the previous and next articles. */
 }
 #prevart {
-	float: left ;
-	text-align: left ;
+  float: left ;
+  text-align: left ;
 }
 #nextart {
-	float: right ;
-	text-align: right ;
+  float: right ;
+  text-align: right ;
 }
 #nextart,#prevart {
-	max-width: 33% ;
+  max-width: 33% ;
 }
