@@ -1,6 +1,12 @@
-<!DOCTYPE html>
-<html>
-    <body>
-      U stupid
-    </body>
-</html>
+{{ define "main" }}
+<!--{{ .Content }}-->
+<div id="jumbotron404" class="jumbotron text-center">
+  <h1 class="title">Page not found</h1>
+  <div id="img404" class="jumbotron text-center">
+    <a href="{{ .Site.Home.RelPermalink }}">
+      <img src="/img/icon_tobi.png" aria-hidden="true" focusable="false">
+    {{/*width="{{.Site.width}}" height="{{.Site.width}}">*/}}
+    </a>
+  </div>
+</div>
+{{ end }}
