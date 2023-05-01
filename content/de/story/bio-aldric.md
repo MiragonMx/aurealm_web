@@ -1,8 +1,8 @@
 ---
-title: "Bio_theo"
+title: "Bio aldric"
 date: 2023-04-17T00:05:37+02:00
 draft: false
 ---
-# theo
-lipsum doro
+# aldric
+lorem ipsum dolor sit
 
