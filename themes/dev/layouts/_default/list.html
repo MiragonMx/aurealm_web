@@ -7,7 +7,7 @@
     {{ range .Pages.ByPublishDate.Reverse }}
 
     <div class="card-container">
-      {{ partial "widgets/post-card.html" }}
+      {{ partial "widgets/post-card.html" . }}
     </div>
     {{ end }}
   </div>
