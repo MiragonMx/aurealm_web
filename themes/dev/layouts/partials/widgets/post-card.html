@@ -1,20 +1,18 @@
 {{ $permalink := .Permalink }}
-<div class="card post-card-border">
+<div class="card rounded mt-3 mb-3">
   <div class="row g-0">
-    <div class="col-md-4">
+    <div class="col-md-2">
       <img src="img/icon_tobi.png" class="img-fluid rounded-start" alt="...">
     </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        {{/*<h5 class="card-title">Card title</h5>*/}}
-        <a class="card-title" href="{{ $permalink }}">{{ .Title }}</a>
-        {{ partial "metadata.html" . }}
+    <div class="col-md-6">
+      <div class="card-body text-start">
+        <h4 class="card-title">{{ .Title }}</h4>
+        {{/*{{ partial "metadata.html" . }}*/}}
         <div class="card-text summary">
-          {{ $permalink.Summary }}
+          {{ .Summary }}
         </div>
-        {{/*<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-          content.</p>*/}}
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        {{/*makes the whole card a link (bootstrap util)*/}}
+        <a href="{{ .Permalink }}" class="stretched-link"></a>
       </div>
     </div>
   </div>
