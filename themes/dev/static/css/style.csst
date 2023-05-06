@@ -1,0 +1,106 @@
+:root {
+  --red:   #800500;
+  --gold:  #D4AF37;
+  --light: #FEFBEA;
+  --dark:  #222222;
+  color-scheme: light dark; /* both supported */
+  font-family: "Georgia", "Times New Roman", "Times", serif;
+}
+
+/*.light-mode {*/
+  /*background-color: var(--light) ;*/
+  /*color: var(--dark) ;*/
+/*}*/
+
+/*.navbar .navbar*/
+
+body {
+  font-family: Georgia Times New Roman Times serif;
+  /*background-color: var(--dark) ;*/
+  color: var(--light) ;
+}
+
+a {
+  color: var(--gold);
+  /*color: var(--red);*/
+}
+
+body.light-theme {
+  font-family: sans-serif ;
+  background-color: var(--light) ;
+  color: var(--dark) ;
+}
+
+main {
+  /*max-width: 800px ;*/
+  margin: auto ;
+}
+
+img {
+  max-width: 100% ;
+}
+
+header h1 {
+  text-align: center ;
+  font-family: "Georgia", "Times New Roman", "Times", serif;
+}
+
+footer {
+  text-align: center ;
+  clear: both ;
+}
+
+.card .post-card-border {
+  /*border: 2px solid var(--gold);*/
+  color: red;
+}
+
+a.list-title {
+
+}
+
+.navbar {
+  background-color: var(--red);
+}
+
+
+.navbar-brand {
+  /*color: var(--gold);*/
+  color: var(--light);
+}
+
+.nav-link {
+  color: var(--light);
+}
+
+.nav-link:hover, .navbar-brand:hover, .is-active {
+  color: var(--gold);
+  /*color: var(--light);*/
+}
+.navbar-brand:hover, .is-active
+  /*color: var(--gold);*/
+  /*[>color: var(--light);<]*/
+/*}*/
+
+
+/* For TAGLIST.HTML */
+/*.taglist {*/
+  /*text-align: center ;*/
+  /*clear: both ;*/
+/*}*/
+
+/* For NEXTPREV.HTML */
+/*#nextprev {*/
+  /* The container for both the previous and next articles. */
+/*}*/
+
+  /*float: left ;*/
+  /*text-align: left ;*/
+/*}*/
+/*#nextart {*/
+  /*float: right ;*/
+  /*text-align: right ;*/
+/*}*/
+/*#nextart,#prevart {*/
+  /*max-width: 33% ;*/
+/*}*/
