@@ -1,14 +1,31 @@
-<div id="nav-border" class="container">
-    <nav id="nav" class="nav justify-content-center">
+<nav id="nav" class="navbar navbar-expand-md" aria-label="Main Navigation">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
+      <img src="/img/icon_tobi.png" alt="arkanthia icon" width="30" height="30">
+      arkanthia
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <a class="nav-link" href="{{ .URL }}">
-        {{ if .Pre }}
-        {{ $icon := .Pre | safeHTML }}
-        {{ $icon }}
+        <li class="nav-item">
+          <a class="nav-link
+            {{ if (or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)) }}is-active{{ end }}
+            " href="{{ .URL }}">
+            {{ if .Pre }}
+            {{ $icon := .Pre | safeHTML }}
+            {{ $icon }}
+            {{ end }}
+            {{ $text := print .Name | safeHTML }}
+            {{ $text }}
+          </a>
+        </li>
         {{ end }}
-        {{ $text := print .Name | safeHTML }}
-        {{ $text }}
-        </a>
-        {{ end }}
-    </nav>
-</div>
+      </ul>
+    </div>
+  </div>
+</nav>
