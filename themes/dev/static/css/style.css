@@ -29,30 +29,37 @@ a {
   color: var(--gold);
 }
 
-.card {
-  background-color: var(--dark);
+.navbar {
+  background-color: var(--red);
   color: var(--light);
+}
+
+.navbar-brand {
+  color: inherit;
+}
+
+.nav-link {
+  color: inherit;
+}
+
+.btn-light-dark-toggle {
+  color: inherit;
+}
+
+.btn-light-dark-toggle:hover, .nav-link:hover, .navbar-brand:hover, .is-active {
+  color: var(--gold);
+}
+
+.card {
+  /*background-color: var(--dark);*/
+  /*color: var(--light);*/
+  background-color: inherit;
+  color: inherit;
   border: 1px solid var(--gold);
 }
 
 .card:hover {
   box-shadow: 0 0.1em 0.2em 0 var(--gold), 0 0.2em 0.4em 0 var(--gold);
-}
-
-.navbar {
-  background-color: var(--red);
-}
-
-.navbar-brand {
-  color: var(--light);
-}
-
-.nav-link {
-  color: var(--light);
-}
-
-.nav-link:hover, .navbar-brand:hover, .is-active {
-  color: var(--gold);
 }
 
 /* For TAGLIST.HTML */
