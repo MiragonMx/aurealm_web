@@ -51,6 +51,34 @@ a {
   color: inherit;
 }
 
+.my-toggler {
+  border-color: var(--light);
+}
+
+.my-toggler:hover {
+  border-color: var(--gold);
+}
+
+.my-toggler .navbar-toggler-icon {
+  background-image: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(254, 251, 234, 1)" stroke="rgba(254, 251, 234, 1)" stroke-width=".5" stroke-linecap="round" stroke-miterlimit="10" class="bi bi-list" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/> </svg>');
+  color: var(--light);
+}
+
+.active.my-active {
+  color: var(--light);
+  background-color: var(--dark);
+}
+
+.dropdown-menu .dropdown-item:hover {
+  color: var(--gold);
+  /*background-color: var(--dark);*/
+}
+
+.dropdown-menu .dropdown-item:focus {
+  color: var(--gold);
+  background-color: var(--dark);
+}
+
 #lang-switch-dropdown-link:hover, .btn-light-dark-toggle:hover, .nav-link:hover, .navbar-brand:hover, .is-active {
   color: var(--gold);
 }
