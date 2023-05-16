@@ -1,10 +1,15 @@
 {{ define "main" }}
-  <h1>
-    {{ .Title }}
-  </h1>
+<div class="container">
+  <div class="section">
+    {{/*fall back to section title, if no _index.md is provided*/}}
+    <h1>
+      {{ .Title }}
+    </h1>
 
-  {{ partial "metadata.html" . }}
+    {{ partial "metadata.html" . }}
 
-  <br><br>
-  {{ .Content }}
+    <br><br>
+    {{ .Content }}
+  </div>
+</div>
 {{ end }}
