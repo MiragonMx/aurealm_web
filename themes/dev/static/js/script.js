@@ -1,11 +1,21 @@
+// select UI button
 const btnLightDarkToggle = document.querySelector('.btn-light-dark-toggle');
+// check OS theme preference
+const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+// check local storage for OS overriding
+const currentTheme = localStorage.getItem("theme");
 
+// toggle theme after manual override
 btnLightDarkToggle.addEventListener('click', () => {
   document.body.classList.toggle("light-theme");
+
+  var theme = document.body.classList.contains("light-theme") ? "light" : "dark";
+  localStorage.setItem("theme", theme);
 
   setThemeToggleBtnIcon();
 });
 
+// set button to reverse icon of current theme
 function setThemeToggleBtnIcon() {
   let btnHtml = '';
   if (document.body.classList.contains('light-theme')) {
@@ -16,4 +26,9 @@ function setThemeToggleBtnIcon() {
   btnLightDarkToggle.innerHTML = btnHtml;
 }
 
+// set light theme, if OS preference or set in local storage (session)
+if (currentTheme == "light" || !prefersDarkScheme.matches) {
+  document.body.classList.toggle("light-theme");
+}
+// fill icon in general
 setThemeToggleBtnIcon();

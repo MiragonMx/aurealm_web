@@ -34,6 +34,11 @@ a {
   color: var(--light);
 }
 
+.active{
+  background-color: var(--red);
+  color: var(--light);
+}
+
 .navbar-brand {
   color: inherit;
 }
@@ -42,11 +47,11 @@ a {
   color: inherit;
 }
 
-.btn-light-dark-toggle {
+.btn-light-dark-toggle, #lang-switch-dropdown-link{
   color: inherit;
 }
 
-.btn-light-dark-toggle:hover, .nav-link:hover, .navbar-brand:hover, .is-active {
+#lang-switch-dropdown-link:hover, .btn-light-dark-toggle:hover, .nav-link:hover, .navbar-brand:hover, .is-active {
   color: var(--gold);
 }
 
