@@ -1,6 +1,0 @@
-[submodule "themes/aurealm"]
-	path = themes/aurealm
-	url = git@github.com:MiragonMx/aurealm.git
-[submodule "themes/themes/lugo"]
-	path = themes/themes/lugo
-	url = https://github.com/lukesmithxyz/lugo
