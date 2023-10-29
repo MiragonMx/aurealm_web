@@ -1,3 +1,6 @@
+# public/destination files
+**/public/*
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
