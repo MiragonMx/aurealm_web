@@ -17,6 +17,11 @@ body.light-theme {
   color: var(--dark) ;
 }
 
+.light-theme {
+  background-color: var(--light) ;
+  color: var(--dark) ;
+}
+
 main {
   margin: auto ;
 }
