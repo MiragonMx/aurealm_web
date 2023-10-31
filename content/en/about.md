@@ -1,10 +1,8 @@
 ---
 title: "About"
 date: 2023-10-30T00:25:15+01:00
-draft: true
+draft: false
 ---
-
-# About
 
 We are a group consisting of five enthusiastic nerds playing our first real pen & paper campaign.
 

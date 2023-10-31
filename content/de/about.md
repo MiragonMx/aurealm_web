@@ -1,10 +1,8 @@
 ---
-title: "About"
+title: "Über uns"
 date: 2023-10-30T00:25:15+01:00
-draft: true
+draft: false
 ---
-
-# Über uns
 
 Wir sind eine Gruppe bestehend aus fünf enthusiastischen Nerds, die ihre erste richtige Pen & Paper Kampagne spielen.
 
