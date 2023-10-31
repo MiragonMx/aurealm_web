@@ -6,9 +6,13 @@
       {{ .Title }}
     </h1>
 
-    {{ partial "metadata.html" . }}
+    {{ if (strings.Contains "Datenschutzerklärung Privacy Policy Impressum" .Page.Title) }}
 
-    <br><br>
+    {{ else }}
+      {{ partial "metadata.html" . }}
+      <br><br>
+    {{ end }}
+
     {{ .Content }}
   </div>
 </div>

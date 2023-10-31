@@ -5,8 +5,8 @@ const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 // check local storage for OS overriding
 const currentTheme = localStorage.getItem("theme");
 
-// check if 404 page
-const pageNotFoundImgDiv = document.querySelector("#img404");
+// check if main logo necessary
+const mainLogoImgDiv = document.querySelector("#img404, #imgHome");
 
 // toggle theme after manual override
 btnLightDarkToggle.addEventListener('click', () => {
@@ -28,14 +28,14 @@ function setThemeToggleBtnIcon() {
   }
   btnLightDarkToggle.innerHTML = btnHtml;
 
-  if (null != pageNotFoundImgDiv) {
+  if (null != mainLogoImgDiv) {
     let logoImgHtml = '';
     if (document.body.classList.contains('light-theme')) {
       logoImgHtml = ' <img src="/svg/full_logo_light_mode.svg" aria-hidden="true" focusable="false">'
     } else {
       logoImgHtml = ' <img src="/svg/full_logo_dark_mode.svg" aria-hidden="true" focusable="false">'
     }
-    pageNotFoundImgDiv.lastElementChild.innerHTML = logoImgHtml;
+    mainLogoImgDiv.lastElementChild.innerHTML = logoImgHtml;
   }
 }
 

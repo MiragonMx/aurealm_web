@@ -7,12 +7,8 @@
 # Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE.md)
 ##
 
-
 baseURL = 'http://example.org/'
-#languageCode = 'de-DE'
 title = 'Arkanthia Pen & Paper'
-#theme = 'lugo'
-#theme = 'aurealm'
 theme = 'dev'
 
 defaultContentLanguage = 'de'
@@ -115,19 +111,21 @@ defaultContentLanguage = 'de'
 
 [params]
 
-    # footer
-    imprint = "/impressum"
-    #privacypolicy = "/pages/<page-name>"
-
-    # "relatedtext" is the text that appears above the tag list at the bottom of pages.
-    #relatedtext = "Related"
     favicon = "/favicon.ico"
 
-    #list items
-    #datesinlist = true
-    #authorsinlist = true
+    # footer
+    imprint = "/impressum"
 
-    #footer items
-    #nextprev = true
-    #taglist = true
-    #showrss = true
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
