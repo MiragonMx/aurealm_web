@@ -1,8 +1,9 @@
 ---
 title: "Bio aldric"
 date: 2023-04-17T00:05:37+02:00
-draft: true
+draft: false
 ---
-# aldric
-lorem ipsum dolor sit ENGLISH
 
+# aldric
+
+lorem ipsum dolor sit ENGLISH
