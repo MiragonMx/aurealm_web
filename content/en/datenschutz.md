@@ -78,8 +78,6 @@ Cloudflare, Inc.
 San Francisco, CA 94107
 
 USA
-<br>
-<br>
 
 #### Data processing
 
