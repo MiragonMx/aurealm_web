@@ -3,4 +3,14 @@
   <a href="{{ .Site.Params.imprint }}">
     Impressum
   </a>
+<span style="color: gray">
+  <a href="{{ ref . .Site.Params.imprint }}">
+    Impressum</a>
+  |
+  <a href="{{ ref . "/datenschutz" }}">
+      {{ if (eq site.LanguageCode "de-DE") }}Datenschutz
+      {{ else if (eq site.LanguageCode "en-US") }}Privacy
+        {{ end }}
+    </a>
+  </span>
 </p>
