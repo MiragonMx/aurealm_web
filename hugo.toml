@@ -1,13 +1,10 @@
-# XXX: Update this file correctly (esp. URL)
-
 # License for Icons:
 ##
 # Bootstrap Icons (https://icons.getbootstrap.com/)
 # Copyright 2019-2023 The Bootstrap Authors
 # Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE.md)
-##
 
-baseURL = 'http://example.org/'
+baseURL = 'https://arkanthia.pages.dev'
 title = 'Arkanthia Pen & Paper'
 theme = 'dev'
 
