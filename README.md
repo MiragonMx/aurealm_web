@@ -1,5 +1,6 @@
-# Aurealm Pen & Paper Website Repo
-This is the repository for all code and content of the homebrewed Aurealm pen and paper/TTRPG system. 
+# Arkanthia Pen & Paper Website Repo
+This is the repository for all code and content of the homebrewed Arkanthia pen and paper/TTRPG system. 
+The repo-name is from a former working title of the system, but Aurealm is now only the name of the main country the original campaign is set in.
 
 ## Roadmap
 Essentials Prio: 
