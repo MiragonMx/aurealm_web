@@ -5,9 +5,9 @@ The repo-name is from a former working title of the system, but Aurealm is now o
 ## Roadmap
 Essentials Prio: 
 
-- [ ] Blog Page
-- [ ] Startseite
-- [ ] Funktionierende Website lol
+- [x] Blog Page
+- [x] Startseite
+- [x] Funktionierende Website lol
 
 Essentials weniger Prio:
 
