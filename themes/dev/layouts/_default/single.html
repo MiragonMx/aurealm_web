@@ -2,11 +2,12 @@
 <div class="container">
   <div class="section">
     {{/*fall back to section title, if no _index.md is provided*/}}
+
     <h1>
       {{ .Title }}
     </h1>
 
-    {{ if (strings.Contains "Datenschutzerklärung Privacy Policy Impressum" .Page.Title) }}
+    {{ if (strings.Contains "Über uns About Datenschutzerklärung Privacy Policy Impressum" .Page.Title) }}
 
     {{ else }}
       {{ partial "metadata.html" . }}
