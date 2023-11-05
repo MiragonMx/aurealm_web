@@ -5,6 +5,4 @@ draft: true
 thumbnail: "img/theo_thumbnail.png"
 ---
 
-# theo
-
 lipsum doro ENGLISH
