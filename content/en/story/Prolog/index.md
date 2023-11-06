@@ -1,3 +1,9 @@
+---
+title: "Prologue"
+date: 2023-04-17T00:05:37+02:00
+draft: false
+thumbnail: 
+---
 
 In the world of Arkanthia, our journey begins in the land of Zazyrus, in a slave mine called "Gugneaug", where countless slaves mine the valuable rock "Nztrv". The ruler of the mine is Monsieur Chiraque, who lives in the residence of the same name directly behind the mine site.
 
