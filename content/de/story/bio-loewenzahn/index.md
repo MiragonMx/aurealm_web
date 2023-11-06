@@ -1,5 +1,5 @@
 ---
-title: "Bio Löwenzahn"
+title: "Biographie Löwenzahn"
 date: 2023-10-8
 draft: false
 ---
