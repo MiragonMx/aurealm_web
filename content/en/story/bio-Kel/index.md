@@ -17,4 +17,3 @@ Naturally, I am well trained in the use of two-handed implements as thick as a b
 
 I am also highly educated. My outstanding intellect is underlined by my specialisation in the knowledge of foreign peoples and the presentation of particularly sophisticated scripts.
 
-Translated with www.DeepL.com/Translator (free version)
