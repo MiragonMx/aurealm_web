@@ -6,7 +6,7 @@ draft: false
 
 Wir sind eine Gruppe bestehend aus fünf enthusiastischen Nerds, die ihre erste richtige Pen & Paper Kampagne spielen.
 
-Unser Game Master (GM) hatte dann direkt den Wunsch, ein komplett eigenes Homebrew-System inklusive voller Welt zu schaffen und ich wiederum die Motivation, hierfür eine eigene Website zu gestalten und zu verwalten.
+Unser Dungeon Master (DM) hatte dann direkt den Wunsch, ein komplett eigenes Homebrew-System inklusive voller Welt zu schaffen und ich wiederum die Motivation, hierfür eine eigene Website zu gestalten und zu verwalten.
 
 Das ist auch schon der ganze Hintergrund für diese Seite.
 
