@@ -2,7 +2,7 @@
 title: "Prolog"
 date: 2023-04-17T00:05:37+02:00
 draft: true
-thumbnail: 
+thumbnail: img/thumbnail.png
 ---
 In der Welt Arkanthia beginnt unsere Reise im Land Zazyrus, in einer Sklavenmine mit dem Namen "Gugneaug", in der unzählige Sklaven das wertvolle Gestein "Nztrv" schürfen. Der Herrscher über die Mine ist Monsieur Chiraque, welcher in der gleichnamigen Residenz direkt hinter dem Minengelände haust.
 
