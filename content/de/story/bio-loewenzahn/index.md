@@ -2,7 +2,7 @@
 title: "Biographie Löwenzahn"
 date: 2023-10-8
 draft: true
-
+thumbnail: "img/thumbnail.png"
 ---
 
 Mein Name ist Löwenzahn,
