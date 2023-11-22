@@ -2,7 +2,7 @@
 title: "Biographie Aldric von Praven"
 date: 0237-09-22T00:05:41+02:00 
 draft: false
-thumbnail: "img/Aldric.png"
+thumbnail: "img/thumbnail.png"
 ---
 Mein Name ist Aldric, Sohn von Osric, des vorletzten Grafen von Praven und dies ist meine Geschichte.
 
