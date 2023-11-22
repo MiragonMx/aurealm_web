@@ -1,8 +1,8 @@
 ---
 title: "Biography Aldric von Praven"
-date: 2023-04-17T00:05:37+02:00
-draft: true
-thumbnail: 
+date: 0237-09-22T00:05:37+02:00
+draft: false
+thumbnail: "img/Aldric.png"
 ---
 My name is Aldric, son of Osric, the second last Earl of Praven, and this is my story.
 
