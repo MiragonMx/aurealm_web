@@ -1,6 +1,6 @@
 ---
 title: "Kurzbiographie Theobald Bonter"
-date: 2023-04-17T00:05:37+02:00
+date: 0237-09-22T00:05:38+02:00
 draft: false
 thumbnail: "img/theo_thumbnail.png"
 ---
