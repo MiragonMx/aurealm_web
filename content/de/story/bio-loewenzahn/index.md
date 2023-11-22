@@ -1,7 +1,7 @@
 ---
 title: "Biographie Löwenzahn"
 date: 2023-10-8
-draft: true
+draft: false
 thumbnail: "img/thumbnail.png"
 ---
 
