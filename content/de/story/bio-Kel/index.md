@@ -1,5 +1,5 @@
 ---
-title: "Kurzbiographie Kel Tuh Las"
+title: "Biographie Kel Tuh Las"
 date: 0237-09-22T00:05:39+02:00
 draft: false
 thumbnail: "img/thumbnail.png"

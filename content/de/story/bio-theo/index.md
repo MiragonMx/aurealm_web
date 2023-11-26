@@ -1,5 +1,5 @@
 ---
-title: "Kurzbiographie Theobald Bonter"
+title: "Biographie Theobald Bonter"
 date: 0237-09-22T00:05:38+02:00
 draft: false
 thumbnail: "img/theo_thumbnail.png"
