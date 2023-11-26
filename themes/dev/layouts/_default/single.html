@@ -13,6 +13,10 @@
       {{ partial "metadata.html" . }}
       <br><br>
     {{ end }}
+    {{ with  .Resources.GetMatch "img/thumbnail.png" }}
+      <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded" alt="...">
+    {{ end }}
+    <br><br>
 
     {{ .Content }}
   </div>
