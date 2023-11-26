@@ -7,12 +7,18 @@
       {{ .Title }}
     </h1>
 
-    {{ if (strings.Contains "Kurzbiographie Theobald Bonter Biography Theobald Bonter Über uns About Datenschutzerklärung Privacy Policy Impressum" .Page.Title) }}
+    {{ if (strings.Contains "Biographie Kel Tuh Las Biography Kel Tuh Las Biographie Löwenzahn Biography Löwenzahn Biographie Aldric von Praven Biography Aldric von Praven Biographie Theobald Bonter Biography Theobald Bonter Über uns About Datenschutzerklärung Privacy Policy Impressum" .Page.Title) }}
 
     {{ else }}
       {{ partial "metadata.html" . }}
       <br><br>
     {{ end }}
+    {{ with  .Resources.GetMatch "img/thumbnail.png" }}
+      <div class="img-max center">
+        <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded " alt="...">
+      </div>
+    {{ end }}
+    <br>
 
     {{ .Content }}
   </div>
