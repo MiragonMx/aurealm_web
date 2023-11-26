@@ -7,7 +7,7 @@
       {{ .Title }}
     </h1>
 
-    {{ if (strings.Contains "Kurzbiographie Kel Tuh Las Biography Kel Tuh Las Kurzbiographie Löwenzahn Biography Löwenzahn Kurzbiographie Aldric von Praven Biography Aldric von Praven Kurzbiographie Theobald Bonter Biography Theobald Bonter Über uns About Datenschutzerklärung Privacy Policy Impressum" .Page.Title) }}
+    {{ if (strings.Contains "Biographie Kel Tuh Las Biography Kel Tuh Las Biographie Löwenzahn Biography Löwenzahn Biographie Aldric von Praven Biography Aldric von Praven Biographie Theobald Bonter Biography Theobald Bonter Über uns About Datenschutzerklärung Privacy Policy Impressum" .Page.Title) }}
 
     {{ else }}
       {{ partial "metadata.html" . }}
