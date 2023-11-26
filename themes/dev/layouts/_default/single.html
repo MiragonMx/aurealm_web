@@ -14,9 +14,11 @@
       <br><br>
     {{ end }}
     {{ with  .Resources.GetMatch "img/thumbnail.png" }}
-      <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded" alt="...">
+      <div class="img-max center">
+        <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded " alt="...">
+      </div>
     {{ end }}
-    <br><br>
+    <br>
 
     {{ .Content }}
   </div>

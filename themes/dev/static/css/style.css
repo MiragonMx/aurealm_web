@@ -26,8 +26,8 @@ main {
   margin: auto ;
 }
 
-img {
-  max-width: 100% ;
+.img-max {
+  max-width: 400px;
 }
 
 a {
@@ -98,6 +98,10 @@ a {
 
 .card:hover {
   box-shadow: 0 0.1em 0.2em 0 var(--gold), 0 0.2em 0.4em 0 var(--gold);
+}
+
+.center {
+  margin: auto;
 }
 
 /* For TAGLIST.HTML */
