@@ -2,7 +2,7 @@
 title: "Ein neues Abenteuer beginnt"
 date: 1237-09-22T00:10:00+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/thumbnail.jpg
 ---
 
 Nachdem Kel Tuh Las also bei seinem heimlichen Versuch etwas Nztrv zu stehlen erwischt wurde (wer hätte es gedacht bei einem Geschicklichkeitswert von 3/10), muss er nun der sich vor ihm aufbäumenden Wache Rede und Antwort stehen. Dass er dabei von zwei weiteren Wachen festgehalten wird, verhindert wahrscheinlich seine sonstige Strategie in sozialen Konflikten: den Einsatz seiner Faust oder einer magischen Axt.
