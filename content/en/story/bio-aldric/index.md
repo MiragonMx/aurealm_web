@@ -6,7 +6,7 @@ thumbnail: "img/thumbnail.png"
 ---
 My name is Aldric, son of Osric, the second last Earl of Praven, and this is my story.
 
-As these lines are being committed to paper, dear reader, I find myself in the privy of a godless dive, beaten in the company of three, or rather two and a half, savage and boastful, if good-natured, scoundrels, with whom I am now bound by the close bonds of shared exploits and, occasionally, not so shared misdeeds. But first things first. <!--more-->
+As these lines are being committed to paper, dear reader, I find myself in the privy of a godless dive, beaten in the company of three, or rather two and a half, savage and boastful, if good-natured, scoundrels, with whom I am now bound by the close bonds of shared exploits and, occasionally, not so shared misdeeds. But first things first.
 
 My story begins with my first conscious memory in a cosy tower room, when my father showed my three-year-old self the carved family tree of our ancestors. This was a long time ago and even though I can no longer remember my father's face, I can hear the pride in his voice all the more clearly when he talks about our origins. At the time, I couldn't understand what he meant and over the years, the pride in my heritage has turned into a mixture of nostalgia and contempt.
 
