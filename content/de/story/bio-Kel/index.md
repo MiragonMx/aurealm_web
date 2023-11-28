@@ -8,7 +8,7 @@ Mein Name ist Kel-Tuh Las,
 
 ich bin 25, 195 cm groß, mein Brustumfang beträgt ebenfalls 195 cm und ich Bankdrücke mehr als alle anderen, demnach gehört mir dieses Abenteuer und ich bin der alleinige Herrscher hier.
 
-Neben meinen extrem charmanten Auftreten, dem jede Frau sogleich nahezu "magisch" verfällt, bin ich auch noch überaus versiert im Umgang mit sogenannten "Wortwitzen". Meinungsverschiedenheiten werden oft durch meine bloße Präsenz zu meinen Gunsten gewonnen.
+Neben meinen extrem charmanten Auftreten, dem jede Frau sogleich nahezu "magisch" verfällt, bin ich auch noch überaus versiert im Umgang mit sogenannten "Wortwitzen". Meinungsverschiedenheiten werden oft durch meine bloße Präsenz zu meinen Gunsten gewonnen. <!--more-->
 
 Meine treue Weggefährten, die mir schon in einigen Schlachten und kniffligen Situationen mit Rat und Tat zur Seite standen und auf die ich immer blind verlassen kann, sind mir sehr ans Herz gewachsen: Mein bester Freund "Pongo", der blau schimmernde Hund; der mit dem dicksten Geweih im ganzen Wald - mein blau schimmernder Elch, "Dicker Eumel" und meine für aggressive Verhandlungen notwendige, blau schimmernde, total nicht magische Streitaxt Diplomatie.
 
