@@ -6,7 +6,7 @@ thumbnail: "img/thumbnail.png"
 ---
 Mein Name ist Aldric, Sohn von Osric, des vorletzten Grafen von Praven und dies ist meine Geschichte.
 
-Während diese Zeilen zu Papier wandern, werter Leser, befinde ich mich auf dem Abort einer gottlosen Spelunke, geschlagen mit der Gesellschaft von drei, oder besser zweieinhalb, wilden und aufschneiderischen, wenn auch gutmütigen, Halunken, zu denen mich jedoch mittlerweile die enge Bande gemeinsamer Heldentaten und, gelegentlich, nicht so gemeinsamer Untaten bindet. Doch der Reihe nach.
+Während diese Zeilen zu Papier wandern, werter Leser, befinde ich mich auf dem Abort einer gottlosen Spelunke, geschlagen mit der Gesellschaft von drei, oder besser zweieinhalb, wilden und aufschneiderischen, wenn auch gutmütigen, Halunken, zu denen mich jedoch mittlerweile die enge Bande gemeinsamer Heldentaten und, gelegentlich, nicht so gemeinsamer Untaten bindet. Doch der Reihe nach. <!--more-->
 
 Meine Geschichte beginnt mit meiner ersten bewussten Erinnerung in einem behaglichen Turmzimmer, als mein Vater meinem dreijährigen Ich den geschnitzten Stammbaum unserer Ahnen zeigt. Dies ist jetzt lange her und auch wenn ich meines Vaters Gesicht nicht mehr zu erinnern vermag, umso deutlicher höre ich den Stolz in seiner Stimme, als er von unserer Herkunft spricht. Damals konnte ich nicht verstehen, was er meint und über die Jahre hat sich der Stolz auf meine Herkunft in eine Mischung aus Nostalgie und Verachtung gewandelt.
 
