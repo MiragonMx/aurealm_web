@@ -1,13 +1,13 @@
 ---
 title: "Biographie Theobald Bonter"
-date: 0237-09-22T00:05:38+02:00
+date: 1237-09-22T00:05:38+02:00
 draft: false
 thumbnail: "img/theo_thumbnail.png"
 ---
 
 Ich bin Theobald Bonter, aber eigentlich nennen mich alle Theo. Meinen Nachnamen habe ich von meinen bescheiden-bäuerlichen Eltern, Bill und Bo, bei denen ich auf dem Hof in den Bingster Ländereien mit meinem Bruder aufgewachsen bin.
 
-Dort hab ich schnell meine Familie mit meinem Wachstum hinter mir gelassen, denn ich bin mit 98 cm schon einer der größeren Halblinge. Als ich vor einigen Jahren erwachsen wurde, ließ ich diese Heimat dann auch anderweitig hinter mir, denn mir war klar, dass es noch größeres in meinem Leben geben sollte als Kohlköpfe und Heuböden. <!--more--> Seitdem habe ich mich so durchgeschlagen, hier und da meine körperlichen Voraussetzungen zu meinen Gunsten genutzt und meine Fähigkeiten in der flexiblen Beschaffung von Interessensobjekten und Informationen geschärft.
+Dort hab ich schnell meine Familie mit meinem Wachstum hinter mir gelassen, denn ich bin mit 98 cm schon einer der größeren Halblinge. Als ich vor einigen Jahren erwachsen wurde, ließ ich diese Heimat dann auch anderweitig hinter mir, denn mir war klar, dass es noch größeres in meinem Leben geben sollte als Kohlköpfe und Heuböden. Seitdem habe ich mich so durchgeschlagen, hier und da meine körperlichen Voraussetzungen zu meinen Gunsten genutzt und meine Fähigkeiten in der flexiblen Beschaffung von Interessensobjekten und Informationen geschärft.
 
 Letzteres tue ich natürlich auch regelmäßig mit meinem Verteidigungsmittel der Wahl: meinen Dolchen. Diese habe ich in brenzligen Situationen insbesondere aus der Überraschung heraus einzusetzen gelernt und versuche mich ansonsten eher aus Konflikten fernzuhalten - buchstäblich, dabei verlasse ich mich dann (mehr oder weniger berechtigt) auf meine Wurfkünste mit Dolchen, Sternen oder Schleudern. Einstecken kann ich naturgemäß nämlich nicht ganz so gut, aber dafür habe ich inzwischen, nach einem eher unschönen Abschnitt in absoluter Unfreiheit in der Nztrv-Mine 'Gugneaug', meine Gruppe an Unholden gefunden.
 
