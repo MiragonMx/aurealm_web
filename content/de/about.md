@@ -6,8 +6,6 @@ draft: false
 
 Wir sind eine Gruppe bestehend aus fünf enthusiastischen Nerds, die ihre erste richtige Pen & Paper Kampagne spielen.
 
-Unser Dungeon Master (DM) hatte dann direkt den Wunsch, ein komplett eigenes Homebrew-System inklusive voller Welt zu schaffen und ich wiederum die Motivation, hierfür eine eigene Website zu gestalten und zu verwalten.
+Unser Dungeon Master (DM) hatte dann direkt den Wunsch, ein komplett eigenes Homebrew-System inklusive voller Welt zu schaffen und ich wiederum die Motivation, hierfür eine eigene Website zu gestalten und zu verwalten. Das ist auch schon der ganze Hintergrund für diese Seite.
 
-Das ist auch schon der ganze Hintergrund für diese Seite.
-
-Wir haben große Pläne für den weiteren Ausbau, deren genaue zeitliche Umsetzung aber nicht so einfach abzusehen ist.
+Neben einem wöchentlich hochgeladenen Blog, soll in Zukunft auch das Regelwerk umsonst zur Verfügung gestellt, sowie eine Einleitung zur gespielten Kampange hochgeladen werden. Außerdem haben wir große Pläne weitere Features für unsere selbst gespielte Kampagne, wie Karten, Charakterseiten und Bilder,l hinzuzufügen. Deren genaue zeitliche Umsetzung aber aktuell noch nicht abzusehen ist.
