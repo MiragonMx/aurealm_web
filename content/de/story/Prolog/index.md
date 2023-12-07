@@ -4,7 +4,7 @@ date: 1237-09-22T00:05:37+02:00
 draft: false
 thumbnail: img/thumbnail.png
 ---
-In der Welt Arkanthia beginnt unsere Reise im Land Zazyrus, in einer Sklavenmine mit dem Namen "Gugneaug", in der unzählige Sklaven das wertvolle Gestein "Nztrv" schürfen. Der Herrscher über die Mine ist Monsieur Chiraque, welcher in der gleichnamigen Residenz direkt hinter dem Minengelände haust.
+In der Welt Arkanthia beginnt unsere Reise im Land Zazyrus, in einer Sklavenmine mit dem Namen "Gungeaug", in der unzählige Sklaven das wertvolle Gestein "Nztrv" schürfen. Der Herrscher über die Mine ist Monsieur Chiraque, welcher in der gleichnamigen Residenz direkt hinter dem Minengelände haust.
 
 Das Abenteuer beginnt an einem nebligen Morgen, die ersten Sonnenstrahlen bahnen sich durch die aufklarende Wolkendecke, auf dem Vorplatz der "Residenz Chiraque" herrscht Chaos. Karren, Wagen und Pferde laufen durcheinander, während Bedienstete verzweifelt versuchen, diese auf ihre vorgesehenen Plätze
 zu verteilen. Weitere Wagen kämpfen sich über den gepflasterten Weg, der die Residenz durch das Telzer Moor mit der Helenau-Handelsroute verbindet. Vor dem Vorplatz der Residenz erstrecken sich weitreichende Gartenanlagen, während sich hinter ihr das umgegrabene Minengelände befindet. Überall führen 

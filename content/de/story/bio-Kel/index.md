@@ -4,7 +4,7 @@ date: 1237-09-22T00:05:39+02:00
 draft: false
 thumbnail: "img/thumbnail.png"
 ---
-Mein Name ist Kel-Tuh Las,
+Mein Name ist Kel Tuh Las,
 
 ich bin 25, 195 cm groß, mein Brustumfang beträgt ebenfalls 195 cm und ich Bankdrücke mehr als alle anderen, demnach gehört mir dieses Abenteuer und ich bin der alleinige Herrscher hier.
 
