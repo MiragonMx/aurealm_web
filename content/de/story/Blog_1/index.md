@@ -1,6 +1,6 @@
 ---
 title: "Ein neues Abenteuer beginnt"
-date: 1237-09-22T00:10:00+02:00
+date: 1237-09-22T00:10:00+02:00-date: 1237-09-23T00:10:00+02:00
 draft: false
 thumbnail: img/thumbnail.png
 ---
