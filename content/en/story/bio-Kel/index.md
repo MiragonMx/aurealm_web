@@ -5,7 +5,7 @@ draft: false
 thumbnail: "img/thumbnail.png"
 ---
 
-My name is Kel-Tuh Las,
+My name is Kel Tuh Las,
 
 I am 25, 195 cm tall, my chest is also 195 cm wide and I bench press more than anyone else, so this adventure belongs to me and I am the sole ruler here.
 
