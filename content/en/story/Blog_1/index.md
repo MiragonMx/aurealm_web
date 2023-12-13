@@ -3,6 +3,7 @@ title: "A new adventure begins"
 date: 1237-09-22T00:10:00+02:00
 draft: false
 thumbnail: img/thumbnail.png
+summary: "Kel Tuh Las is caught by the guard while trying to steal Nztrv. Accompanied by two guards, the group is led into the storage cellar of the Chiraque residence. Instead of valuable loot, however, all they find is rotten food and dead rats. When a hairy man with a pile of costumes forces them to put them on, the four of them begin to suspect evil. But you can find out what happens next and how Kel shines with more brilliant ideas here."
 ---
 
 After Kel Tuh Las has been caught trying to steal some Nztrv (who would have thought it with a dexterity value of 3/10), he now has to answer the questions of the guard rearing up in front of him. The fact that he is being held down by two other guards probably prevents his usual strategy in social conflicts: using his fist or magic axe.
