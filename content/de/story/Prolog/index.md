@@ -3,6 +3,7 @@ title: "Prolog"
 date: 1237-09-22T00:05:37+02:00
 draft: false
 thumbnail: img/thumbnail.png
+Summary: "In der Welt Arkanthia beginnt unser Abenteuer mit vier Sklaven in der Mine 'Gungeaug', die unter der Herrschaft des berüchtigten Monsieur Chiraque steht. An einem nebligen Morgen müssen unsere Charaktere den wertvollen Stein 'Nztrv' auf einen Zug verladen, der bald in Richtung Front abfährt. Hierbei begeht Kel Tuh Las einen folgenschweren Fehler. Was dieser verbockt hat, erfahrt ihr hier:"
 ---
 In der Welt Arkanthia beginnt unsere Reise im Land Zazyrus, in einer Sklavenmine mit dem Namen "Gungeaug", in der unzählige Sklaven das wertvolle Gestein "Nztrv" schürfen. Der Herrscher über die Mine ist Monsieur Chiraque, welcher in der gleichnamigen Residenz direkt hinter dem Minengelände haust.
 
