@@ -8,6 +8,11 @@ baseURL = 'https://arkanthia.pages.dev'
 title = 'Arkanthia Pen & Paper'
 theme = 'dev'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 defaultContentLanguage = 'de'
 [languages]
   [languages.de]
