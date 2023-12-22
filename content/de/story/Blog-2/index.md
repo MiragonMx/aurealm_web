@@ -15,5 +15,5 @@ Das ihr Plan tatsächlich funktioniert überrascht eigentlich alle Vier so massi
 
 
 <div class="img-max center">
-  <img class="img-fluid" alt="Weltkarte Arkanthia." src="./img/Lit_rassismus.png" />
+  <img class="img-fluid" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>
