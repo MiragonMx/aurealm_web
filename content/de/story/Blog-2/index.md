@@ -1,5 +1,5 @@
 ---
-title: "22.09.237 - Flucht aus der Sklaverei"
+title: "Flucht aus der Sklaverei"
 date: 1237-09-22T00:10:01+02:00
 draft: false
 thumbnail: img/Blog_2.jpg
