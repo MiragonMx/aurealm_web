@@ -16,6 +16,6 @@ The fact that their plan actually works comes as such a massive surprise to all 
 
 
 
-<div class="img-max center">
-  <img class="img-fluid" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
+<div class="center">
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>
