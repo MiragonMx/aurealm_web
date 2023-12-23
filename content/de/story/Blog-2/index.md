@@ -2,7 +2,7 @@
 title: "Flucht aus der Sklaverei"
 date: 1237-09-22T00:10:01+02:00
 draft: false
-thumbnail: img/Blog_2.png
+thumbnail: img/thumbnail.png
 summary: "Unsere Gruppe wird in den letztes Mal erhaltenen Kostümen auf eine kleine Bühne gezerrt und gezwungen, die Besucher des Festes auf dem Vorplatz der Residenz Chiraque zu unterhalten. Leider liegt ihnen die Unterhaltungsbranche nicht so sehr, weshalb sie mit verschiedensten Obst- und Gemüsesorten beworfen werden. Ob sie sich aus dieser Misere befreien, oder doch noch eine künstlerische Glanzleitung aus dem Hut zaubern, erfahrt ihr hier:"
 ---
 
