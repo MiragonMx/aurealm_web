@@ -1,6 +1,6 @@
 ---
 title: "Feandal"
-date: 1237-09-22T00:10:02+02:00
+date: 1237-09-22T00:10:02+02:00-1237-09-23T00:10:02+02:00
 draft: false
 thumbnail: img/thumbnail.png
 summary: "Our group of Kel Tuh Las, Löwenzahn, Theo and Aldric arrive at the small camp in the Telzer swamp, which they discovered last time. Here they meet Feandal the fisherman, who gives them a brief summary of which country and world they live in. After a night in Feandal's camp, he has another mission for our group. You can find out what it is and how the four of them go about it here:"
