@@ -2,7 +2,7 @@
 title: "Zurück bei Chiraque"
 date: 1237-09-23T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_4.jpg
+thumbnail: img/thumbnail.png
 summary: "Unsere vier Abenteurer kehren erschöpft von ihrem Kampf gegen das Riesenkrokodil in der letzten Session zu Feandal ins Lager zurück. Hier erhalten sie nun endlich die lang erwartete, erste Questbelohnung. Außerdem ist Feandal so begeister von ihren Ergebnissen, dass er ihnen direkt einen neuen Auftrag anbietet. Da lassen sich unsere Vier nicht zweimal bitten und nehmen die neue Quest natürlich an. Wo sie diese hinführt, erfahrt ihr hier:"
 ---
 
