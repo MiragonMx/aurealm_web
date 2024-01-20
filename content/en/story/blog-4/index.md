@@ -2,7 +2,7 @@
 title: "Back at Chiraque"
 date: 1237-09-23T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_4.jpg
+thumbnail: img/thumbnail.png
 summary: "Our four adventurers return to Feandal's camp, exhausted from their fight against the giant crocodile in the last session. Here they finally receive their long-awaited first quest reward. Furthermore, Feandal is so enthusiastic about their results that he immediately offers them a new mission. Our four don't need to be asked twice and naturally accept the new quest. You can find out where it takes them here:"
 ---
 
