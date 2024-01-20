@@ -15,6 +15,6 @@ As many disadvantages as one might think of for a reptile several meters tall, i
 
 
 <div class="center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>
 
