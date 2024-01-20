@@ -1,6 +1,7 @@
 ---
 title: "Feandal"
 date: 1237-09-22T00:10:02+02:00
+enddate: 1237-09-23T00:10:02+02:00
 draft: false
 thumbnail: img/thumbnail.png
 summary: "Our group of Kel Tuh Las, Löwenzahn, Theo and Aldric arrive at the small camp in the Telzer swamp, which they discovered last time. Here they meet Feandal the fisherman, who gives them a brief summary of which country and world they live in. After a night in Feandal's camp, he has another mission for our group. You can find out what it is and how the four of them go about it here:"
@@ -13,6 +14,6 @@ The next morning is cold and thick clouds of mist surround the camp. The four of
 As many disadvantages as one might think of for a reptile several meters tall, its size does help in the search. Back at the spot where the four of them observed the fight between the crocodile and the anaconda, they immediately notice a larger, scale-covered mountain on the other side of the lake. With summoned war axe and spears at the ready, Kel Tuh Las and Löwenzahn charge towards the tired-looking reptile. Theo and Aldric, on the other hand, try to pick up some stones so that they at least have something resembling a weapon in their hands. The crocodile seems exhausted and lethargic and does not attack the group directly, which Aldric uses to optimize his fighting position and climb a nearby tree. A stone thrown from the tree finally hits the crocodile on its massive snout. However, this is now too much of a good thing for the crocodile too, and it begins to run towards Kel Tuh Las and Löwenzahn. After two more barrages of stones from Theo and Aldric have hit the crocodile, causing almost no damage, it finally comes within range of Löwenzahn's spears. These don't seem to be of the highest quality either and may be just enough to kill small fish, but they also do little damage to large crocodiles. Fortunately, the group still has a highly illegal mage. Due to a very clumsy character creation, this mage rarely gets a turn, but he does give the crocodile a good beating with his war axe. A hail of stones and wooden spears later, Kel sets off for the finale. As with Emanuel, his axe is once again aimed at the head, but this time he beheads the crocodile cleanly instead of splitting its skull open. In the boundless loot mania, the contents of the animal's stomach are of course also examined. Here the group finds the reason for the crocodile's sluggishness with large quantities of anaconda meat. With several square meters of crocodile skin, pockets full of crocodile meat and a crocodile head in their arms, the group walks back to Feandal's camp, satisfied. You can read what he has to say about this impressive battle trophy next time.
 
 <div class="center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map.jpg" />
 </div>
 
