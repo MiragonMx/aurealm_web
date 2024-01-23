@@ -13,7 +13,6 @@
       {{ partial "metadata.html" . }}
       <br><br>
     {{ end }}
-    {{/*{{ with  .Resources.GetMatch "img/thumbnail.png" }}*/}}
     {{ with .Resources.GetMatch .Params.thumbnail }}
       <div class="img-max center">
         <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded " alt="...">
