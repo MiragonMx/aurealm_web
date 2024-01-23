@@ -7,7 +7,7 @@ Essentials Prio:
 
 - [x] Blog Page
 - [x] Startseite
-- [x] Funktionierende Website lol
+- [x] Funktionierende Website
 
 Essentials weniger Prio:
 
