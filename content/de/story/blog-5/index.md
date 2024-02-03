@@ -1,6 +1,7 @@
 ---
 title: "Von Kohlköpfen und Weizenähren"
-date: 1237-09-24T00:10:03+02:00
+date: 1237-09-23T00:10:04+02:00
+enddate: 1237-09-24T00:10:02+02:00
 draft: false
 thumbnail: img/thumbnail.png
 summary: "Unsere vier Abenteurer kehren erschöpft von ihrem Kampf gegen das Riesenkrokodil in der letzten Session zu Feandal ins Lager zurück. Hier erhalten sie nun endlich die lang erwartete, erste Questbelohnung. Außerdem ist Feandal so begeister von ihren Ergebnissen, dass er ihnen direkt einen neuen Auftrag anbietet. Da lassen sich unsere Vier nicht zweimal bitten und nehmen die neue Quest natürlich an. Wo sie diese hinführt, erfahrt ihr hier:"
