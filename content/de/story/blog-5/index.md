@@ -4,7 +4,7 @@ date: 1237-09-23T00:10:04+02:00
 enddate: 1237-09-24T00:10:02+02:00
 draft: false
 thumbnail: img/Blog_5.jpg
-summary: "Nach der Verabschiedung von Feandal beim letzten Mal, geht es für unsere Vier diesmal raus aus dem Telzer Moor und in Richtung Fichenstein. Auf dem Weg dorthin steht aber noch ein kleiner Abstecher bei Wilhelm und seier reizenden Gattin an. Wie dieses Wiedersehen verläuft und wie unsere ehemaligen Sklaven ihre Sozialkompetenz einsetzen, um an neuen Loot zu kommen, erfahrt ihr hier:"
+summary: "Nach der Verabschiedung von Feandal beim letzten Mal, geht es für unsere Vier diesmal raus aus dem Telzer Moor und in Richtung Fichtenstein. Auf dem Weg dorthin steht aber noch ein kleiner Abstecher bei Wilhelm und seiner reizenden Gattin an. Wie dieses Wiedersehen verläuft und wie unsere ehemaligen Sklaven ihre Sozialkompetenz einsetzen, um an neuen Loot zu kommen, erfahrt ihr hier:"
 ---
 
 Voller Zuversicht, das Telzer Moor endlich hinter sich zu lassen, marschieren unsere vier ehemaligen Sklaven durch eben dieses. Der Tag bei Feandal war jedoch länger als erwartet, und so zwingt die aufkommende Dunkelheit unsere Gruppe dazu, ein provisorisches Lager im Telzer Moor nahe der Helenau-Handelsroute aufzuschlagen. Eine nächtliche Wache, die fairerweise nach zwei Stunden abgelöst wird, sorgt dafür, dass Kel Tuh Las, Theo, Aldric und Löwenzahn nicht von weiteren XXL-Tieren aus dem Telzer Moor angegriffen werden, sondern stattdessen in Ruhe eine Mütze voll Schlaf abbekommen. Der nächste Morgen ist kühl, und ihre provisorischen Betten sind über Nacht durchgeweicht, sodass das Frühstück, bestehend aus Trockenfisch – was auch sonst – fix eingenommen wird und das Lager schnellstens geräumt wird, um sich zu einem gemütlicheren Ort aufzumachen.
