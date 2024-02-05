@@ -1,5 +1,5 @@
 ---
-title: "VoFrom cabbages and ears of wheat"
+title: "From cabbages and ears of wheat"
 date: 1237-09-23T00:10:04+02:00
 enddate: 1237-09-24T00:10:02+02:00
 draft: false
