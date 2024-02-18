@@ -2,8 +2,8 @@
 <div class="card rounded mt-3 mb-3">
   <div class="row g-0">
     <div class="col-md-3">
-      {{ with  .Resources.GetMatch "img/thumbnail.png" }}
-        <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded-start" alt="...">
+      {{ with .Resources.GetMatch .Params.thumbnail }}
+      <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded-start" alt="...">
       {{ end }}
     </div>
     <div class="col-md-9">
