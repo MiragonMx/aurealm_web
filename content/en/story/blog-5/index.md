@@ -1,7 +1,7 @@
 ---
 title: "From cabbages and ears of wheat"
-date: 1237-09-23T00:10:04+02:00
-enddate: 1237-09-24T00:10:02+02:00
+startdate: 1237-09-23T00:10:04+02:00
+endstartdate: 1237-09-24T00:10:02+02:00
 draft: false
 thumbnail: img/Blog_5.jpg
 summary: "After saying goodbye to Feandal last time, this time the four of us head out of the Telzer Moor and towards Fichenstein. On the way there, however, there is a short detour to visit Wilhelm and his lovely wife. Find out how this reunion goes and how our former slaves use their social skills to get new loot here:"

@@ -1,6 +1,6 @@
 ---
 title: "Prologue"
-date: 1237-09-22T00:05:37+02:00
+startdate: 1237-09-22T00:05:37+02:00
 draft: false
 thumbnail: "img/thumbnail.png"
 Summary: "Our adventure begins in the world of Arkanthia with four slaves in the 'Gungeaug' mine, which is under the rule of the notorious Monsieur Chiraque. On a foggy morning, our characters have to load the valuable stone 'Nztrv' onto a train that will soon be leaving for the front. This is where Kel Tuh Las makes a fateful mistake. You can find out what he messed up here:"
