@@ -1,7 +1,7 @@
 ---
 title: "Von Kohlköpfen und Weizenähren"
 startdate: 1237-09-23T00:10:04+02:00
-endstartdate: 1237-09-24T00:10:02+02:00
+enddate: 1237-09-24T00:10:02+02:00
 draft: false
 thumbnail: img/Blog_5.jpg
 summary: "Nach der Verabschiedung von Feandal beim letzten Mal, geht es für unsere Vier diesmal raus aus dem Telzer Moor und in Richtung Fichtenstein. Auf dem Weg dorthin steht aber noch ein kleiner Abstecher bei Wilhelm und seiner reizenden Gattin an. Wie dieses Wiedersehen verläuft und wie unsere ehemaligen Sklaven ihre Sozialkompetenz einsetzen, um an neuen Loot zu kommen, erfahrt ihr hier:"
