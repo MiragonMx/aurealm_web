@@ -1,6 +1,6 @@
 ---
 title: "Biographie Theobald Bonter"
-date: 1237-09-22T00:05:38+02:00
+publishdate: 2023-11-04T13:00:00+02:00
 draft: false
 thumbnail: "img/theo_thumbnail.png"
 ---
@@ -12,4 +12,3 @@ Dort hab ich schnell meine Familie mit meinem Wachstum hinter mir gelassen, denn
 Letzteres tue ich natürlich auch regelmäßig mit meinem Verteidigungsmittel der Wahl: meinen Dolchen. Diese habe ich in brenzligen Situationen insbesondere aus der Überraschung heraus einzusetzen gelernt und versuche mich ansonsten eher aus Konflikten fernzuhalten - buchstäblich, dabei verlasse ich mich dann (mehr oder weniger berechtigt) auf meine Wurfkünste mit Dolchen, Sternen oder Schleudern. Einstecken kann ich naturgemäß nämlich nicht ganz so gut, aber dafür habe ich inzwischen, nach einem eher unschönen Abschnitt in absoluter Unfreiheit in der Nztrv-Mine "Gungeaug", meine Gruppe an Unholden gefunden.
 
 Diese können das schon besser ab und einzelne "hust" Kel Tuh Las "hust" wissen auch ihre Stärke zu betonen, daher bin ich mit ihnen trotz sporadischer absurder Gewaltausbrüche sehr gern unterwegs und habe in dieser gemeinsamen Zeit schon viel gesehen und erreicht - zwischenzeitlich hat es uns sogar bei meiner Familie vorbeigeführt, ob das wirklich eine gute Sache war muss ich noch final für mich überlegen... Aber es kommt sicher noch vieles auf mich zu und ich würde es definitiv nicht gegen die Kohlköpfe tauschen!
-
