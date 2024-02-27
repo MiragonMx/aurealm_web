@@ -1,6 +1,6 @@
 ---
 title: "Biography Kel Tuh Las"
-date: 1237-09-22T00:05:39+02:00
+publishdate: 2023-11-11T13:00:00+02:00
 draft: false
 thumbnail: "img/thumbnail.png"
 ---
@@ -16,4 +16,3 @@ I have grown very fond of my loyal companions, who have stood by my side with he
 Naturally, I am well trained in the use of two-handed implements as thick as a branch, but I also have the delicate touch for one-handed matters.
 
 I am also highly educated. My outstanding intellect is underlined by my specialisation in the knowledge of foreign peoples and the presentation of particularly sophisticated scripts.
-
