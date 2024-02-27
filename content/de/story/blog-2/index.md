@@ -1,5 +1,6 @@
 ---
 title: "Flucht aus der Sklaverei"
+publishdate: 2023-12-23T13:00:00+02:00
 startdate: 1237-09-22T00:10:01+02:00
 draft: false
 thumbnail: img/thumbnail.png

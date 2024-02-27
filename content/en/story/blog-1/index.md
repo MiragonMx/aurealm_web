@@ -1,5 +1,6 @@
 ---
 title: "A new adventure begins"
+publishdate: 2023-12-09T13:00:00+02:00
 startdate: 1237-09-22T00:10:00+02:00
 draft: false
 thumbnail: img/thumbnail.png

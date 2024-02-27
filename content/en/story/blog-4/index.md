@@ -1,5 +1,6 @@
 ---
 title: "Back at Chiraque"
+publishdate: 2024-01-20T13:00:00+02:00
 startdate: 1237-09-23T00:10:03+02:00
 draft: false
 thumbnail: img/thumbnail.png

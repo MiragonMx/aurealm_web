@@ -1,5 +1,6 @@
 ---
 title: "Ein Fass Bier"
+publishdate: 2024-02-17T13:00:00+02:00
 startdate: 1237-09-24T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_6.jpg

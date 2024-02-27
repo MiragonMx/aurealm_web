@@ -1,5 +1,6 @@
 ---
 title: "Feandal"
+publishdate: 2024-01-06T13:00:00+02:00
 startdate: 1237-09-22T00:10:02+02:00
 enddate: 1237-09-23T00:10:02+02:00
 draft: false
