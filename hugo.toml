@@ -4,7 +4,7 @@
 # Copyright 2019-2023 The Bootstrap Authors
 # Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE.md)
 
-baseURL = 'https://arkanthia.pages.dev'
+baseURL = 'https://arkanthia.pages.dev/'
 title = 'Arkanthia Pen & Paper'
 theme = 'dev'
 
