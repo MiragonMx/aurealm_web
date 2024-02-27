@@ -1,7 +1,7 @@
 {{ $dateTime := .Date.Format "2006-01-02" }}
 {{ $dateFormat := "Jan 2, 2006" }}
-{{/*Calendar icon (in game date/timespan)*/}}
 {{ if .Params.startdate }}
+  {{/*Calendar icon (ingame date/timespan)*/}}
   <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" aria-hidden="true" focusable="false"
     fill="currentColor" class="bi bi-calendar4" viewBox="0 0 16 16">
     <path
