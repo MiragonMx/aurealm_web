@@ -1,5 +1,6 @@
 ---
 title: "Der Tag danach"
+publishdate: 2024-03-02T13:00:00+02:00
 date: 1237-09-24T00:10:04+02:00
 enddate: 1237-09-25T00:10:04+03:00
 draft: false
