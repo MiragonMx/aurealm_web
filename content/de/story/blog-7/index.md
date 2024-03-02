@@ -1,7 +1,7 @@
 ---
 title: "Der Tag danach"
 date: 1237-09-24T00:10:04+02:00
-enddate: 1237-09-25T00:10:01+02:00
+enddate: 1237-09-25T00:10:04+03:00
 draft: false
 thumbnail: img/Blog_7.jpg
 summary: "Die kleine Feier unserer vier Freunde neigt sich in dieser Session dem Ende zu. Viel schlimmer als das ist allerdings der nächste Morgen, der von brutalen Kopfschmerzen begleitet wird. Während Aldric und Theo noch etwas auf ihr Leben klar kommen müssen, besuchen Löwenzahn und Kel die kleine Kirche in Fichtenstein. Was Kel für eine Entdeckung auf dem Friedhof der Kirche macht, erfahrt ihr hier:"
