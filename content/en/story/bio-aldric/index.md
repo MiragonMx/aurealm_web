@@ -1,9 +1,10 @@
 ---
 title: "Biography Aldric von Praven"
-date: 1237-09-22T00:05:41+02:00
+publishdate: 2023-11-25T13:00:00+02:00
 draft: false
 thumbnail: "img/thumbnail.png"
 ---
+
 My name is Aldric, son of Osric, the second last Earl of Praven, and this is my story.
 
 As these lines are being committed to paper, dear reader, I find myself in the privy of a godless dive, beaten in the company of three, or rather two and a half, savage and boastful, if good-natured, scoundrels, with whom I am now bound by the close bonds of shared exploits and, occasionally, not so shared misdeeds. But first things first.

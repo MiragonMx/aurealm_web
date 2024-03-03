@@ -1,4 +1,8 @@
-# Rulebook
+---
+title: "Rulebook"
+draft: false
+summary: "Here you can find the rulebook of the arkanthia game system. It is inspired by the How to be a Hero-System and will also be available as a PDF at some point."
+---
 
 Here you can find the rulebook of the arkanthia game system.
 It is inspired by the [*How to be a Hero*-System](https://main.howtobeahero.de/) and will also be available as a PDF at some point.
