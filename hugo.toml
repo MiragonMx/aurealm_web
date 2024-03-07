@@ -12,6 +12,12 @@ theme = 'dev'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
 defaultContentLanguage = 'de'
 [languages]
@@ -115,11 +121,10 @@ defaultContentLanguage = 'de'
     tag = "tags"
 
 [params]
-
-    favicon = "/favicon.ico"
-
-    # footer
-    imprint = "/impressum"
+  math = true
+  favicon = "/favicon.ico"
+  # footer
+  imprint = "/impressum"
 
 [privacy]
   [privacy.disqus]

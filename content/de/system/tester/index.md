@@ -5,3 +5,5 @@ draft: true
 ---
 
 testeertest
+
+$$ AP~=~\frac{\mathrm{Geschicklichkeit}}{2}$$
