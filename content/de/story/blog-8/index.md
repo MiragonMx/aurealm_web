@@ -1,5 +1,6 @@
 ---
 title: "Eine Tour durch Fichtenstein"
+publishdate: 2024-03-17T13:00:00+02:00
 date: 1237-09-25T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_8.jpg
