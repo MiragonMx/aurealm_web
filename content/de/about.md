@@ -4,10 +4,13 @@ date: 2023-10-30T00:25:15+01:00
 draft: false
 ---
 
-Willkommen in der Welt von Arkanthia,
+Willkommen in der Welt von Arkanthia!
 
 wir sind eine Gruppe bestehend aus fünf enthusiastischen Nerds, die ihre erste richtige Pen & Paper Kampagne spielen.
 
-Unser Dungeon Master (DM) hatte dann direkt den Wunsch, ein komplett eigenes Homebrew-System inklusive voller Welt zu schaffen und ich wiederum die Motivation, hierfür eine eigene Website zu gestalten und zu verwalten. Das ist auch schon der ganze Hintergrund für diese Seite.
+Wir sind eine Gruppe begeisterter Nerds, die ihre erste richtige Pen and Paper-Kampagne spielen. Hierfür haben wir ein vollständig eigenes Homebrew-System mit dem Namen Arkanthia entwickelt und eine passende Website erstellt (vielen Dank an Moritz!). Das gesamte Arkanthia-Regelwerk wird euch dann hier bald kostenlos zur Verfügung stehen.
 
-Neben einem wöchentlich hochgeladenen Blog, soll in Zukunft auch das Regelwerk umsonst zur Verfügung gestellt, sowie eine Einleitung zur gespielten Kampange hochgeladen werden. Außerdem haben wir große Pläne weitere Features für unsere selbst gespielte Kampagne, wie Karten, Charakterseiten und Bilder,l hinzuzufügen. Deren genaue zeitliche Umsetzung aber aktuell noch nicht abzusehen ist.
+Zusätzlich laden wir alle zwei Wochen pünktlich zum Wochenende einen Pen and Paper Blog hoch, indem wir selbst eine Kampagne in der Welt von Arkanthia spielen. Nach einer aufregenden Flucht aus einer Sklavenmine erleben hier die vier Helden Theobald Bonter, Aldric von Praven, Kel Tuh Las und Löwenzahn endlich wieder Freiheit. Doch statt ein ruhiges Leben zu führen, taumeln die Vier schnell in die nächstbeste Bar und kurz darauf in ein spannendes Abenteuer, in dem sie sich mit Geheimgilden, staatlicher Verfolgung und ihren erbärmlich schlechten Sozialfähigkeiten herumschlagen müssen.
+
+Neben dem Arkanthia-Regelwerk und dem Pen and Paper Blog planen wir auch einen Pen and Paper Leitfadens für Anfänger hochzuladen. Außerdem haben wir große Pläne, weitere Features für unsere eigene Kampagne hinzuzufügen, wie zum Beispiel Karten, Charakterseiten und Bilder. Wann wir das aber genau schaffen, ist aktuell noch nicht abzusehen.
+
