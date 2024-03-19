@@ -1,7 +1,8 @@
 ---
-title: "Campaign"
+title: "Campaign blogs"
 draft: false
-summary: "Here you can find the individual game sessions of our own campaign as a blog."
+summary: "Here you can find the individual pen and paper game sessions of our own Arkanthia campaign as a blog."
 ---
 
-Here you can find the individual game sessions of our own campaign as a blog.
+Here you can find the individual pen and paper game sessions of our own Arkanthia campaign as a blog.
+
