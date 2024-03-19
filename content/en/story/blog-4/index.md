@@ -1,6 +1,7 @@
 ---
 title: "Back at Chiraque"
-date: 1237-09-23T00:10:03+02:00
+publishdate: 2024-01-20T13:00:00+02:00
+startdate: 1237-09-23T00:10:03+02:00
 draft: false
 thumbnail: img/thumbnail.png
 summary: "Our four adventurers return to Feandal's camp, exhausted from their fight against the giant crocodile in the last session. Here they finally receive their long-awaited first quest reward. Furthermore, Feandal is so enthusiastic about their results that he immediately offers them a new mission. Our four don't need to be asked twice and naturally accept the new quest. You can find out where it takes them here:"
@@ -14,10 +15,8 @@ These lead our four heroes to a small shed opposite the orangery, which is full 
 
 Outside in the fresh air, Kel Tuh Las is also overcome by a desire. Dreaming, he looks through the windows of the orangery and enters without further ado. The remaining three slowly trot into the surprisingly warm orangery. But what awaits them here surprises them even more. They spot a Kel Tuh Las holding an uprooted orange tree in his hands and eating one of its fruits. In his search for free daily rations, it has simply overtaken him, and now they have a portable source of food. Suddenly Theo, Löwenzahn and Aldric are also in the mood for oranges, grab a handful and take a lunch break. The approaching dawn abruptly ends their break and our heroes groan as they rise to their feet again. This time, Löwenzahn leads the group and he hears a loud crash on his way out. After a startled glance over his shoulder, however, he is reassured to see that Kel has merely prepared a second orange tree for repotting and is holding it in his hand with a grin. As soon as he leaves the garden, Kel starts pumping bicep curls with a tree in each hand, but quickly stops when he realizes that this does not lead to a fitness buff.
 
-The return to Feandal is successful despite the twilight, and Feandal can't believe his luck that he can actually hold his pocket watch in his hands again. However, our four adventurers keep their suspicions that Wilhelm is behind the theft to themselves for the time being. Feandal ceremoniously hands them the promised clothes, and a few moments later, Löwenzahn with a mint-colored leather coat over his frog costume, Kel Tuh Las with a peaked cap, coat and corduroy trousers and Aldric with new trousers are standing in Feandal's camp. Although Theo comes away empty-handed in this case, he is more than satisfied with the dagger he has found. So all four can bid a satisfied farewell to Feandal. Their next destination is Wilhelm's farm and the next village, Fichtenstein. But this journey will have to wait until the next round of pen and paper.
+The return to Feandal is successful despite the twilight, and Feandal can't believe his luck that he can actually hold his pocket watch in his hands again. However, our four adventurers keep their suspicions that Wilhelm is behind the theft to themselves for the time being. Feandal ceremoniously hands them the promised clothes, and a few moments later, Löwenzahn with a mint-colored leather coat over his frog costume, Kel Tuh Las with a peaked cap, coat and corduroy trousers and Aldric with new trousers are standing in Feandal's camp. Although Theo comes away empty-handed in this case, he is more than satisfied with the dagger he has found. So all four can bid a satisfied farewell to Feandal. Their next destination is Wilhelm's farm and the next village, Fichtenstein. But this journey will have to wait until the next round of Pen and Paper Arkanthia.
 
 <div class="center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>
-
-

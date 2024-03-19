@@ -3,7 +3,7 @@
   <div class="row g-0">
     <div class="col-md-3">
       {{ with .Resources.GetMatch .Params.thumbnail }}
-      <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded-start" alt="...">
+      <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded" alt="...">
       {{ end }}
     </div>
     <div class="col-md-9">
