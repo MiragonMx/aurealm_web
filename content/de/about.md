@@ -6,9 +6,7 @@ draft: false
 
 Willkommen in der Welt von Arkanthia!
 
-wir sind eine Gruppe bestehend aus fünf enthusiastischen Nerds, die ihre erste richtige Pen & Paper Kampagne spielen.
-
-Wir sind eine Gruppe begeisterter Nerds, die ihre erste richtige Pen and Paper-Kampagne spielen. Hierfür haben wir ein vollständig eigenes Homebrew-System mit dem Namen Arkanthia entwickelt und eine passende Website erstellt (vielen Dank an Moritz!). Das gesamte Arkanthia-Regelwerk wird euch dann hier bald kostenlos zur Verfügung stehen.
+Wir sind eine Gruppe begeisterter Nerds, die ihre erste richtige Pen and Paper Kampagne spielen. Hierfür haben wir ein vollständig eigenes Homebrew-System mit dem Namen Arkanthia entwickelt und eine passende Website erstellt (vielen Dank an Moritz!). Das gesamte Arkanthia-Regelwerk wird euch dann hier bald kostenlos zur Verfügung stehen.
 
 Zusätzlich laden wir alle zwei Wochen pünktlich zum Wochenende einen Pen and Paper Blog hoch, indem wir selbst eine Kampagne in der Welt von Arkanthia spielen. Nach einer aufregenden Flucht aus einer Sklavenmine erleben hier die vier Helden Theobald Bonter, Aldric von Praven, Kel Tuh Las und Löwenzahn endlich wieder Freiheit. Doch statt ein ruhiges Leben zu führen, taumeln die Vier schnell in die nächstbeste Bar und kurz darauf in ein spannendes Abenteuer, in dem sie sich mit Geheimgilden, staatlicher Verfolgung und ihren erbärmlich schlechten Sozialfähigkeiten herumschlagen müssen.
 
