@@ -5,7 +5,7 @@
 # Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE.md)
 
 baseURL = 'https://arkanthia.pages.dev/'
-title = 'Arkanthia: Deine Quelle für Pen and Paper'
+title = 'Arkanthia: Deine Quelle für Pen and Paper Abenteuer'
 theme = 'dev'
 
 [markup]
@@ -20,7 +20,7 @@ defaultContentLanguage = 'de'
     languageName = 'Deutsch'
     languageCode = 'de-DE'
     weight = 1
-    Description = "Willkommen in Arkanthia, der Heimat für Pen and Paper Fans! Hier erfährst du mehr über das kostenlose Pen and Paper Regelwerk Arkanthia und begleitest uns auf eine Reise durch diese magische Welt in unserem Pen and Paper Blog."
+    Description = "Willkommen in Arkanthia, deiner Heimat für Pen and Paper! Endecke unser kostenlose Pen and Paper Regelwerk Arkanthia und begleite uns auf einer Reise durch diese magische Welt in unserem Pen and Paper Blog."
 
 [[languages.de.menu.main]]
     identifier = "home"
@@ -69,7 +69,7 @@ defaultContentLanguage = 'de'
     languageName = 'English'
     languageCode = 'en-US'
     weight = 2
-    Description = "Welcome to Arkanthia, the home of pen and paper enthusiasts! Here you can learn more about the free pen and paper rulebook Arkanthia and join us on a journey through this magical world in our pen and paper blog."
+    Description = "Welcome to Arkanthia, your home for pen and paper! Discover our free pen and paper rulebook Arkanthia and join us on a journey through this magical world in our pen and paper blog."
 [[languages.en.menu.main]]
     identifier = "home"
     name = "Home"
