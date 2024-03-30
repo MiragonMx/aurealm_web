@@ -1,0 +1,31 @@
+---
+title: "Der verschwundene Jarl"
+publishdate: 2024-03-30T13:00:00+02:00
+date: 1237-09-25T00:10:03+02:00
+draft: false
+thumbnail: img/Blog_9.jpg
+summary: "Spätestens seit dem letzten Blog wissen unsere vier Helden: Sie brauchen endlich mal Kohle. Da passender Weise der Jarl von Fichtenstein verschwunden ist, versuchen sie beim dessen Frau ihre Dienste anzubieten. Nachdem sie eine üppige Belohnung ausgehandelt haben, geht´s für die Vier los auf ihre erste Quest. Was sie dort erwartet, erfahrt ihr hier:"
+---
+
+Der letzte Blog endete mit einem brutalen Kassensturz unserer vier Helden, bei dem sie festgestellt haben, dass sie ja wirklich gar nichts an Geld besitzen. Somit muss in dieser Session mal gearbeitet werden, und hierzu begeben sich die vier auch direkt zum Haus des Jarls. Dieser soll nämlich verschwunden sein, und von wem wird man in dem kleinen Kaff Fichtenstein wohl schon so gut bezahlt, als von der Jarlsdame, die sich Sorgen um ihren Ehemann macht.
+
+Keine zwei Minuten später stehen sie also vor der Tür des Jarlshauses und klopfen intensiv an die Tür. Eine dunkelhaarige Frau öffnet ihnen und stellt sich als Franziska vor. Auch ohne sie zu kennen, bemerken unsere Abenteurer direkt, dass kein Mensch so glasige Augen wie Franziska haben kann und sie wohl bis eben noch ihrem Mann hinterhergeweint hat. Kel nutzt die Chance und stellt sich zunächst einmal vor, nur um direkt Tacheles zu sprechen und sie nach ihrem Mann zu fragen. Dieser sei wohl vor wenigen Tagen zum Jagen aufgebrochen, seitdem aber nicht zurückgekehrt. Das sei total untypisch, und entsprechend mache sie sich wahnsinnige Sorgen. Da ja alle vier unserer Helden über erbärmliche Sozialfähigkeiten verfügen, gehen sie auf ihre Emotionen gar nicht weiter ein, sondern fragen nur nach der ausgesetzten Belohnung. Diese beläuft sich auf 200 Silbertaler, die die vier mehr als gut gebrauchen könnten. Somit stimmen sie sofort zu und fragen nur noch nach der groben Richtung, in der sie mit der Suche starten sollten. Die Antwort von Franziska hören sie nur noch beim Weggehen, allerdings kriegen sie immerhin mit, dass sie wohl eher nördlich des Dorfes suchen sollten.
+
+<div class="img-max center">
+  <img class="img-fluid rounded" title="Karte Fichtenstein" alt="Karte Fichtenstein." src="./img/fichtenstein.jpg" />
+</div>
+
+Um etwas Zeit zu sparen, teilen sie sich in zwei Gruppen auf. Während Löwenzahn und Kel Tuh Las quer über die leicht bewaldete Ebene nördlich von Fichtenstein laufen und nach irgendwelchen Hinweisen suchen wollen, läuft Theo gemeinsam mit Aldric die Klippe ab, die sich in einem großen Bogen um jene Ebene zieht und steil ins Meer abfällt. Treffen wollen sie sich dann zum Abend an den Klippen nördlich von Fichtenstein. Damit sie sich auch wiederfinden oder nach Hilfe rufen können, vereinbaren sie einen einheitlichen Notfall-Schrei, welcher sich gut in die hiesige Flora und Fauna integriert. Völlig nachvollziehbar entscheiden sie sich für den Schrei eines Tukans. Nachdem dieser regionale Notruf nun festgelegt wurde, begeben sich die beiden Gruppen auf die Suche. Während sich Aldric und Theo zumindest einen schönen Blick auf den Fichtensteiner Hafen erhofften, der ihnen aber durch dichten Nebel verwehrt blieb, haben Kel und Löwenzahn keine wirklichen Ambitionen, etwas Spannendes zu entdecken. So verstreicht der Nachmittag recht ereignisarm und wird nur durch gelegentliche Highlights wie das Finden eines Blutahornblattes, welches man als Alchemiezutat einsetzen kann, unterbrochen. Etwas niedergeschlagen von diesem doch ziemlich langweiligen Nachmittag finden sich die Vier abends in der Nähe ihres vereinbarten Treffpunktes wieder zusammen. Ohne Zelt oder sonstiges Outdoor-Equipment bleibt ihnen nur der morastige Boden und ihr liebgewonnener Trockenfisch, den sie als Abendbrot genießen. Eine Nachtwache hält unsere Gruppe aufgrund der Nähe zur Metropolregion Fichtenstein nicht für nötig und hat dabei Glück, dass nicht zufällig eine kleine Gruppe Wölfe auf ihr Lager aufmerksam geworden ist.
+
+Der nächste Morgen ist nass, kalt und ungemütlich, und so steht ein bisschen die Frage im Raum, weshalb sie gestern Abend nicht einfach noch eine Stunde zu Udo zurückgelaufen sind, um in einem warmen, gemütlichen Bett zu schlafen. Unabhängig von dieser dusseligen Entscheidung muss nun aber die Suche nach dem Jarl fortgesetzt werden, und wie könnte man sich am Morgen besser stärken, als mit einer Portion nassen und halb aufgeweichtem Trockenfisch. Begeistert davon, das Frühstück hinter sich zu haben, machen sich die Vier wieder auf den Weg, bleiben diesmal aber zusammen, da sich ein Aufteilen nicht so wirklich lohnen würde. So verstreicht auch der Vormittag recht eintönig, und sie entscheiden sich dazu, an einem kleinen, netten See eine Verschnaufpause einzulegen. Dabei fällt ihnen doch glatt eine kleine Holzhütte auf der anderen Seite des Sees auf, aus dessen Schornstein leichte Rauchschwaden kommen. Noch bevor irgendjemand auch nur eine Sekunde verschnaufen durfte, treibt Aldric sie weiter, um die Hütte genauer unter die Lupe zu nehmen.
+
+Schon aus einigen Metern Entfernung fallen ihnen merkwürdige Geräusche auf, die aus der Hütte kommen. So richtig zuordnen können sie diese nicht; es erinnert aber eher an Tiere als an Foltergeschrei oder das, was sie sonst so erwartet haben. Beim Näherkommen und genauem Hinhören können sie tatsächlich eine Mischung aus Katzenmiauen und Gebrüll hören. Etwas überfordert mit dieser unerwarteten Szenerie stehen die vier erst kurze Zeit unschlüssig im Kreis und gucken sich gegenseitig ratlos an, bevor mal wieder Aldric die Initiative ergreift und vorsichtig an die Tür klopft. Was für eine wilde Entdeckung sie in der Hütte machen, erfahrt ihr beim nächsten Mal Pen and Paper Arkanthia.
+
+<div class="center">
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Blog_9.jpg" />
+</div>
+
+
+
+
+
