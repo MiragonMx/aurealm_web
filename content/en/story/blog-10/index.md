@@ -1,5 +1,5 @@
 ---
-title: "The missing Earl"
+title: "A profitable deal"
 publishdate: 2024-04-13T13:00:00+02:00
 date: 1237-09-25T00:10:05+02:00
 draft: false
