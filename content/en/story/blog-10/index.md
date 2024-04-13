@@ -3,7 +3,7 @@ title: "A profitable deal"
 publishdate: 2024-04-13T09:00:00+02:00
 date: 1237-09-25T00:10:05+02:00
 draft: false
-thumbnail: img/Blog_10.jpg
+thumbnail: img/Blog_10.png
 summary: "Last time, our four adventurers discovered a small cabin from which strange noises were coming. This time, they investigate further and knock politely. But there is no response to the knocking, so Löwenzahn carefully peeks through one of the hut's windows. Find out what he discovers here:"
 ---
 
