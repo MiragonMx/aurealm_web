@@ -2,7 +2,7 @@
 title: "Biographie Löwenzahn"
 publishdate: 2023-11-18T13:00:00+02:00
 draft: false
-thumbnail: "img/thumbnail.png"
+thumbnail: "img/Löwenzahn.png"
 ---
 
 Mein Name ist Löwenzahn,

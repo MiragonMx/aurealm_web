@@ -2,7 +2,7 @@
 title: "Biographie Theobald Bonter"
 publishdate: 2023-11-04T13:00:00+02:00
 draft: false
-thumbnail: "img/theo_thumbnail.png"
+thumbnail: "img/Theobald Bonter.png"
 ---
 
 Ich bin Theobald Bonter, aber eigentlich nennen mich alle Theo. Meinen Nachnamen habe ich von meinen bescheiden-bäuerlichen Eltern, Bill und Bo, bei denen ich auf dem Hof in den Bingster Ländereien mit meinem Bruder aufgewachsen bin.

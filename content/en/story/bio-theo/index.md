@@ -2,7 +2,7 @@
 title: "Biography Theobald Bonter"
 publishdate: 2023-11-04T13:00:00+02:00
 draft: false
-thumbnail: "img/theo_thumbnail.png"
+thumbnail: "img/Theobald Bonter.png"
 ---
 
 I'm Theobald Bonter, but everyone actually calls me Theo. I got my surname from my humble farming parents, Bill and Bo, with whom I grew up on the farm in the Bingst farmlands with my brother.
