@@ -3,7 +3,7 @@ title: "A new adventure begins"
 publishdate: 2023-12-09T13:00:00+02:00
 startdate: 1237-09-22T00:10:00+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/Blog_1.png
 summary: "Kel Tuh Las is caught by the guard while trying to steal Nztrv. Accompanied by two guards, the group is led into the storage cellar of the Chiraque residence. Instead of valuable loot, however, all they find is rotten food and dead rats. When a hairy man with a pile of costumes forces them to put them on, the four of them begin to suspect evil. But you can find out what happens next and how Kel shines with more brilliant ideas here:"
 ---
 

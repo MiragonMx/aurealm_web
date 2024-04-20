@@ -3,7 +3,7 @@ title: "Ein neues Abenteuer beginnt"
 publishdate: 2023-12-09T13:00:00+02:00
 startdate: 1237-09-22T00:10:00+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/Blog_1.png
 summary: "Nachdem Kel Tuh Las wird beim Versuch, Nztrv zu stehlen, von der Wache erwischt wird. Von zwei Wachen begleitet, wird die Gruppe in Vorratskeller der Residenz Chiraque geführt. Statt wertvollem Loot, finden sie aber lediglich verrottete Lebensmittel und tote Ratten. Als ein riesiger Mann mit einem Stapel Verkleidungen und sie zwingt, diese anzuziehen, schwant unseren Vier bereits Böses. Doch wie es weiter geht und wie Kel mit weiteren guten Ideen glänzt, erfahrt ihr hier:"
 ---
 
