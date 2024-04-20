@@ -2,7 +2,7 @@
 title: "Prolog"
 publishdate: 2023-11-04T08:00:00+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/Arkanthia_Logo (4_3).png
 Summary: "In der Welt Arkanthia beginnt unser Abenteuer mit vier Sklaven in der Mine 'Gungeaug', die unter der Herrschaft des berüchtigten Monsieur Chiraque steht. An einem nebligen Morgen müssen unsere Charaktere den wertvollen Stein 'Nztrv' auf einen Zug verladen, der bald in Richtung Front abfährt. Hierbei begeht Kel Tuh Las einen folgenschweren Fehler. Was dieser verbockt hat, erfahrt ihr hier:"
 ---
 
