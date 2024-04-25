@@ -1,0 +1,31 @@
+---
+title: "Schatten auf dem Friedhof"
+publishdate: 2024-04-27T09:00:00+02:00
+date: 1237-09-25T00:10:03+02:00
+draft: false
+thumbnail: img/Blog_11.png
+summary: "Our heroes have been showered with money after their last quest and the successful rescue of the Jarl and spend this wealth directly at Hellebard Dark. Now, however, they're broke again and are forced to throw themselves into the next quest and decide to help Herzfried in his search for the mysterious grave robber. You can find out how this works here:"
+---
+
+Nachdem unsere vier Helden beim letzten Mal ihre erste Quest erfolgreich abgeschlossen und den Jarl von Fichtenstein sicher nach Hause gebracht haben, strotzen sie nun nur so vor Reichtum. Um das Geld direkt auf den Kopf zu hauen, begeben sie sich zu Hellebard Dunkel, dem Gemischtwarenhändler von Fichtenstein. In weiser Voraussicht hat Hellebard die bereits am Vortag gepackten Warenkörbe zurückgestellt, so dass der Einkauf nun zügig abgewickelt werden kann. Aldric verlässt den Laden mit einem Bogen, einigen Pfeilen und einer Schlafrolle, während Theo sich noch eine kleine Auswahl an Dolchen und ebenfalls eine Schlafrolle aussucht. Kel benötigt aufgrund seiner magischen Kampfwerkzeuge und dem neuen Jarlsschwert keine Waffen und entscheidet sich daher für eine Melone, um seinem Outfit den letzten Schliff zu geben, einige Tagesrationen und die obligatorische Schlafrolle. Diese nimmt auch Löwenzahn mit und verstaut sie direkt in seinen neu erworbenen Rucksäcken. Dazu kommen noch kleinere Gebrauchsgegenstände wie Wasserschläuche, Feder, Tinte und Papier oder ein Feuerstein. 
+
+Nun sind unsere Vier deutlich besser ausgestattet, dafür aber auch quasi schon wieder blank. Da das System "Quest machen -> Geld haben" beim letzten Mal herausragend funktioniert hat, entschließen sie sich wieder dafür und betreten gemeinsam die Dorfkirche. Schnell finden sie Herzfried, der gerade dabei ist einen Kerzenständer zu entwachsen. Sichtlich genervt von dieser Aufgabe, freut er sich umso mehr darüber, unsere vier Freunde zu sehen und eine kleine Pause einlegen zu können. Die Vier bieten ihm an, sich um sein Friedhofsproblem zu kümmern und in der kommenden Nacht den Friedhof zu beobachten. Sollte jemand auftauchen, der wieder Gräber schändet, soll dieser ergriffen und dingfest gemacht werden. Diese Aussichten heben auch Herzfrieds Laune und machen ihn gleich etwas übermütig. Großmütig bietet er an, dass er sich gerne an der nächtlichen Aktion beteiligen wollen würde. Verdutzt schauen sich die Vier an, aber da es ja seine Kirche, sein Auftrag und schließlich auch sein Grabräuber ist, zucken sie mit den Schultern und akzeptieren die Entscheidung ihres Auftraggebers. Noch ist es aber Nachmittag, sodass sie sich noch kurz von Herzfried verabschieden, um bei Udo etwas Vernünftiges essen und sich gegebenenfalls kurz frisch machen zu können (Kel und Löwenzahn legen darauf natürlich nicht so viel Wert, sie konzentrieren sich lieber darauf, noch ein Bier trinken zu können). 
+
+<div class="img-max center">
+  <img class="img-fluid rounded" title="Karte Fichtenstein" alt="Karte Fichtenstein." src="./img/fichtenstein.jpg" />
+</div>
+
+Gegen neun Uhr kehrt unsere Gruppe mit den neuen Schlafrollen in die Kirche zurück und macht es sich in den Bänken bequem. Sie beschließen, dass immer zwei Leute Wache halten, während sich die anderen beiden aufs Ohr hauen können. Nach zwei Stunden wird dann gewechselt. Noch bevor es überhaupt so richtig losgeht, verabschiedet sich Herzfried dann auch schon ins Bett und unseren Vieren wird schnell klar, warum er selbst bei der Ergreifung des Grabräubers nie so richtig weitergekommen ist. Während Aldric und Theo die erste Wache übernehmen, probieren Löwenzahn und Kel Tuh Las ihre frisch erworbenen Schlafrollen aus, um es sich für die nächsten zwei Stunden gemütlich zu machen. Und so vergeht der Großteil der Nacht. Sehr ereignisarm und nur gelegentlich durch ihre Wachwechsel unterbrochen. 
+
+Doch dann, wir befinden uns bereits in der dritten Schicht von Theo und Aldric, sieht Aldric einen Schatten, der sich über die kleine Holzpalisade Fichtensteins schwingt. Sofort sind beide hellwach und Theo macht sich auf den Weg, um die anderen beiden zu wecken. Währenddessen beobachtet Aldric, wie der Schatten geduckt über den kleinen Friedhof schleicht. Dabei nimmt dieser die Grabsteine genau unter die Lupe und es scheint, als würde er einen bestimmten suchen. Unsere Vier verharren dabei erst mal in der Kirche und beobachten die Situation weiter. Schließlich scheint die Person ihr Ziel erreicht zu haben und kramt einen Spaten aus ihrem Umhang. Doch auch die ersten Spatenstiche schaut sich unsere Gruppe noch gemütlich durch die Kirchenfenster an. Als die Person langsam außer Puste gerät, sehen sie aber endlich ihre Chance. Vorsichtig schleichen sie über den Friedhof und überrumpeln die Gestalt, die bereits bis zu den Knien in einem Erdloch steht. Keine zwei Sekunden später liegt sie dann aber und hat auch noch einen Halbork auf der Brust sitzen, der sie grinsend ansieht. Währenddessen beginnen die anderen Drei bereits damit, der Person Fesseln anzulegen. Gefühlvoll wird der Grabräuber dann aus dem Grab gehievt und an den nächstbesten Baum gelehnt, wo das Verhör stattfinden soll. Taktvoll beginnt Kel direkt, indem er folgende, diplomatisch wertvolle Frage stell: "Was soll die Scheiße?". Verwirrt blickt der junge Typ, den sie gerade aus dem Grab gezogen haben, den Muskelberg mit dem Namen Kel Tuh Las an. Nach etwas Gestotter nuschelt er etwas von wegen "Das hab ich als Auftrag bekommen" in seinen nicht vorhandenen Bart. Nach einigen Minuten Verhör sind unsere Vier dann aber primär genervt von ihrem Gefangenen, der sich inzwischen als Karl Flittenberg vorgestellt hat. Neben seinem Namen hat dieser nämlich eigentlich gar nichts verraten. Dies reicht unseren Abenteurern aber nicht so wirklich und sie schalten einen Gang höher. Wie genau das aussieht und ob sie doch noch die ein oder andere Information aus Karl herausquetschen können, erfahrt ihr beim nächsten Mal bei Arkanthia Pen and Paper.
+
+<div class="center">
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein.jpg" />
+</div>
+
+
+
+
+
+
+
