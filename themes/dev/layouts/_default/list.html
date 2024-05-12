@@ -7,11 +7,13 @@
     </h1>
 
     {{ .Content }}
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) 10 }}
+    {{ range $paginator.Pages }}
       <div class="card-container">
         {{ partial "widgets/post-card.html" . }}
       </div>
     {{ end }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 </div>
 {{ end }}
