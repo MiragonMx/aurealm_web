@@ -31,7 +31,7 @@ Ungefähr 45 Minuten später erreichen sie einen gemütlichen Hafen. Einige Lage
 Bei seiner Rückkehr wird er dann direkt mit einem Trommelfeuer aus Fragen gelöchert und er erklärt, dass es gerade nichts Aufregendes im Hafen geschieht, dass drei Schiffe im Hafen liegen und dass vor kurzem ein Schiff aus Ulana Nana vor der Küste verschwunden sei. Außerdem könnten sie natürlich auch bei ihm übernachten oder essen, je nachdem, wonach ihnen der Sinn steht. Dieser steht ihnen aktuell primär nach saufen, weshalb sie sich ins Barleben der "saufenden Meerjungfrau" werfen. Wie das ausgeht, erfahrt ihr aber erst in zwei Wochen bei Arkanthia Pen and Paper.
 
 <div class="center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
 </div>
 
 
