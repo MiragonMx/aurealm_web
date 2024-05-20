@@ -69,7 +69,17 @@ $$ **Ausweichen** = \left(Geschicklichkeit \over 2 \right)$$
 
 Fähigkeiten sind Tätigkeiten, die ein Charakter explizit gelernt oder gemeistert hat. Jeder Fähigkeit können Fähigkeitspunkte (FP) zugeteilt werden. Je mehr Fähigkeitspunkte in eine Fähigkeit investiert werden, desto stärker ist dein Charakter in dieser. Jede Fähigkeit ist einer von den drei Begabungen *Handeln*, *Soziales* und *Wissen* zuzuordnen.
 
+* **Handeln:** Eine Handlung ist, was dein Charakter aktiv tut. Handeln hat vor allem eine physische Komponente. Körperlich anstrengende Aktionen (z.B. das Anheben eines schweren Gegenstands oder das Fällen von Bäumen) zählen genauso in diese Gruppe wie feinmotorische Aktionen (bspw. das Schnitzen einer Holzfigur).
+	
+* **Wissen:** Wissen braucht dein Charakter beispielsweise, um einefremde Sprache zu verstehen, politische Differenzen einordnen zu können, mathematische Zusammenhänge nachzuvollziehen oder Pflanzen und Tiere unterscheiden zu können.   Fähigkeiten, die in der Gruppe Wissen eingeordnet sind, gelten oft als neutral und analytisch. Hierunter fallen meist geistige Fähigkeiten, die besonders von Intelligenz und Bildung abhängen.
+	
+* **Soziales:** Soziale Fähigkeiten werden vor allem bei der Interaktion mit Nicht Spieler Charakteren notwendig. Soziales beschreibt also vor allem Fähigkeiten, die mit zwischenmenschlicher Interaktion zu tun haben. Hierzu gehören aktive Fähigkeiten wie Lügen oder Manipulieren, aber auch passive Fähigkeiten wie beispielsweise Menschenkenntnis.
 
+Um eine Aktion auszuführen, muss mit einem W20 auf den dazugehörigen Fähigkeitswert geworfen werden. Falls eine Aktion ausgeführt werden soll, die nicht gelernt wurde, muss eine Probe auf den Wert der Begabung gewürfelt werden. Würfe auf Begabungen können weder kritische Erfolge erzielen, noch kritisch fehlschlagen. Der Begabungswert berechnet sich mit der folgenden Formel:
+	
+	$$Begabungswert = \sum Fähigkeitsspunkte \over 10 \leq 8$$
+	
+Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben, als zu versuchen, auf die Begabung zu würfeln. Ist eine Fähigkeit gelernt, ihr Wert aber geringer als der zugehörige Begabungswert, ergibt sich als auf den zu würfelnden Wert: $Begabungswert + 1$. Hierzu ein kleines Beispiel: Dein Charakter befindet sich gerade im Wald und möchte die Spuren eines Rehs verfolgen. der Charakter hat dabei einen Begabungswert von 5 in der Kategorie *Wissen*, allerdings nur 3 Fähigkeitspunkte in der Fähigkeit *Spuren lesen*. Da dein Begabungswert nun höher ist als den Fähigkeitswert, wird statt auf den Fähigkeitswert auf den $Begabungswert + 1$ gewürfelt, in diesem Falle also auf den Wert 6 (5+1). Fähigkeiten lassen sich immer in eine der drei Begabungen einordnen. Solltest es nicht eindeutig sein, in welche Begabung eine Fähigkeit fällt, entscheidet der DM. Im folgenden sind einigen möglichen Fähigkeiten vorgestellt und den entsprechenden Begabungen zugeordnet.
 
 
 
