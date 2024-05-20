@@ -33,7 +33,7 @@ Aus den Attributen deines Charakter berechnen sich nun folgende Werte:
 Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser über den Schwellenwert von 10% bzw. 25% (je nachdem aus welchem Grund der Charakter bewusstlos geworden ist) geheilt werden. Alternativ ist es auch möglich, durch einen Wurf auf eine Fähigkeit (beispielsweise auf *Medizin*) den Helden zurück in die Gegenwart zu holen. Hier entschiedet der DM, ob eine Fähigkeit geeignet dafür ist.
 Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich und die Treffer-Punkte regenerieren sich von alleine. Dies wird in der Regeneration pro In-Game-Stunde angegeben, also in der Zeit, welche die Spieler-Charaktere erleben. Eine schwere Verletzung kann auch dazu führen, dass die Regenerationsrate reduziert wird.
 	
-$$ **Treffer-Punkte** = \left(Stärke + Konstitution \over 2 \right) \cdot Level + 10$$
+$$ **Treffer-Punkte** = &&\left(Stärke \over 2 + Konstitution \over 4 \right) \cdot Level + 10$$
 $$ **TP-Regeneration / h** = \left(max. TP \over 10\right) - X (Art der Verletzung)$$		
 
  
@@ -153,4 +153,32 @@ Sobald der Kampf beginnt, beginnt auch der DM mit dem Hochzählen. Weder bei der
 | 10.5 | Lisbeth |
 | 11 | - |
 | 12 | Banditen |
+
+
+# Charaktererstellung Beispiel
+Hier ist natürlich grundlegend einmal wichtig, eurem Charakter einen Namen, ein Alter und eine Geschichte zu geben. Versucht euch zu überlegen, was die Ziele eures Charakters im Leben sind, was ihn bisher beeinflusst hat, welche Werte ihm wichtig sind und ob er irgendwelche Ticks oder Verhaltensmuster hat. Macht euch hier wirklich in Ruhe Gedanken und überlegt euch, welchen Charakter ihr selbst spielen und auch ausleben wollt.
+Nun geht es an die Vergabe der Werte. Der hier vorgestellte Beispielscharakter soll den Namen Verlon haben, der mit 21 Jahren noch recht jung ist. Verlon ist nicht der hellste, physisch aber sehr gut aufgestellt. Charisma und Geschicklichkeit sind bei ihm leicht unterdurchschnittlich. So ergeben sich folgende Attributs-Werte:
+
+| Attribut <img width=500/> | Attributs-Wert <img width=500/> | 
+| :---: | :---: |
+| Stärke | 7 |
+| Geschicklichkeit | 4 | 
+| Konstitution | 8 |
+| Intelligenz | 2 |
+| Charisma | 4 |
+
+Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigkeit, kann dies später aber bei jedem Levelaufstieg nachholen. Damit ergeben sich für ihn folgende Werte:
+
+| Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> | 
+| :---: | :---: | :---: |
+| Trefferpunkte | &&\left(Stärke \over 2 + Konstitution \over 4 \right) \cdot Level + 10$$ | &&\left(7 \over 2 + 4 \over 4 \right) \cdot 1 + 10 = 15.5 $$
+
+
+
+
+
+
+
+
+
 
