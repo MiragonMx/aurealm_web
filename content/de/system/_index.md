@@ -88,8 +88,9 @@ Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben
 | Einhändig (Waffenführung) | Zweihändig (Waffenführung) | Schießen | Werfen | Faustkampf | Schleichen |
 | Klettern | Schwimmen | Jagen | Akrobatik | Reiten | Angeln |
 
-| Soziales <img width=50/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
+| Soziales | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | Plaudern | Überzeugen | Lügen | Begeistern | Beruhigen | Flirten |
 | Humor | Raus reden | Führen | Manipulieren | Feilschen |  |
 
