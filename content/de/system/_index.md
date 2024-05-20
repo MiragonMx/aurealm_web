@@ -32,10 +32,10 @@ Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich un
 $$ **Treffer-Punkte** = \left(Stärke + Konstitution \over 2 \right) \cdot Level + 10$$
 $$ **TP-Regeneration / h** = \left(max. TP \over 10\right) - X (Art der Verletzung)$$		
 	
-* **Mana:** Mana ist eine Ressource, die bei jedem Zauber verbraucht wird. Wenn die gesamte Mana vollständig verbraucht wurde, hat dies keine weiteren Effekte auf den Charakter. Hat ein Held allerdings nicht genügend Mana für einen Zauber, kann dieser nicht gewirkt werden. Versucht es der Charakter trotzdem, wird die verbliebene Mana restlos verbraucht und der DM kann individuell mit der Situation umgehen. Es ist bspw. möglich, dass der Zauber schwächer wirkt, andere Nebeneffekte, oder einfach gar keinen Effekt hat. Die maximalen Mana-Punkte sind neben der Intelligenz und dem Level des Heldens auch von dem Fähigkeitswert *Magiefähigkeit* abhängig, der aktiv verbessert werden kann. Wie dein Charakter Fähigkeiten erhält, erfährst du später im Regelwerk.
+* **Mana-Punkte:** Mana-Punkte sind eine Ressource, die bei jedem Zauber verbraucht wird. Wenn die gesamten Mana-Punkte vollständig verbraucht wurde, hat dies keine weiteren Effekte auf den Charakter. Hat ein Held allerdings nicht genügend Mana-Punkte für einen Zauber, kann dieser nicht gewirkt werden. Versucht es der Charakter trotzdem, werden die verbliebene Mana-Punkte restlos verbraucht und der DM kann individuell mit der Situation umgehen. Es ist bspw. möglich, dass der Zauber schwächer wirkt, andere Nebeneffekte, oder einfach gar keinen Effekt hat. Die maximalen Mana-Punkte sind neben der Intelligenz und dem Level des Heldens auch von dem Fähigkeitswert *Magiefähigkeit* abhängig, der aktiv verbessert werden kann. Wie dein Charakter Fähigkeiten erhält, erfährst du später im Regelwerk.
 Der Mana-Vorrat jedes Charakters regeneriert sich ebenfalls mit der In-Game-Zeit.		
 
-$$ **Mana-Punkte:** = \left(Intelligenz \cdot Level \over 2 \right) + *Magiefähigkeit* + 10$$
+$$ **Mana-Punkte:** = \left(Intelligenz \cdot Level \over 2 \right) + Magiefähigkeit + 10$$
 $$ **Mana-Regeneration / h** = \left(max. Mana \over 10\right)$$			
 
 Hier findet sich das Regelwerk des arkanthia Spielsystems.
