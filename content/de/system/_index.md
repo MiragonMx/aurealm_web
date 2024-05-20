@@ -82,17 +82,17 @@ $$Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8$$
 Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben, als zu versuchen, auf die Begabung zu würfeln. Ist eine Fähigkeit gelernt, ihr Wert aber geringer als der zugehörige Begabungswert, ergibt sich als auf den zu würfelnden Wert: $Begabungswert + 1$. Hierzu ein kleines Beispiel: Dein Charakter befindet sich gerade im Wald und möchte die Spuren eines Rehs verfolgen. der Charakter hat dabei einen Begabungswert von 5 in der Kategorie *Wissen*, allerdings nur 3 Fähigkeitspunkte in der Fähigkeit *Spuren lesen*. Da dein Begabungswert nun höher ist als den Fähigkeitswert, wird statt auf den Fähigkeitswert auf den $Begabungswert + 1$ gewürfelt, in diesem Falle also auf den Wert 6 (5+1). Fähigkeiten lassen sich immer in eine der drei Begabungen einordnen. Solltest es nicht eindeutig sein, in welche Begabung eine Fähigkeit fällt, entscheidet der DM. Im folgenden sind einigen möglichen Fähigkeiten vorgestellt und den entsprechenden Begabungen zugeordnet.
 
 
-| Handeln <img width=250/> | <img width=250/> | <img width=250/> | <img width=250/>> | <img width=250/> | <img width=250/> |
+| Handeln  | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | --- | --- |--- | --- |--- | --- |
 | Einhändig (Waffenführung) | Zweihändig (Waffenführung) | Schießen | Werfen | Faustkampf | Schleichen |
 | Klettern | Schwimmen | Jagen | Akrobatik | Reiten | Angeln |
 
-| Soziales | | | | | |
+| Soziales | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | --- | --- |--- | --- |--- | --- |
 | Plaudern | Überzeugen | Lügen | Begeistern | Beruhigen | Flirten |
 | Humor | Raus reden | Führen | Manipulieren | Feilschen |  |
 
-| Wissen | | | | | |
+| Wissen | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | --- | --- |--- | --- |--- | --- |
 | Medizin | Tiere | Pflanzen | Alchemie | Kochen | Mechanik|
 | Magiefähigkeit | Schlösserknacken | Spuren lesen | Schmieden | Holzbearbeitung | Religion |
@@ -116,7 +116,7 @@ Vor dem Skillen der Fähigkeiten werden diese Fertigkeiten mit dem Wert 1 in die
 
 Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkeitspunkte auf Fähigkeiten verteilen. Grundsätzlich dürfen unbegrenzt FPs pro Fähigkeit verteilt werden, wobei die Entwicklung von Fähigkeiten mehr FPs kostet, je höher die Fähigkeit entwickelt wird.
 
-| Fähigkeitswert | Kosten | 
+| Fähigkeitswert <img width=500/> | Kosten <img width=500/> | 
 | --- | --- |
 | 0-4 | 1 FP |
 | 5-9 | 2 FP | 
