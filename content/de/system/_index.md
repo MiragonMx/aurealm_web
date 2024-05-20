@@ -90,11 +90,10 @@ Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben
 
 | Soziales | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | Plaudern | Überzeugen | Lügen | Begeistern | Beruhigen | Flirten |
 | Humor | Raus reden | Führen | Manipulieren | Feilschen |  |
 
-| Wissen <img width=30/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
+| Wissen <img width=80/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Medizin | Tiere | Pflanzen | Alchemie | Kochen | Mechanik|
 | Magiefähigkeit | Schlösserknacken | Spuren lesen | Schmieden | Holzbearbeitung | Religion |
