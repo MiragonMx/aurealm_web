@@ -173,7 +173,7 @@ Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigke
 | :---: | :---: | :---: |
 | Trefferpunkte | $(\frac{Stärke}{2} + \frac{Konstitution}{4}) \cdot Level + 10$ | $(\frac{7}{2} + \frac{4}{4}) \cdot 1 + 10 = 15.5$ |
 | TP-Regeneration / h | $(\frac{max. TP}{10}) - X (Art der Verletzung)$ | $(\frac{15.5}{10} + \frac{4}{4}) - 0 = 1.6 (gerundet)$ |
-| Mana-Punkte | $(\frac{Intelligenz \cdot Level}{2}) + Magiefähigkeit \cdot 10$ | $(\frac{2 \cdot 1}{2}) + *0* \cdot 10 = 1$ |
+| Mana-Punkte | $(\frac{Intelligenz \cdot Level}{2}) + Magiefähigkeit \cdot 10$ | $(\frac{2 \cdot 1}{2}) + 0 \cdot 10 = 1$ |
 | Mana-Regeneration / h | $(\frac{max. Mana}{10})$ | $(\frac{1}{10}) = 0.1 $ |
 | Mentale Belastbarkeit | $(\frac{Charisma \cdot Level}{2}) + 50 $ | $(\frac{4 \cdot 1}{2}) + 50 = 52$ |
 | MB-Regeneration / h | $(\frac{max. MB}{10}) - X (Art der Verstörung)$ | $(\frac{52}{10}) = 5.2 $ |
