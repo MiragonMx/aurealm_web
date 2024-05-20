@@ -171,8 +171,8 @@ Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigke
 
 | Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> | 
 | :---: | :---: | :---: |
-| Trefferpunkte | $(\frac{Stärke}{2} + \frac{Konstitution}{4}) \cdot Level + 10$ | &\left(\frac{7}{2} + \frac{4}{4}\right) \cdot 1 + 10 = 15.5$
-
+| Trefferpunkte | $(\frac{Stärke}{2} + \frac{Konstitution}{4}) \cdot Level + 10$ | &(\frac{7}{2} + \frac{4}{4}) \cdot 1 + 10 = 15.5$ |
+| TP-Regeneration / h | $(\frac{max. TP}{10}) - X (Art der Verletzung)$ | &(\frac{15.5}{10} + \frac{4}{4}) - 0 = 1.6 (gerundet)$ |
 
 
 
