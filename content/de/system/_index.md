@@ -82,18 +82,18 @@ $$Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8$$
 Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben, als zu versuchen, auf die Begabung zu würfeln. Ist eine Fähigkeit gelernt, ihr Wert aber geringer als der zugehörige Begabungswert, ergibt sich als auf den zu würfelnden Wert: $Begabungswert + 1$. Hierzu ein kleines Beispiel: Dein Charakter befindet sich gerade im Wald und möchte die Spuren eines Rehs verfolgen. der Charakter hat dabei einen Begabungswert von 5 in der Kategorie *Wissen*, allerdings nur 3 Fähigkeitspunkte in der Fähigkeit *Spuren lesen*. Da dein Begabungswert nun höher ist als den Fähigkeitswert, wird statt auf den Fähigkeitswert auf den $Begabungswert + 1$ gewürfelt, in diesem Falle also auf den Wert 6 (5+1). Fähigkeiten lassen sich immer in eine der drei Begabungen einordnen. Solltest es nicht eindeutig sein, in welche Begabung eine Fähigkeit fällt, entscheidet der DM. Im folgenden sind einigen möglichen Fähigkeiten vorgestellt und den entsprechenden Begabungen zugeordnet.
 
 
-| Handeln <img width=50/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
-| --- | --- |--- | --- |--- | --- |
+| Handeln <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Einhändig (Waffenführung) | Zweihändig (Waffenführung) | Schießen | Werfen | Faustkampf | Schleichen |
 | Klettern | Schwimmen | Jagen | Akrobatik | Reiten | Angeln |
 
-| Soziales <img width=50/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
-| --- | --- |--- | --- |--- | --- |
+| Soziales <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Plaudern | Überzeugen | Lügen | Begeistern | Beruhigen | Flirten |
 | Humor | Raus reden | Führen | Manipulieren | Feilschen |  |
 
-| Wissen <img width=50/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
-| --- | --- |--- | --- |--- | --- |
+| Wissen <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Medizin | Tiere | Pflanzen | Alchemie | Kochen | Mechanik|
 | Magiefähigkeit | Schlösserknacken | Spuren lesen | Schmieden | Holzbearbeitung | Religion |
 
@@ -117,7 +117,7 @@ Vor dem Skillen der Fähigkeiten werden diese Fertigkeiten mit dem Wert 1 in die
 Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkeitspunkte auf Fähigkeiten verteilen. Grundsätzlich dürfen unbegrenzt FPs pro Fähigkeit verteilt werden, wobei die Entwicklung von Fähigkeiten mehr FPs kostet, je höher die Fähigkeit entwickelt wird.
 
 | Fähigkeitswert <img width=500/> | Kosten <img width=500/> | 
-| --- | --- |
+| :---: | :---: |
 | 0-4 | 1 FP |
 | 5-9 | 2 FP | 
 | 10-14 | 3 FP |
@@ -144,8 +144,8 @@ Das Kampfsystem ist sehr offen gehalten und hauptsächlich von dem Initiativewer
 Ein Beispiel vereinfacht wahrscheinlich den Ablauf eines Kampfes. Nehmen wir an, die Gruppe besteht aus zwei Charakteren, nämlich dem Kämpfer Silvio mit einer Initiative von 5, und der Jägerin Lisbeth mit einer Initiative von 3.5. Die Banditen, gegen die die beiden kämpfen, haben eine Initiative von 4.
 Sobald der Kampf beginnt, beginnt auch der DM mit dem Hochzählen. Weder bei der 1, der 2, noch bei der 3 wurde eine Initiative eines Charakters erreicht, doch jetzt bei der 3.5 ist Lisbeth dran und schießt einem der drei Banditen mit einem Pfeil in die Schulter. Dieser sinkt zu Boden und ist fürs erste bewegungsunfähig, seine nächste Kampfrunde wird also ausgesetzt. Du zählst weiter und bei der Zahl 4 sind die verbleibenden zwei Banditen an der Reihe. Diese müssen nun erstmal 5 Meter auf die Gruppe zulaufen, um diese angreifen zu können. Dies verbraucht die Reichweite der Banditen komplett und sie können keine weitere Aktion ausführen. Da die Banditen jetzt direkt vor Silvio stehen, muss dieser nicht laufen, sondern kann bei der Zahl 5 nun direkt angreifen. Dies nutzt er auch und sticht mit seinem großen Zweihänder auf einen der Banditen ein. Dieser  würfelt aber erfolgreich auf 'Ausweichen' und weicht Silvios starkem Angriff aus. Der DM zählst weiter zur 6, hier ist niemand an der Reihe, bei der 7 ist jetzt aber Lisbeth dran, da diese einen Initiative-Wert von 3.5 hat und mit der Zahl 7 das Doppelte Ihrer Initiative erreicht wurde. Lisbeth feuert erneut, verfehlt aber leider ihr Ziel. Der Kampf führt sich jetzt weiter fort, die weitere Reihenfolge ist hier einmal aufgeführt:
 
-| Kampfrunde | Aktive Charaktere | 
-| --- | --- |
+| Kampfrunde <img width=500/> | Aktive Charaktere <img width=500/> | 
+| :---: | :---: |
 | 8 | Banditen (auch der eine Bandit, der eben aussetzen musste) |
 | 9 | - | 
 | 10 | Silvio |
