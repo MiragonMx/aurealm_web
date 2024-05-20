@@ -82,21 +82,76 @@ $$Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8$$
 Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben, als zu versuchen, auf die Begabung zu würfeln. Ist eine Fähigkeit gelernt, ihr Wert aber geringer als der zugehörige Begabungswert, ergibt sich als auf den zu würfelnden Wert: $Begabungswert + 1$. Hierzu ein kleines Beispiel: Dein Charakter befindet sich gerade im Wald und möchte die Spuren eines Rehs verfolgen. der Charakter hat dabei einen Begabungswert von 5 in der Kategorie *Wissen*, allerdings nur 3 Fähigkeitspunkte in der Fähigkeit *Spuren lesen*. Da dein Begabungswert nun höher ist als den Fähigkeitswert, wird statt auf den Fähigkeitswert auf den $Begabungswert + 1$ gewürfelt, in diesem Falle also auf den Wert 6 (5+1). Fähigkeiten lassen sich immer in eine der drei Begabungen einordnen. Solltest es nicht eindeutig sein, in welche Begabung eine Fähigkeit fällt, entscheidet der DM. Im folgenden sind einigen möglichen Fähigkeiten vorgestellt und den entsprechenden Begabungen zugeordnet.
 
 
-| Handeln | | | |  | |
+| Handeln | | | | | |
 | --- | --- |--- | --- |--- | --- |
-| Einhändig (Waffenführung) | Zweihändig (Waffenführung) | Schießen | Werfen | Faustkampf | Schleichen|
+| Einhändig (Waffenführung) | Zweihändig (Waffenführung) | Schießen | Werfen | Faustkampf | Schleichen |
 | Klettern | Schwimmen | Jagen | Akrobatik | Reiten | Angeln |
 
+| Soziales | | | | | |
+| --- | --- |--- | --- |--- | --- |
+| Plaudern | Überzeugen | Lügen | Begeistern | Beruhigen | Flirten |
+| Humor | Raus reden | Führen | Manipulieren | Feilschen |  |
+
+| Wissen | | | | | |
+| --- | --- |--- | --- |--- | --- |
+| Medizin | Tiere | Pflanzen | Alchemie | Kochen | Mechanik|
+| Magiefähigkeit | Schlösserknacken | Spuren lesen | Schmieden | Holzbearbeitung | Religion |
 
 
+## Standardfertigkeiten
+
+Jeder Spieler hat Standardfertigkeiten, die nicht explizit gelernt werden müssen, aber verbessert werden können. Das bedeutet, diese Fähigkeiten kosten zu Beginn der Charaktererstellung auch keine zusätzlichen Fähigkeitspunkte. Es handelt sich dabei um:
+
+* Klettern (Handeln)
+* Schwimmen (Handeln)		
+* Werfen (Handeln)
+* Reiten (Handeln)
+* Plaudern (Soziales)
+* Lügen (Soziales)
+
+Vor dem Skillen der Fähigkeiten werden diese Fertigkeiten mit dem Wert 1 in die entsprechenden Begabungskategorien eingetragen.
 
 
+## Verbessern von Fähigkeiten
+
+Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkeitspunkte auf Fähigkeiten verteilen. Grundsätzlich dürfen unbegrenzt FPs pro Fähigkeit verteilt werden, wobei die Entwicklung von Fähigkeiten mehr FPs kostet, je höher die Fähigkeit entwickelt wird.
+
+| Fähigkeitswert | Kosten | 
+| --- | --- |
+| 0-4 | 1 FP |
+| 5-9 | 2 FP | 
+| 10-14 | 3 FP |
+| 15-19 | 4 FP |
+| 20+ | 5 FP |
+
+Je höher der Fähigkeitswert eines Charakters ist, desto besser ist dieser in der jeweiligen Fähigkeit. Es kann durchaus Sinn ergeben, eine Fähigkeit auf 20+ zu entwickeln, obwohl Fähigkeitsproben mit einem W20 durchgeführt werden. Das liegt daran, dass der DM in besonders komplizierten Situationen die Probe erschweren kann. Das bedeutet, dass euer Fähigkeitswert um einen vom DM definierten Wert herunter korrigiert wird. In solchen Fällen kann man von höheren Fähigkeitswerten profitieren.
+Eure zu Beginn bestimmten Attribute haben auch einen Einfluss auf eure Fähigkeiten und geben euch $+ \frac{Attribut}{4}$ für jede Fähigkeit in der entsprechenden Begabungskategorie (Konstitution für die Begabung *Handeln*, Intelligenz für die Begabung *Wissen*, Charisma für die Begabung *Soziales*).
+Sind die 150 Punkte verteilt, werden die gesamten Fähigkeitspunkte einer Begabung aufsummiert und durch 10 geteilt (hier werden die Zusatzpunkte durch die Attribute nicht berücksichtigt). Dies ist der genereller Begabungswert und kann maximal den Wert 8 erreichen. Der Begabungswert kann eingesetzt werden, um Aktionen durchzuführen, für die ihr keine Fähigkeit gelevelt habt.
 
 
+# Levelaufstieg
+
+Ist ein bestimmter Punkt im Abenteuer erreicht, erhöht sich das Level jedes Charakters. Mit jedem Levelaufstieg erhält der Spieler 8 weitere Fähigkeitspunkte. Diese können sofort ausgegeben werden, oder für den nächsten Levelaufstieg gespart werden. FPs können nicht im Verlauf eines Abenteuers spontan eingesetzt werden, sondern nur bei einem erneuten Levelaufstieg oder in einer ruhigen Situation, in der der Charakter durch den Einsatz der noch verbleibenden FPs keinen Vorteil zieht. So kann ein Charakter beispielsweise abends am Lagerfeuer seine drei FPs in *Schloss knacken* investieren. Dies geht aber nicht, wenn die Gruppe in ihrem Abenteuer gerade eine Truhe gefunden hat, die geöffnet werden soll.
+
+## Skillen ohne Levelaufstieg
+
+Durch Situationen im Abenteuer, Gespräche mit NPCs oder gefundene Objekte kann es jederzeit vorkommen, dass ein Charakter Fähigkeiten oder in seltenen Fällen auch Attribute zugeteilt bekommen kann. Zusätzlich können Charaktere im Verlauf Charakter-Eigenschaften erhalten, welche sowohl Perma-Buffs als auch -Nerfs sein können.
 
 
+# Kampfsystem
 
+Das Kampfsystem ist sehr offen gehalten und hauptsächlich von dem Initiativewert der Charaktere abhängig. Im Verlaufe des Kampfes zählt der DM nach und nach von Null bis unendlich. Jedes Mal, wenn die Initiative, oder ein Vielfaches davon, von einem deiner Mitspielenden erreicht ist, dürfen diese eine Kampfrunde spielen. Hierbei können sie sich soweit bewegen, wie es Ihre Reichweite zulässt, angreifen oder andere Aktionen durchführen. Ist die Kampfrunde dieses Charakters vorbei, wird weiter gezählt. Auch alle Nichtspieler-Charaktere, die an dem Kampf teilnehmen, müssen in diese Reihenfolge ebenfalls mit einsortiert werden. Wichtig ist, bei gleichem Initiative-Wert greifen immer die Spieler-Charaktere zuerst an. Haben auch die Spieler-Charaktere gleiche Initiativ-Wert, wird die Reihenfolge vor jedem Kampf neu ausgewürfelt.
+Ein Beispiel vereinfacht wahrscheinlich den Ablauf eines Kampfes. Nehmen wir an, die Gruppe besteht aus zwei Charakteren, nämlich dem Kämpfer Silvio mit einer Initiative von 5, und der Jägerin Lisbeth mit einer Initiative von 3.5. Die Banditen, gegen die die beiden kämpfen, haben eine Initiative von 4.
+Sobald der Kampf beginnt, beginnt auch der DM mit dem Hochzählen. Weder bei der 1, der 2, noch bei der 3 wurde eine Initiative eines Charakters erreicht, doch jetzt bei der 3.5 ist Lisbeth dran und schießt einem der drei Banditen mit einem Pfeil in die Schulter. Dieser sinkt zu Boden und ist fürs erste bewegungsunfähig, seine nächste Kampfrunde wird also ausgesetzt. Du zählst weiter und bei der Zahl 4 sind die verbleibenden zwei Banditen an der Reihe. Diese müssen nun erstmal 5 Meter auf die Gruppe zulaufen, um diese angreifen zu können. Dies verbraucht die Reichweite der Banditen komplett und sie können keine weitere Aktion ausführen. Da die Banditen jetzt direkt vor Silvio stehen, muss dieser nicht laufen, sondern kann bei der Zahl 5 nun direkt angreifen. Dies nutzt er auch und sticht mit seinem großen Zweihänder auf einen der Banditen ein. Dieser  würfelt aber erfolgreich auf 'Ausweichen' und weicht Silvios starkem Angriff aus. Der DM zählst weiter zur 6, hier ist niemand an der Reihe, bei der 7 ist jetzt aber Lisbeth dran, da diese einen Initiative-Wert von 3.5 hat und mit der Zahl 7 das Doppelte Ihrer Initiative erreicht wurde. Lisbeth feuert erneut, verfehlt aber leider ihr Ziel. Der Kampf führt sich jetzt weiter fort, die weitere Reihenfolge ist hier einmal aufgeführt:
 
+| Kampfrunde | Aktive Charaktere | 
+| --- | --- |
+| 8 | Banditen (auch der eine Bandit, der eben aussetzen musste) |
+| 9 | - | 
+| 10 | Silvio |
+| 10.5 | Lisbeth |
+| 11 | - |
+| 12 | Banditen |
 
 
 
