@@ -36,7 +36,7 @@ $$ **TP-Regeneration / h** = \left(max. TP \over 10\right) - X (Art der Verletzu
 Der Mana-Vorrat jedes Charakters regeneriert sich ebenfalls mit der In-Game-Zeit.		
 
 $$ **Mana-Punkte:** = \left(Intelligenz \cdot Level \over 2 \right) + *Magiefähigkeit* + 10$$
-$$ **Mana-Regeneration / h** = \left(max. Mana \over 10\right) $$			
+$$ **Mana-Regeneration / h** = \left(max. Mana \over 10\right)$$			
 
 Hier findet sich das Regelwerk des arkanthia Spielsystems.
 Es ist inspiriert durch das [*How to be a Hero*-System](https://main.howtobeahero.de/) und wird irgendwann auch als PDF zur Verfügung stehen.
