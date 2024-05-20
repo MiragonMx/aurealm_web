@@ -156,6 +156,7 @@ Sobald der Kampf beginnt, beginnt auch der DM mit dem Hochzählen. Weder bei der
 
 
 # Charaktererstellung Beispiel
+
 Hier ist natürlich grundlegend einmal wichtig, eurem Charakter einen Namen, ein Alter und eine Geschichte zu geben. Versucht euch zu überlegen, was die Ziele eures Charakters im Leben sind, was ihn bisher beeinflusst hat, welche Werte ihm wichtig sind und ob er irgendwelche Ticks oder Verhaltensmuster hat. Macht euch hier wirklich in Ruhe Gedanken und überlegt euch, welchen Charakter ihr selbst spielen und auch ausleben wollt.
 Nun geht es an die Vergabe der Werte. Der hier vorgestellte Beispielscharakter soll den Namen Verlon haben, der mit 21 Jahren noch recht jung ist. Verlon ist nicht der hellste, physisch aber sehr gut aufgestellt. Charisma und Geschicklichkeit sind bei ihm leicht unterdurchschnittlich. So ergeben sich folgende Attributs-Werte:
 
@@ -181,7 +182,10 @@ Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigke
 | Reichweite | $(\frac{Konstitution + Geschicklichkeit}{2})$ | $(\frac{8 + 4}{2}) = 6 $ |		
 | Ausweichen | $(\frac{Geschicklichkeit}{2})$ | $(\frac{4}{2}) = 2 $ |	
 		
-		
+Damit hat Verlon schon mal viele wichtige Werte berechnet. Nun will er seine anfänglichen 150 Fähigkeitspunkte verteilen. Er entscheidet sich dazu *Einhändig 14* (29 FP), *Faustkampf 5* (6 FP) und *Jagen 9* (14 FP) in der Begabung *Handeln* zu leveln. Somit hat er insgesamt 49 FP in der Begabung vergeben. Um den Begabungswert von *Handeln* nun zu berechnen, muss er $Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8}$ berechnen. In Verlons Fall wäre dies also: $Begabungswert = \frac{49}{10} = 4.9 \leq 8}$. Sein Begabungswert für *Handeln* wird nun auf 5 aufgerundet. Auf diesen kann er nun immer würfeln, wenn er eine Handlung ausführen möchte, die richtige Fähigkeit aber nicht gelernt hat. Außerdem werden alle seine Fähigkeiten in der Begabung *Handeln* durch sein Attribut **Geschicklichkeit** verbessert. Hierzu muss der Attributwert (Verlon hat **Geschicklichkeit 4**) durch vier geteilt werden ($+ \frac{4}{4} = +1}$). Somit werden alle *Handeln*-Fähigkeiten um +1 verbessert, weshalb er nun *Einhändig 15*, *Faustkampf 6* und *Jagen 10* hat.
+In *Soziales* lernt Verlon folgende Fähigkeiten: *Flirten 10* (17 FP), *Begeistern 6* (8 FP), *Humor 12* (23 FP) und *Überzeugen 8* (12 FP). Insgesamt hat er in *Soziales* somit 60 FP vergeben, woraus ein Begabungswert von 6 resultiert. Durch seinen Attributswert **Charisma** von 4 erhält Verlon auch hier +1 auf alle seine Fähigkeiten der Begabung *Soziales*.
+Jetzt hat Verlon noch 41 FPs, die er in der Begabung *Wissen* vergeben kann. Er entscheidet sich dazu, 26 FP in Religion zu investieren (*Religion 11*). Außerdem levelt er *Holzbearbeitung 8* (12 FP) und *Medizin 3* (3 FP). Dafür ergibt sich ein Begabungswert von 4.1, also 4. Durch das Attribut **Intelligenz** von 2 berechnet sich eine Verbesserung der Begabung von 0.5, welche auf 1 gerundet wird und ihm +1 auf alle *Wissens*-Fähigkeiten gibt.
+Außerdem kann Verlon jetzt die fünf Standardfähigkeiten ergänzen, dann ist er mit seiner Charaktererstellung fertig.		
 
 
 
