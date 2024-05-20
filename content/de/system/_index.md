@@ -15,15 +15,18 @@ Das Grundprinzip von Pen and Paper ist eigentlich recht schnell erklärt. In ein
 
 Attribute sollen den Charakter grundlegend beschreiben und geben eine grobe Richtung vor, in welche sich der Charakter entwickeln sollte. Tendenziell sind Attribute angeboren oder langfristig antrainiert, weshalb sie im Verlaufe des Abenteuers nicht mehr (oder nur in ganz besonderen Ausnahmesituationen) verbessert werden können. Diese erste Ausrichtung ist sehr wichtig und hat starke Auswirkungen auf den Spielcharakter. Es können zum einen Proben auf deinen Attributs-Wert geworfen werden, zum anderen hat dieser auch Auswirkungen auf Aspekte wie Treffer- und Mana-Punkte oder die Fähigkeits-Werte deines Heldens. Im Folgenden sind die einzelnen Attribute kurz beschrieben:
 
+
 * **Stärke:** Das Attribut Stärke beschreibt nicht nur die Muskelmassen deines Charakters, sondern auch, wie zäh dieser ist. Es wirkt sich positiv auf die *Treffer-Punkte* deines Charakters, aber negativ auf dessen *Initiative* aus. 
 * **Geschicklichkeit:** Eine Figur mit hohe Geschicklichkeit ist besonders gut darin, schnell und mit hoher Gewandtheit Aufgaben auszuführen. Das hilft dir zum Beispiel, wenn du etwas reparieren oder ein Handwerk ausführen möchtest. Ein hoher Geschicklichkeitswert begünstigt daher die *Initiative* und die *Reichweite* deines Heldens sowie den Wert *Ausweichen*.
 * **Konstitution:** Ein Charakter mit hoher Konstitution ist körperlich sehr fit und ausdauernd. Damit kann dein Charakter gut in einer langen Verfolgungsjagd bestehen und hat weniger Probleme, wenn mehrere Tage lang gereist werden muss. Es verbessert daher die *Treffer-Punkte* und *Handeln-Fähigkeiten* deines Spieler-Charakters sowie dessen *Reichweite* im Kampf.	
 * **Intelligenz:** Ein intelligenter Held verfügt über eine besonders gute Auffassungsgabe und kann auch komplizierte Zusammenhänge schnell verstehen. Deshalb profitieren alle *Wissens-Fähigkeiten* von einem hohen Wert in Intelligenz und dieser wirkt sich auch positiv auf die *Mana-Punkte* aus.
 * **Charisma:** Charisma beschreibt die Ausstrahlungskraft des Charakters. Je charismatischer der Held ist, desto stärker ist dessen Wirkung auf andere Menschen. Daher wirkt sich ein hoher Charisma-Wert positiv auf alle *Sozialen-Fähigkeiten* aus, allerdings profitiert auch die *Mentale-Belastbarkeit* deines Charakters von hohem Charisma.
 
+
 Zu Beginn der Charaktererstellung werden einmalig 25 Punkte auf die Attribute vergeben. Hierbei muss mindestens ein Punkt in jedes Attribut verteilt werden, maximal sind zehn Punkte pro Attribut möglich. Je höher der Attributs-Wert ist, desto fähiger ist der Charakter in diesem Attribut.
 Um eine Probe auf ein Attribut werfen zu lassen, kann einfach mit einem W10 gewürfelt werden. Übersteigt der geworfene Würfel-Wert den Attributs-Wert, ist die Probe nicht erfolgreich. Ist der Würfel-Wert aber geringer oder identisch mit dem Attributs-Wert, so gelingt dem Charakter die Aufgabe.
 Aus den Attributen deines Charakter berechnen sich nun folgende Werte:
+
 
 * **Treffer-Punkte:** Die Treffer-Punkte (TP) beschreiben das die Lebenspunkte eines Charakters. Erleidet der Held während eines Kampfes oder aus einem anderen Grund Schaden, sinken dessen Treffer-Punkte. Fallen die TP auf einen Schlag um 75% der Gesamt-TP oder insgesamt auf unter 10% der maximalen Treffer-Punkte des Charakters, wird dieser bewusstlos. Erleidet ein bewusstloser Held danach erneut Schaden, sodass dessen TP auf 0% fallen, stirbt der Charakter. Es ist allerdings nicht möglich, eine Figur zu töten, ohne dass diese bewusstlos wird. Somit stirbt ein Held nicht, wenn er auf einen Schlag Schaden in Höhe seiner maximalen Treffer-Punkte erleidet. Obwohl dieser dann einen TP-Wert von 0 hat, wird der Held zunächst bewusstlos und muss erst ein weiteres Mal Schaden erleiden, um final zu sterben.
 Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser über den Schwellenwert von 10% bzw. 25% (je nachdem aus welchem Grund der Charakter bewusstlos geworden ist) geheilt werden. Alternativ ist es auch möglich, durch einen Wurf auf eine Fähigkeit (beispielsweise auf *Medizin*) den Helden zurück in die Gegenwart zu holen. Hier entschiedet der DM, ob eine Fähigkeit geeignet dafür ist.
@@ -31,12 +34,59 @@ Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich un
 	
 $$ **Treffer-Punkte** = \left(Stärke + Konstitution \over 2 \right) \cdot Level + 10$$
 $$ **TP-Regeneration / h** = \left(max. TP \over 10\right) - X (Art der Verletzung)$$		
-	
+
+ 
 * **Mana-Punkte:** Mana-Punkte sind eine Ressource, die bei jedem Zauber verbraucht wird. Wenn die gesamten Mana-Punkte vollständig verbraucht wurde, hat dies keine weiteren Effekte auf den Charakter. Hat ein Held allerdings nicht genügend Mana-Punkte für einen Zauber, kann dieser nicht gewirkt werden. Versucht es der Charakter trotzdem, werden die verbliebene Mana-Punkte restlos verbraucht und der DM kann individuell mit der Situation umgehen. Es ist bspw. möglich, dass der Zauber schwächer wirkt, andere Nebeneffekte, oder einfach gar keinen Effekt hat. Die maximalen Mana-Punkte sind neben der Intelligenz und dem Level des Heldens auch von dem Fähigkeitswert *Magiefähigkeit* abhängig, der aktiv verbessert werden kann. Wie dein Charakter Fähigkeiten erhält, erfährst du später im Regelwerk.
 Der Mana-Vorrat jedes Charakters regeneriert sich ebenfalls mit der In-Game-Zeit.		
 
-$$ **Mana-Punkte:** = \left(Intelligenz \cdot Level \over 2 \right) + Magiefähigkeit + 10$$
+$$ **Mana-Punkte** = \left(Intelligenz \cdot Level \over 2 \right) + Magiefähigkeit + 10$$
 $$ **Mana-Regeneration / h** = \left(max. Mana \over 10\right)$$			
+
+
+* **Mentale Belastbarkeit:** Die mentale Belastbarkeit (MB) beschreibt den Geisteszustand des Charakters. Er kann beispielsweise durch Angst und Furcht, aber genauso durch Freude oder Glaube beeinflusst werden. Geschehen Ereignisse, wodurch die MB des Charakters unter 10% oder auf einen Schlag unter 75% fällt, verliert der Charakter seine Beherrschung (Flucht, Angststarre, Panikattacke, etc.), bis er wieder über 10% bzw. 25% MB verfügt, oder durch andere Mittel zur Ruhe gebracht wird. Mentale Belastbarkeit verhält sich somit nahezu identisch wie die Trefferpunkte eines Heldens. Fällt die mentale Belastbarkeit eines Charakters allerdings auf 0, stirbt dieser nicht. Stattdessen erhält er eine, der Situation angemessene, Angst als permanente Charakter-Eigenschaft (Beispielsweise vor Wasser oder der Dunkelheit).\\
+In sicherer Umgebung regeneriert sich der MB-Wert ebenfalls.
+
+$$ **Mentale Belastbarkeit** = \left(Charisma \cdot Level \over 2 \right) + 50$$
+$$ **MB-Regeneration / h** = \left(max. MB \over 10\right) - X (Art der Verstörung)$$
+
+
+* **Initiative:** Die Initiative ist entscheidend für das Kampf-System. Je geringer die Initiative ist, desto häufiger kommt ein Charakter dran. Alles Weitere hierzu in Kapitel **Kampfsystem**.
+
+$$ **Initiative** = \left(Stärke + 20 \over Geschicklichkeit \right)$$
+
+
+* **Reichweite:** Die Reichweite beschreibt den Radius in Metern, den sich ein Charakter innerhalb einer Kampfesrunde bewegen kann. Die Bewegung wird dabei statt anderen Aktionen ausgeführt. Ein Charakter, der sich in einer Kampfrunde die maximale Reichweite bewegt hat, ist nicht mehr in der Lage andere Aktionen durchzuführen. Bewegt er sich nur Teile der maximalen Reichweite, können währenddessen anteilig andere Aktionen ausgeführt werden. So kann beispielsweise ein Bogenschütze seinen Bogen abfeuern, während er leicht läuft. Sprintet er allerdings in die nächste Deckung, ist dies nebenbei nicht mehr möglich.
+
+$$ **Reichweite** = \left(Konstitution + Geschicklichkeit \over 2 \right)$$
+
+
+* **Ausweichen:** Ausweichen ist ein fester Wert, auf den jeder Charakter mit einem W20 werfen kann, nachdem ein Feind diesen angreift. Ist der geworfene Wert kleiner oder genauso groß wie der Ausweichen-Wert, weicht der Charakter den Angriff aus und erhält keinen Schaden.
+
+$$ **Ausweichen** = \left(Geschicklichkeit \over 2 \right)$$
+
+
+# Fähigkeiten und Begabungen
+
+Fähigkeiten sind Tätigkeiten, die ein Charakter explizit gelernt oder gemeistert hat. Jeder Fähigkeit können Fähigkeitspunkte (FP) zugeteilt werden. Je mehr Fähigkeitspunkte in eine Fähigkeit investiert werden, desto stärker ist dein Charakter in dieser. Jede Fähigkeit ist einer von den drei Begabungen *Handeln*, *Soziales* und *Wissen* zuzuordnen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Hier findet sich das Regelwerk des arkanthia Spielsystems.
 Es ist inspiriert durch das [*How to be a Hero*-System](https://main.howtobeahero.de/) und wird irgendwann auch als PDF zur Verfügung stehen.
