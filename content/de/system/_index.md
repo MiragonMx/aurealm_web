@@ -1,11 +1,23 @@
 ---
-title: "Regelwerk"
+title: "Arkanthia Regelwerk"
 draft: false
-summary: "Hier findet sich das Regelwerk des arkanthia Spielsystems. Es ist inspiriert durch das How to be a Hero-System und wird irgendwann auch als PDF zur Verfügung stehen."
+summary: "Hier findet sich das gratis Regelwerk des Arkanthia Spielsystems."
 ---
+
+Das Arkanthia Regelwerk ist ein neues und kostenlos spielbares Regelwerk für dein eigenes Pen and Paper Abenteuer. Es legt einen besonderen Fokus auf die Freiheiten der Spielenden und eine schnelle Charaktererstellung. So kannst du aus deinem Charakter genau die Figur machen, die du gerne spielen möchtest. Außerdem musst du dich nicht erst durch 20 Seiten Regeln und Fähigkeiten kämpfen, sondern kannst nach maximal 30 Minuten loslegen und mit deinem frisch erstellten Helden ins nächste Abenteuer ziehen. Wie du genau deine eigene Figur erstellst, erfährst du nach einem kurzen Überblick über Pen and Paper.
+
+# Pen and Paper - Ein Überblick
+
+Das Grundprinzip von Pen and Paper ist eigentlich recht schnell erklärt. In einer Spielgruppe gibt es zwei Rollen, die der Spielenden und die des Dungeon Masters. Die Spielenden verkörpern je einen selbst ausgedachte Charakter, die sogenannten Spieler-Charaktere. Die Fähigkeiten und Eigenschaften jedes einzelnen Spieler-Charakters werden unter Verwendung eines Regelwerks festgelegt und auf einem Charakterbogen aufgeschrieben. Der Dungeon Master ist dafür verantwortlich das Spiel zu leiten, die Geschichte zu erzählen, Nicht-Spieler-Charaktere zu verkörpern und alle Sinne der Spieler-Charaktere darzustellen. Nicht-Spieler-Charaktere sind dabei Figuren, die in der Welt vorkommen aber nicht von den Spielenden am Tisch verkörpert werden. Die Welt entsteht dabei nur in dem Kopf aller Beteiligten. Der DM ist dafür verantwortlich, alle Sinne der Spieler-Charaktere zu verkörpern. Er beschriebt also, was diese sehen, riechen, fühlen und schmecken. Mit Umgebungskarten oder Figuren kann die Vorstellung der Spielenden am Tisch etwas unterstützt werden. In diese Welt tauchen die Spiele-Charaktere nun ein und erleben ein vom Dungeon Master vorbereitetes Abenteuer. Im Gegensatz zu vielen Computerspielen gibt es hier keinerlei Grenzen, die von der Software vorgegeben werden. Die einzigen Grenze ist die eigene Vorstellungskraft.
+	\noindent Im Verlauf des Abenteuers werden die Spieler-Charaktere immer wieder auf vor Probleme gestellt. So kann eine hohe Felswand zu erklimmen, ein Schloss zu knacken sein oder ein Feind zu überzeugen sein. Ob die Spieler-Charaktere diese Aufgaben erfolgreich bewältigen, wird mittels Würfel entschieden. Hier kommt der Charakterbogen von der Charaktererstellung wieder ins Spiel. In diesem können vor Beginn des Abenteuers, oder durch Level Ups währenddessen, Fähigkeiten erworben und verbessert werden. Diesen wird ein Zahlwert zugewiesen, je nachdem wie gut der Spieler-Charakter die Fähigkeit beherrscht. Um nun zu bestimmen, ob der Spiele-Charakter die Aufgabe erfolgreich bewältigt, wird gewürfelt. Das nennt man auch "eine Probe würfel". Die Zahl des Würfelwurfes wird nun mit dem Zahlwert der Fertigkeit verglichen. Liegt die gewürfelte Zahl unter dem Zahlwert der Fähigkeit, hat der Spieler-Charakter seine Aufgabe erfolgreich gemeistert, liegt der Würfelwert über dem der Fähigkeit, so gelingt die Aktion nicht. Würfel werden noch in anderen Situationen eingesetzt, beispielsweise bei Kämpfen der Spieler-Charaktere untereinander oder mit Nicht-Spieler-Charakteren. Zum einen werden sie wieder benutzt, um zu überprüfen, ob Kampfaktionen erfolgreich durchgeführt werden, aber auch der ausgeteilte Schaden wird durch Würfeln bestimmt. Da Würfel in verschiedensten Situationen verwendet werden, sind auch verschiedene Arten von Würfel nötig. Der kleinste Würfel ist meistens der W4, also ein Würfel mit vier Seiten. Darüber hinaus wird häufig noch der klassische W6 mit sechs Seiten sowie W8-, W10-, W12- und W20-Würfel genutzt, die je nach Situation eingesetzt werde.
+
+# Attribute
+
+Attribute sollen den Charakter grundlegend beschreiben und geben eine grobe Richtung vor, in welche sich der Charakter entwickeln sollte. Tendenziell sind Attribute angeboren oder langfristig antrainiert, weshalb sie im Verlaufe des Abenteuers nicht mehr (oder nur in ganz besonderen Ausnahmesituationen) verbessert werden können. Diese erste Ausrichtung ist sehr wichtig und hat starke Auswirkungen auf den Spielcharakter. Es können zum einen Proben auf deinen Attributs-Wert geworfen werden, zum anderen hat dieser auch Auswirkungen auf Aspekte wie Treffer- und Mana-Punkte oder die Fähigkeits-Werte deines Heldens. Im Folgenden sind die einzelnen Attribute kurz beschrieben:
 
 Hier findet sich das Regelwerk des arkanthia Spielsystems.
 Es ist inspiriert durch das [*How to be a Hero*-System](https://main.howtobeahero.de/) und wird irgendwann auch als PDF zur Verfügung stehen.
+
 <!--XXX: Link erzeugen und einfügen-->
 <!--Es ist inspiriert durch das [*How to be a Hero*-System](https://main.howtobeahero.de/) und steht auch als [PDF](hier_richtiger_link) zur Verfügung.-->
 
