@@ -13,7 +13,7 @@ After a little shopping at Hellebard Dunkel last time, our four adventurers acce
 Kel Tuh Las' fist flies unrestrainedly into Karl's face and, annoyed, he repeats the question about the target of the grave desecration. Karl seems surprised and a little intimidated that the trial is now being continued with violence. But at first he only mumbles something about a ‘paid job’. But when Kel cracks his knuckles again and strikes the next blow, Karl comes to his senses and decides not to let himself be knocked unconscious. Slowly, he begins to talk about a client in the harbour of Fichtenstein. He is probably looking for the amulet of the Dornenfells, a family that was once very present in Fichtenstein. But now they have disappeared and only a few family members are still rotting in Fichtenstein's cemetery.
 
 <div class="img-max center">
-  <img class="img-fluid rounded" title="Karte Fichtenstein harbor" alt="Karte Fichtenstein harbor" src="./img/fichtenstein_hafen.jpg" />
+  <img class="img-fluid rounded" title="Karte Fichtenstein harbor" alt="Karte Fichtenstein harbor" src="./img/fichtenstein.jpg" />
 </div>
 
 This information makes Kel's fist drop for the time being and he enquires in more detail about the mysterious commissioner. 
