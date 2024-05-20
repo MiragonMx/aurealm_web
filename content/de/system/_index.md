@@ -171,7 +171,7 @@ Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigke
 
 | Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> | 
 | :---: | :---: | :---: |
-| Trefferpunkte | &&\left(\frac{Stärke}{2} + \frac{Konstitution}{4}\right) \cdot Level + 10$$ | &&\left(\frac{7}{2} + \frac{4}{4}\right) \cdot 1 + 10 = 15.5$$
+| Trefferpunkte | &\left(\frac{Stärke}{2} + \frac{Konstitution}{4}\right) \cdot Level + 10$ | &\left(\frac{7}{2} + \frac{4}{4}\right) \cdot 1 + 10 = 15.5$
 
 
 
