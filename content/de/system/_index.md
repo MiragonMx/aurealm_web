@@ -29,7 +29,7 @@ Aus den Attributen deines Charakter berechnen sich nun folgende Werte:
 Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser über den Schwellenwert von 10% bzw. 25% (je nachdem aus welchem Grund der Charakter bewusstlos geworden ist) geheilt werden. Alternativ ist es auch möglich, durch einen Wurf auf eine Fähigkeit (beispielsweise auf *Medizin*) den Helden zurück in die Gegenwart zu holen. Hier entschiedet der DM, ob eine Fähigkeit geeignet dafür ist.
 Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich und die Trefferpunkte regenerieren sich von alleine. Dies wird in der Regeneration pro In-Game-Stunde angegeben, also in der Zeit, welche die Spieler-Charaktere erleben. Eine schwere Verletzung kann auch dazu führen, dass die Regenerationsrate reduziert wird.
 
-<center>Trefferpunkte</center>center>
+<center>Trefferpunkte</center>
 	
 $$\left(Stärke + Konstitution \over 2 \right) \cdot Level + 10$$
 		
