@@ -1,7 +1,8 @@
 ---
 title: "Arkanthia Regelwerk"
 draft: false
-summary: "Hier findet sich das gratis Regelwerk des Arkanthia Spielsystems."
+publishdate: 2024-04-29T09:00:00+02:00
+summary: "Hier findet sich das gratis Regelwerk des Arkanthia Spielsystems sowie eine beispielhafte Charaktererstellung."
 thumbnail: img/Arkanthia_Logo (4_3).png
 ---
 
