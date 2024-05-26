@@ -1,7 +1,7 @@
 ---
 title: "Arkanthia Regelwerk - Kampfsystem"
 draft: false
-publishdate: 2024-04-29T09:00:00+02:00
+publishdate: 2024-04-29T09:00:01+02:00
 summary: "Hier wird euch das Kampfsytsem des Arkanthia Regelwerks erklärt."
 thumbnail: img/Arkanthia_Logo (4_3).png
 ---
