@@ -3,7 +3,7 @@ title: "Arkanthia Regelwerk - Combat system"
 draft: false
 publishdate: 2024-04-29T09:01:00+02:00
 summary: "The combat system of the Arkanthia rulebook is explained here."
-thumbnail: img/Combat system (4_3)
+thumbnail: img/Combat system (4_3).png
 ---
 
 Das Kampfsystem ist sehr offen gehalten und hauptsächlich von dem Initiativewert der Charaktere abhängig. Im Verlaufe des Kampfes zählt der DM nach und nach von Null bis unendlich. Jedes Mal, wenn die Initiative, oder ein Vielfaches davon, von einem deiner Mitspielenden erreicht ist, dürfen diese eine Kampfrunde spielen. Hierbei können sie sich soweit bewegen, wie es Ihre Reichweite zulässt, angreifen oder andere Aktionen durchführen. Ist die Kampfrunde dieses Charakters vorbei, wird weiter gezählt. Auch alle Nichtspieler-Charaktere, die an dem Kampf teilnehmen, müssen in diese Reihenfolge ebenfalls mit einsortiert werden. Wichtig ist, bei gleichem Initiative-Wert greifen immer die Spieler-Charaktere zuerst an. Haben auch die Spieler-Charaktere gleiche Initiativ-Wert, wird die Reihenfolge vor jedem Kampf neu ausgewürfelt.
