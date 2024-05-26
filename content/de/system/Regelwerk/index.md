@@ -3,7 +3,7 @@ title: "Arkanthia Regelwerk"
 draft: false
 publishdate: 2024-04-29T09:00:00+02:00
 summary: "Hier findet ihr das komplette Regelwerk des Arkanthia Spielsystems gratis für eure eigene Kampagne."
-thumbnail: img/Arkanthia_Logo (4_3).png
+thumbnail: img/Regelwerk (4_3).png
 ---
 
 Das Arkanthia Regelwerk ist ein neues und kostenlos spielbares Regelwerk für dein eigenes Pen and Paper Abenteuer. Es legt einen besonderen Fokus auf die Freiheiten der Spielenden und eine schnelle Charaktererstellung. So kannst du aus deinem Charakter genau die Figur machen, die du gerne spielen möchtest. Außerdem musst du dich nicht erst durch 20 Seiten Regeln und Fähigkeiten kämpfen, sondern kannst nach maximal 30 Minuten loslegen und mit deinem frisch erstellten Helden ins nächste Abenteuer ziehen. Wie du genau deine eigene Figur erstellst, erfährst du nach einem kurzen Überblick über Pen and Paper.
