@@ -39,7 +39,7 @@ Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich un
 	
 $$ Treffer-Punkte = \left(\frac{Stärke}{2} + \frac{Konstitution}{4}\right) \cdot Level + 10$$
 
-$$ TP-Regeneration / h = \left(max.~TP \over 10 \right) - X (Art~der~Verletzung)$$		
+$$ TP-Regeneration / h = \left(max.~~~TP \over 10 \right) - X (Art~~~der~~~Verletzung)$$		
 
  
 * **Mana-Punkte:** Mana-Punkte sind eine Ressource, die bei jedem Zauber verbraucht wird. Wenn die gesamten Mana-Punkte vollständig verbraucht wurde, hat dies keine weiteren Effekte auf den Charakter. Hat ein Held allerdings nicht genügend Mana-Punkte für einen Zauber, kann dieser nicht gewirkt werden. Versucht es der Charakter trotzdem, werden die verbliebene Mana-Punkte restlos verbraucht und der DM kann individuell mit der Situation umgehen. Es ist bspw. möglich, dass der Zauber schwächer wirkt, andere Nebeneffekte, oder einfach gar keinen Effekt hat. Die maximalen Mana-Punkte sind neben der Intelligenz und dem Level des Heldens auch von dem Fähigkeitswert *Magiefähigkeit* abhängig, der aktiv verbessert werden kann. Wie dein Charakter Fähigkeiten erhält, erfährst du später im Regelwerk.
@@ -47,7 +47,7 @@ Der Mana-Vorrat jedes Charakters regeneriert sich ebenfalls mit der In-Game-Zeit
 
 $$ Mana-Punkte = \left(Intelligenz \cdot Level \over 2 \right) + Magiefähigkeit + 10$$
 
-$$ Mana-Regeneration / h = \left(max. Mana \over 10 \right)$$			
+$$ Mana-Regeneration / h = \left(max.~~~Mana \over 10 \right)$$			
 
 
 * **Mentale Belastbarkeit:** Die mentale Belastbarkeit (MB) beschreibt den Geisteszustand des Charakters. Er kann beispielsweise durch Angst und Furcht, aber genauso durch Freude oder Glaube beeinflusst werden. Geschehen Ereignisse, wodurch die MB des Charakters unter 10% oder auf einen Schlag unter 75% fällt, verliert der Charakter seine Beherrschung (Flucht, Angststarre, Panikattacke, etc.), bis er wieder über 10% bzw. 25% MB verfügt, oder durch andere Mittel zur Ruhe gebracht wird. Mentale Belastbarkeit verhält sich somit nahezu identisch wie die Trefferpunkte eines Heldens. Fällt die mentale Belastbarkeit eines Charakters allerdings auf 0, stirbt dieser nicht. Stattdessen erhält er eine, der Situation angemessene, Angst als permanente Charakter-Eigenschaft (Beispielsweise vor Wasser oder der Dunkelheit).
@@ -55,7 +55,7 @@ In sicherer Umgebung regeneriert sich der MB-Wert ebenfalls.
 
 $$ Mentale Belastbarkeit = \left(Charisma \cdot Level \over 2 \right) + 50$$
 
-$$ MB-Regeneration / h = \left(max.~~MB \over 10 \right) - X (Art~~der~~Verstörung)$$
+$$ MB-Regeneration / h = \left(max.~~~MB \over 10 \right) - X (Art~~~~der~~~Verstörung)$$
 
 
 * **Initiative:** Die Initiative ist entscheidend für das Kampf-System. Je geringer die Initiative ist, desto häufiger kommt ein Charakter dran. Alles Weitere hierzu in Kapitel **Kampfsystem**.
