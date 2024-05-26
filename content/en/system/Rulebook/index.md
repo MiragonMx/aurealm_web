@@ -34,7 +34,8 @@ The following values are now calculated from your character's attributes.
 To revive an unconscious character, he can be healed above the threshold of 10% or 25%, depending on the cause of the unconsciousness. Alternatively, it is possible to bring the hero back to the present by rolling a skill (e.g. *Medicine*). The DM decides if a skill is appropriate.
 When a character is no longer in a dangerous situation, they will recover and their hit points will regenerate automatically. This is indicated by the regeneration per in-game hour, i.e. the time experienced by the player character. Serious injury can also reduce the regeneration rate.
 	
-$$ Hit Points = \left(\frac{Strength}{2} + \frac{Constitution}{4}\right) \cdot level + 10$$
+$$ Hit~~~Points = \left(\frac{Strength}{2} + \frac{Constitution}{4}\right) \cdot level + 10$$
+
 $$ HP-Regeneration / h = \left(max.~~~HP \over 10\right) - X (Type~~~of~~~injury)$$		
 
  
@@ -42,6 +43,7 @@ $$ HP-Regeneration / h = \left(max.~~~HP \over 10\right) - X (Type~~~of~~~injury
 Each character's mana supply also regenerates over time.	
 
 $$ Mana Points = \left(Intelligence \cdot level \over 2 \right) + *Magic capabilityt* + 10$$
+
 $$ MP-Regeneration / h = \left(max.~~~Mana \over 10\right)$$			
 
 
@@ -49,6 +51,7 @@ $$ MP-Regeneration / h = \left(max.~~~Mana \over 10\right)$$
 MR also regenerates in a safe environment.
 
 $$ Mental Resilience: = \left(Charisma \cdot level \over 2 \right) + 50$$
+
 $$ MR-Regeneration / h = \left(max.~~~MR \over 10\right) - X (Type~~~of~~~disturbance)$$
 
 
