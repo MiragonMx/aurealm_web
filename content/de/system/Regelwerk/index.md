@@ -38,6 +38,7 @@ Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser ü
 Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich und die Treffer-Punkte regenerieren sich von alleine. Dies wird in der Regeneration pro In-Game-Stunde angegeben, also in der Zeit, welche die Spieler-Charaktere erleben. Eine schwere Verletzung kann auch dazu führen, dass die Regenerationsrate reduziert wird.
 	
 $$ Treffer-Punkte = \left(\frac{Stärke}{2} + \frac{Konstitution}{4}\right) \cdot Level + 10$$
+
 $$ TP-Regeneration / h = \left(max. TP \over 10 \right) - X (Art der Verletzung)$$		
 
  
@@ -45,6 +46,7 @@ $$ TP-Regeneration / h = \left(max. TP \over 10 \right) - X (Art der Verletzung)
 Der Mana-Vorrat jedes Charakters regeneriert sich ebenfalls mit der In-Game-Zeit.		
 
 $$ Mana-Punkte = \left(Intelligenz \cdot Level \over 2 \right) + Magiefähigkeit + 10$$
+
 $$ Mana-Regeneration / h = \left(max. Mana \over 10 \right)$$			
 
 
@@ -52,6 +54,7 @@ $$ Mana-Regeneration / h = \left(max. Mana \over 10 \right)$$
 In sicherer Umgebung regeneriert sich der MB-Wert ebenfalls.
 
 $$ Mentale Belastbarkeit = \left(Charisma \cdot Level \over 2 \right) + 50$$
+
 $$ MB-Regeneration / h = \left(max. MB \over 10 \right) - X (Art der Verstörung)$$
 
 
@@ -82,7 +85,7 @@ Fähigkeiten sind Tätigkeiten, die ein Charakter explizit gelernt oder gemeiste
 
 Um eine Aktion auszuführen, muss mit einem W20 auf den dazugehörigen Fähigkeitswert geworfen werden. Falls eine Aktion ausgeführt werden soll, die nicht gelernt wurde, muss eine Probe auf den Wert der Begabung gewürfelt werden. Würfe auf Begabungen können weder kritische Erfolge erzielen, noch kritisch fehlschlagen. Der Begabungswert berechnet sich mit der folgenden Formel:
 	
-$$Begabungswert = frac{sum Fähigkeitsspunkte}{10} le 8$$
+$$Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8$$
 	
 Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben, als zu versuchen, auf die Begabung zu würfeln. Ist eine Fähigkeit gelernt, ihr Wert aber geringer als der zugehörige Begabungswert, ergibt sich als auf den zu würfelnden Wert: *\(Begabungswert + 1\)*. Hierzu ein kleines Beispiel: Dein Charakter befindet sich gerade im Wald und möchte die Spuren eines Rehs verfolgen. der Charakter hat dabei einen Begabungswert von 5 in der Kategorie *Wissen*, allerdings nur 3 Fähigkeitspunkte in der Fähigkeit *Spuren lesen*. Da dein Begabungswert nun höher ist als den Fähigkeitswert, wird statt auf den Fähigkeitswert auf den *\(Begabungswert + 1\)* gewürfelt, in diesem Falle also auf den Wert 6 (5+1). Fähigkeiten lassen sich immer in eine der drei Begabungen einordnen. Solltest es nicht eindeutig sein, in welche Begabung eine Fähigkeit fällt, entscheidet der DM. Im folgenden sind einigen möglichen Fähigkeiten vorgestellt und den entsprechenden Begabungen zugeordnet.
 
