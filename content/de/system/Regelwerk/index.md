@@ -32,9 +32,7 @@ Aus den Attributen deines Charakter berechnen sich nun folgende Werte:
 
 
 * **Treffer-Punkte:** Die Treffer-Punkte (TP) beschreiben das die Lebenspunkte eines Charakters. Erleidet der Held während eines Kampfes oder aus einem anderen Grund Schaden, sinken dessen Treffer-Punkte. Fallen die TP auf einen Schlag um 75% der Gesamt-TP oder insgesamt auf unter 10% der maximalen Treffer-Punkte des Charakters, wird dieser bewusstlos. Erleidet ein bewusstloser Held danach erneut Schaden, sodass dessen TP auf 0% fallen, stirbt der Charakter. Es ist allerdings nicht möglich, eine Figur zu töten, ohne dass diese bewusstlos wird. Somit stirbt ein Held nicht, wenn er auf einen Schlag Schaden in Höhe seiner maximalen Treffer-Punkte erleidet. Obwohl dieser dann einen TP-Wert von 0 hat, wird der Held zunächst bewusstlos und muss erst ein weiteres Mal Schaden erleiden, um final zu sterben.
- 
 Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser über den Schwellenwert von 10% bzw. 25% (je nachdem aus welchem Grund der Charakter bewusstlos geworden ist) geheilt werden. Alternativ ist es auch möglich, durch einen Wurf auf eine Fähigkeit (beispielsweise auf *Medizin*) den Helden zurück in die Gegenwart zu holen. Hier entschiedet der DM, ob eine Fähigkeit geeignet dafür ist.
-
 Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich und die Treffer-Punkte regenerieren sich von alleine. Dies wird in der Regeneration pro In-Game-Stunde angegeben, also in der Zeit, welche die Spieler-Charaktere erleben. Eine schwere Verletzung kann auch dazu führen, dass die Regenerationsrate reduziert wird.
 	
 $$ Treffer-Punkte = \left(\frac{Stärke}{2} + \frac{Konstitution}{4}\right) \cdot Level + 10$$
