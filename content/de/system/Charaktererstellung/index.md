@@ -9,14 +9,12 @@ thumbnail: img/Charaktererstellung (4_3).png
 Hier ist natürlich grundlegend einmal wichtig, eurem Charakter einen Namen, ein Alter und eine Geschichte zu geben. Versucht euch zu überlegen, was die Ziele eures Charakters im Leben sind, was ihn bisher beeinflusst hat, welche Werte ihm wichtig sind und ob er irgendwelche Ticks oder Verhaltensmuster hat. Macht euch hier wirklich in Ruhe Gedanken und überlegt euch, welchen Charakter ihr selbst spielen und auch ausleben wollt.
 Nun geht es an die Vergabe der Werte. Der hier vorgestellte Beispielscharakter soll den Namen Verlon haben, der mit 21 Jahren noch recht jung ist. Verlon ist nicht der hellste, physisch aber sehr gut aufgestellt. Charisma und Geschicklichkeit sind bei ihm leicht unterdurchschnittlich. So ergeben sich folgende Attributs-Werte:
 
-| Attribut <img width=500/> | Attributs-Wert <img width=500/> | 
-| :---: | :---: |
-| Stärke | 7 |
-| Geschicklichkeit | 4 | 
-| Konstitution | 8 |
-| Intelligenz | 2 |
-| Charisma | 4 |
-
+* **Stärke:** 7
+* **Geschicklichkeit:** 4
+* **Konstitution:** 8
+* **Intelligenz:** 2
+* **Charisma:** 4 
+ 
 Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigkeit, kann dies später aber bei jedem Levelaufstieg nachholen. Damit ergeben sich für ihn folgende Werte:
 
 | Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> | 
