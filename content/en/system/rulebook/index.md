@@ -8,13 +8,13 @@ thumbnail: img/Rulebook (4_3).png
 
 The Arkanthia Rulebook is a new and free rulebook for your own pen and paper adventure. It focuses on player freedom and fast character creation. This allows you to create exactly the character you want to play. Plus, you don't have to wade through 20 pages of rules and abilities - you can start in 30 minutes or less and be off on your next adventure with your freshly created hero. To find out exactly how to create your own character, take a quick look at the pen and paper tutorial.
 
-# Pen and Paper - An overview
+## Pen and Paper - An overview
 
 The basic principle of pen and paper is actually quite simple to explain. There are two roles in a group, the players and the dungeon master. The players each embody a character of their own creation, known as a player character. The skills and traits of each character are determined by the rules and written on a character sheet. The Dungeon Master (DM) is responsible for running the game, telling the story, embodying the non-player characters and representing all the senses of the player characters. Non-player characters are characters that exist in the world but are not embodied by the players at the table. The world only exists in the minds of all the participants. The DM is responsible for embodying all the senses of the player characters. He describes what they see, smell, feel and taste. The imagination of the players at the table can be aided by environment cards or figures. The characters then enter this world and experience an adventure prepared by the Dungeon Master. Unlike many computer games, there are no limits set by the software. The only limit is your own imagination.
 
 Throughout the course of the adventure, the player characters will be faced with problems. For example, there may be a high rock face to climb, a lock to pick, or an enemy to convince. Whether or not the player characters succeed is decided by a roll of the dice. This is where the character sheet from character creation comes into play. This can be used to acquire and improve skills before the adventure begins, or by leveling up during the adventure. These are assigned a numerical value depending on how well the player character has mastered the skill. Dice are rolled to determine if the character has successfully completed the task. This is also called a 'test roll'. The result of the die roll is compared to the numerical value of the skill. If the number rolled is lower than the numerical value of the skill, the player character has successfully mastered the task; if the number rolled is higher than the numerical value of the skill, the action is unsuccessful. Dice are also used in other situations, such as fights between player characters or with non-player characters. Again, dice are used to check the success of combat actions, but the damage done is also determined by the roll of the dice. Because dice are used in so many different situations, different types of dice are needed. The smallest die is usually the W4, a die with four sides. Other dice used in the game include the classic six-sided W6, as well as W8, W10, W12 and W20 dice, depending on the situation.
 
-# Attributes
+## Attributes
 
 Attributes are used to describe the basic nature of a character and to give a general direction in which the character should develop. Attributes are usually innate, or trained over a long period of time, so they cannot be improved during the course of the adventure (or except in very special circumstances). This initial setting is very important and has a strong effect on the character. On the one hand, you can roll dice to test your attribute values, and on the other hand, it has an effect on aspects such as hit points, mana points and your hero's ability values. Each attribute is described briefly below:
 
@@ -70,7 +70,7 @@ $$ Reichweite = \left(Constitution + Dexterity \over 2 \right)$$
 $$ Dodge = \left(Dexterity \over 2 \right)$$
 
 
-# Abilities and Talents
+## Abilities and Talents
 
 Abilities are activities that a character has explicitly learnt or mastered. Each ability has a value of Ability Points (AP). The more AP you invest in a skill, the stronger your character will be in that skill. Each ability is assigned to one of the three talents **Action**, **Social** and **Knowledge**.
 
@@ -102,7 +102,7 @@ It is always better to have an appropriate ability at hand for an action than to
 | Humour | Talking out | Leading | Manipulating | Bargaining |
 
 
-## Standard ability
+### Standard ability
 
 Each player has default abilities that do not need to be learned, but can be improved. This means that these abilities do not cost any additional skill points at the start of character creation. These are_
 
@@ -116,7 +116,7 @@ Each player has default abilities that do not need to be learned, but can be imp
 Before you train these skills, place them in the appropriate skill category with a value of 1.
 
 
-## Improve abilities
+### Improve abilities
 
 At the start of character creation, each player may spend 150 ability points on abilities. In principle, there is no limit to the number of APs that can be spent on each skill, but the higher the skill level, the more APs are required to develop it.
 
@@ -133,11 +133,11 @@ Your starting attributes also have an effect on your abilities, giving you $\(+ 
 Once the 150 points have been distributed, the total ability points for each ability are added together and divided by 10 (this does not take into account any extra points gained through attributes). This is the general talent score and can reach a maximum of 8. This can be used to perform actions for which you have no ability level.
 
 
-# Level up
+## Level up
 
 At a certain point in the adventure, each character's level increases.Each level up gives the player 8 skill points.These can be spent immediately or saved for the next level up. FPs cannot be spent spontaneously during an adventure, but only when the character levels up again, or in a quiet situation where there is no advantage to spending the remaining FPs. For example, a character could spend his three FPs to *Lockpicking* around a campfire in the evening. This is not possible if the group has just found a chest that needs to be opened.
 
-## Skilling without leveling up
+### Skilling without leveling up
 
 Situations in the quest, conversations with NPCs, or items found can all lead to a character gaining abilities or, in rare cases, attributes. In addition, characters can receive character traits over the course of the game, which can be permanent buffs or nerfs.
 

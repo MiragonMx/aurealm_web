@@ -8,13 +8,13 @@ thumbnail: img/Regelwerk (4_3).png
 
 Das Arkanthia Regelwerk ist ein neues und kostenlos spielbares Regelwerk für dein eigenes Pen and Paper Abenteuer. Es legt einen besonderen Fokus auf die Freiheiten der Spielenden und eine schnelle Charaktererstellung. So kannst du aus deinem Charakter genau die Figur machen, die du gerne spielen möchtest. Außerdem musst du dich nicht erst durch 20 Seiten Regeln und Fähigkeiten kämpfen, sondern kannst nach maximal 30 Minuten loslegen und mit deinem frisch erstellten Helden ins nächste Abenteuer ziehen. Wie du genau deine eigene Figur erstellst, erfährst du nach einem kurzen Überblick über Pen and Paper.
 
-# Pen and Paper - Ein Überblick
+## Pen and Paper - Ein Überblick
 
 Das Grundprinzip von Pen and Paper ist eigentlich recht schnell erklärt. In einer Spielgruppe gibt es zwei Rollen, die der Spielenden und die des Dungeon Masters. Die Spielenden verkörpern je einen selbst ausgedachte Charakter, die sogenannten Spieler-Charaktere. Die Fähigkeiten und Eigenschaften jedes einzelnen Spieler-Charakters werden unter Verwendung eines Regelwerks festgelegt und auf einem Charakterbogen aufgeschrieben. Der Dungeon Master ist dafür verantwortlich das Spiel zu leiten, die Geschichte zu erzählen, Nicht-Spieler-Charaktere zu verkörpern und alle Sinne der Spieler-Charaktere darzustellen. Nicht-Spieler-Charaktere sind dabei Figuren, die in der Welt vorkommen aber nicht von den Spielenden am Tisch verkörpert werden. Die Welt entsteht dabei nur in dem Kopf aller Beteiligten. Der DM ist dafür verantwortlich, alle Sinne der Spieler-Charaktere zu verkörpern. Er beschriebt also, was diese sehen, riechen, fühlen und schmecken. Mit Umgebungskarten oder Figuren kann die Vorstellung der Spielenden am Tisch etwas unterstützt werden. In diese Welt tauchen die Spiele-Charaktere nun ein und erleben ein vom Dungeon Master vorbereitetes Abenteuer. Im Gegensatz zu vielen Computerspielen gibt es hier keinerlei Grenzen, die von der Software vorgegeben werden. Die einzigen Grenze ist die eigene Vorstellungskraft.
 
 Im Verlauf des Abenteuers werden die Spieler-Charaktere immer wieder auf vor Probleme gestellt. So kann eine hohe Felswand zu erklimmen, ein Schloss zu knacken sein oder ein Feind zu überzeugen sein. Ob die Spieler-Charaktere diese Aufgaben erfolgreich bewältigen, wird mittels Würfel entschieden. Hier kommt der Charakterbogen von der Charaktererstellung wieder ins Spiel. In diesem können vor Beginn des Abenteuers, oder durch Level Ups währenddessen, Fähigkeiten erworben und verbessert werden. Diesen wird ein Zahlwert zugewiesen, je nachdem wie gut der Spieler-Charakter die Fähigkeit beherrscht. Um nun zu bestimmen, ob der Spiele-Charakter die Aufgabe erfolgreich bewältigt, wird gewürfelt. Das nennt man auch "eine Probe würfel". Die Zahl des Würfelwurfes wird nun mit dem Zahlwert der Fertigkeit verglichen. Liegt die gewürfelte Zahl unter dem Zahlwert der Fähigkeit, hat der Spieler-Charakter seine Aufgabe erfolgreich gemeistert, liegt der Würfelwert über dem der Fähigkeit, so gelingt die Aktion nicht. Würfel werden noch in anderen Situationen eingesetzt, beispielsweise bei Kämpfen der Spieler-Charaktere untereinander oder mit Nicht-Spieler-Charakteren. Zum einen werden sie wieder benutzt, um zu überprüfen, ob Kampfaktionen erfolgreich durchgeführt werden, aber auch der ausgeteilte Schaden wird durch Würfeln bestimmt. Da Würfel in verschiedensten Situationen verwendet werden, sind auch verschiedene Arten von Würfel nötig. Der kleinste Würfel ist meistens der W4, also ein Würfel mit vier Seiten. Darüber hinaus wird häufig noch der klassische W6 mit sechs Seiten sowie W8-, W10-, W12- und W20-Würfel genutzt, die je nach Situation eingesetzt werde.
 
-# Attribute
+## Attribute
 
 Attribute sollen den Charakter grundlegend beschreiben und geben eine grobe Richtung vor, in welche sich der Charakter entwickeln sollte. Tendenziell sind Attribute angeboren oder langfristig antrainiert, weshalb sie im Verlaufe des Abenteuers nicht mehr (oder nur in ganz besonderen Ausnahmesituationen) verbessert werden können. Diese erste Ausrichtung ist sehr wichtig und hat starke Auswirkungen auf den Spielcharakter. Es können zum einen Proben auf deinen Attributs-Wert geworfen werden, zum anderen hat dieser auch Auswirkungen auf Aspekte wie Treffer- und Mana-Punkte oder die Fähigkeits-Werte deines Heldens. Im Folgenden sind die einzelnen Attribute kurz beschrieben:
 
@@ -71,7 +71,7 @@ $$ Reichweite = \left(Konstitution + Geschicklichkeit \over 2 \right)$$
 $$ Ausweichen = \left(Geschicklichkeit \over 2 \right)$$
 
 
-# Fähigkeiten und Begabungen
+## Fähigkeiten und Begabungen
 
 Fähigkeiten sind Tätigkeiten, die ein Charakter explizit gelernt oder gemeistert hat. Jeder Fähigkeit können Fähigkeitspunkte (FP) zugeteilt werden. Je mehr Fähigkeitspunkte in eine Fähigkeit investiert werden, desto stärker ist dein Charakter in dieser. Jede Fähigkeit ist einer von den drei Begabungen *Handeln*, *Soziales* und *Wissen* zuzuordnen.
 
@@ -104,7 +104,7 @@ Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben
 | Humor | Raus reden | Führen | Manipulieren | Feilschen |  |
 
 
-## Standardfertigkeiten
+### Standardfertigkeiten
 
 Jeder Spieler hat Standardfertigkeiten, die nicht explizit gelernt werden müssen, aber verbessert werden können. Das bedeutet, diese Fähigkeiten kosten zu Beginn der Charaktererstellung auch keine zusätzlichen Fähigkeitspunkte. Es handelt sich dabei um:
 
@@ -118,7 +118,7 @@ Jeder Spieler hat Standardfertigkeiten, die nicht explizit gelernt werden müsse
 Vor dem Skillen der Fähigkeiten werden diese Fertigkeiten mit dem Wert 1 in die entsprechenden Begabungskategorien eingetragen.
 
 
-## Verbessern von Fähigkeiten
+### Verbessern von Fähigkeiten
 
 Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkeitspunkte auf Fähigkeiten verteilen. Grundsätzlich dürfen unbegrenzt FPs pro Fähigkeit verteilt werden, wobei die Entwicklung von Fähigkeiten mehr FPs kostet, je höher die Fähigkeit entwickelt wird.
 
@@ -135,11 +135,11 @@ Eure zu Beginn bestimmten Attribute haben auch einen Einfluss auf eure Fähigkei
 Sind die 150 Punkte verteilt, werden die gesamten Fähigkeitspunkte einer Begabung aufsummiert und durch 10 geteilt (hier werden die Zusatzpunkte durch die Attribute nicht berücksichtigt). Dies ist der genereller Begabungswert und kann maximal den Wert 8 erreichen. Der Begabungswert kann eingesetzt werden, um Aktionen durchzuführen, für die ihr keine Fähigkeit gelevelt habt.
 
 
-# Levelaufstieg
+## Levelaufstieg
 
 Ist ein bestimmter Punkt im Abenteuer erreicht, erhöht sich das Level jedes Charakters. Mit jedem Levelaufstieg erhält der Spieler 8 weitere Fähigkeitspunkte. Diese können sofort ausgegeben werden, oder für den nächsten Levelaufstieg gespart werden. FPs können nicht im Verlauf eines Abenteuers spontan eingesetzt werden, sondern nur bei einem erneuten Levelaufstieg oder in einer ruhigen Situation, in der der Charakter durch den Einsatz der noch verbleibenden FPs keinen Vorteil zieht. So kann ein Charakter beispielsweise abends am Lagerfeuer seine drei FPs in *Schloss knacken* investieren. Dies geht aber nicht, wenn die Gruppe in ihrem Abenteuer gerade eine Truhe gefunden hat, die geöffnet werden soll.
 
-## Skillen ohne Levelaufstieg
+### Skillen ohne Levelaufstieg
 
 Durch Situationen im Abenteuer, Gespräche mit NPCs oder gefundene Objekte kann es jederzeit vorkommen, dass ein Charakter Fähigkeiten oder in seltenen Fällen auch Attribute zugeteilt bekommen kann. Zusätzlich können Charaktere im Verlauf Charakter-Eigenschaften erhalten, welche sowohl Perma-Buffs als auch -Nerfs sein können.
 
