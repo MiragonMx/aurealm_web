@@ -42,7 +42,7 @@ $$ HP-Regeneration / h = \left(max.~~~HP \over 10\right) - X (Type~~~of~~~injury
 * **Mana Points:** Mana Points (MP) are a resource that is consumed by each spell. If all your mana is used up, it will have no effect on your character. However, if a hero does not have enough mana for a spell, the spell cannot be cast. If the character tries to cast the spell anyway, the remaining mana will be used up completely and the DM can deal with the situation on an individual basis. For example, the spell may have a weaker effect, other side effects, or no effect at all. In addition to your intelligence and level, the maximum amount of mana you can gain depends on your *Magic capabilityt*-Ability, which can be actively improved. You can find out how your character gains abilities later in the rulebook.
 Each character's mana supply also regenerates over time.	
 
-$$ Mana Points = \left(Intelligence \cdot level \over 2 \right) + *Magic capabilityt* + 10$$
+$$ Mana Points = \left(Intelligence \cdot level \over 2 \right) + Magic capabilityt + 10$$
 
 $$ MP-Regeneration / h = \left(max.~~~Mana \over 10\right)$$			
 
