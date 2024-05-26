@@ -2,7 +2,7 @@
 title: "Arkanthia Regelwerk"
 draft: false
 publishdate: 2024-04-29T09:00:00+02:00
-summary: "Hier findet ihr das gratis Regelwerk des Arkanthia Spielsystems."
+summary: "Hier findet ihr das komplette Regelwerk des Arkanthia Spielsystems gratis für eure eigene Kampagne."
 thumbnail: img/Arkanthia_Logo (4_3).png
 ---
 
@@ -32,7 +32,7 @@ Aus den Attributen deines Charakter berechnen sich nun folgende Werte:
 
 
 * **Treffer-Punkte:** Die Treffer-Punkte (TP) beschreiben das die Lebenspunkte eines Charakters. Erleidet der Held während eines Kampfes oder aus einem anderen Grund Schaden, sinken dessen Treffer-Punkte. Fallen die TP auf einen Schlag um 75% der Gesamt-TP oder insgesamt auf unter 10% der maximalen Treffer-Punkte des Charakters, wird dieser bewusstlos. Erleidet ein bewusstloser Held danach erneut Schaden, sodass dessen TP auf 0% fallen, stirbt der Charakter. Es ist allerdings nicht möglich, eine Figur zu töten, ohne dass diese bewusstlos wird. Somit stirbt ein Held nicht, wenn er auf einen Schlag Schaden in Höhe seiner maximalen Treffer-Punkte erleidet. Obwohl dieser dann einen TP-Wert von 0 hat, wird der Held zunächst bewusstlos und muss erst ein weiteres Mal Schaden erleiden, um final zu sterben.
-* 
+ 
 Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser über den Schwellenwert von 10% bzw. 25% (je nachdem aus welchem Grund der Charakter bewusstlos geworden ist) geheilt werden. Alternativ ist es auch möglich, durch einen Wurf auf eine Fähigkeit (beispielsweise auf *Medizin*) den Helden zurück in die Gegenwart zu holen. Hier entschiedet der DM, ob eine Fähigkeit geeignet dafür ist.
 
 Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich und die Treffer-Punkte regenerieren sich von alleine. Dies wird in der Regeneration pro In-Game-Stunde angegeben, also in der Zeit, welche die Spieler-Charaktere erleben. Eine schwere Verletzung kann auch dazu führen, dass die Regenerationsrate reduziert wird.
@@ -121,6 +121,12 @@ Vor dem Skillen der Fähigkeiten werden diese Fertigkeiten mit dem Wert 1 in die
 
 Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkeitspunkte auf Fähigkeiten verteilen. Grundsätzlich dürfen unbegrenzt FPs pro Fähigkeit verteilt werden, wobei die Entwicklung von Fähigkeiten mehr FPs kostet, je höher die Fähigkeit entwickelt wird.
 
+* Fähigkeitswert 0-4: 1 FP
+* Fähigkeitswert 5-9: 2 FP
+* Fähigkeitswert 10-14: 3 FP
+* Fähigkeitswert 15-19: 4 FP
+* Fähigkeitswert 20+: 5 FP
+
 | Fähigkeitswert <img width=500/> | Kosten <img width=500/> | 
 | :---: | :---: |
 | 0-4 | 1 FP |
@@ -142,4 +148,6 @@ Ist ein bestimmter Punkt im Abenteuer erreicht, erhöht sich das Level jedes Cha
 ## Skillen ohne Levelaufstieg
 
 Durch Situationen im Abenteuer, Gespräche mit NPCs oder gefundene Objekte kann es jederzeit vorkommen, dass ein Charakter Fähigkeiten oder in seltenen Fällen auch Attribute zugeteilt bekommen kann. Zusätzlich können Charaktere im Verlauf Charakter-Eigenschaften erhalten, welche sowohl Perma-Buffs als auch -Nerfs sein können.
+
+Eine beispielhafte Charaktererstellung für euren eigenen Helden findet ihr **hier**, das Kampfsystem der Regelwerks wir **hier** ausführlich erklärt.
 
