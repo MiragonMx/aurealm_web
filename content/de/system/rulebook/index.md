@@ -1,7 +1,7 @@
 ---
 title: "Arkanthia Regelwerk"
 draft: false
-publishdate: 2024-04-29T09:00:00+02:00
+publishdate: 2024-04-29T09:02:00+02:00
 summary: "Hier findet ihr das komplette Regelwerk des Arkanthia Spielsystems gratis für eure eigene Kampagne."
 thumbnail: img/Regelwerk (4_3).png
 ---
@@ -19,9 +19,9 @@ Im Verlauf des Abenteuers werden die Spieler-Charaktere immer wieder auf vor Pro
 Attribute sollen den Charakter grundlegend beschreiben und geben eine grobe Richtung vor, in welche sich der Charakter entwickeln sollte. Tendenziell sind Attribute angeboren oder langfristig antrainiert, weshalb sie im Verlaufe des Abenteuers nicht mehr (oder nur in ganz besonderen Ausnahmesituationen) verbessert werden können. Diese erste Ausrichtung ist sehr wichtig und hat starke Auswirkungen auf den Spielcharakter. Es können zum einen Proben auf deinen Attributs-Wert geworfen werden, zum anderen hat dieser auch Auswirkungen auf Aspekte wie Treffer- und Mana-Punkte oder die Fähigkeits-Werte deines Heldens. Im Folgenden sind die einzelnen Attribute kurz beschrieben:
 
 
-* **Stärke:** Das Attribut Stärke beschreibt nicht nur die Muskelmassen deines Charakters, sondern auch, wie zäh dieser ist. Es wirkt sich positiv auf die *Treffer-Punkte* deines Charakters, aber negativ auf dessen *Initiative* aus. 
+* **Stärke:** Das Attribut Stärke beschreibt nicht nur die Muskelmassen deines Charakters, sondern auch, wie zäh dieser ist. Es wirkt sich positiv auf die *Treffer-Punkte* deines Charakters, aber negativ auf dessen *Initiative* aus.
 * **Geschicklichkeit:** Eine Figur mit hohe Geschicklichkeit ist besonders gut darin, schnell und mit hoher Gewandtheit Aufgaben auszuführen. Das hilft dir zum Beispiel, wenn du etwas reparieren oder ein Handwerk ausführen möchtest. Ein hoher Geschicklichkeitswert begünstigt daher die *Initiative* und die *Reichweite* deines Heldens sowie den Wert *Ausweichen*.
-* **Konstitution:** Ein Charakter mit hoher Konstitution ist körperlich sehr fit und ausdauernd. Damit kann dein Charakter gut in einer langen Verfolgungsjagd bestehen und hat weniger Probleme, wenn mehrere Tage lang gereist werden muss. Es verbessert daher die *Treffer-Punkte* und *Handeln-Fähigkeiten* deines Spieler-Charakters sowie dessen *Reichweite* im Kampf.	
+* **Konstitution:** Ein Charakter mit hoher Konstitution ist körperlich sehr fit und ausdauernd. Damit kann dein Charakter gut in einer langen Verfolgungsjagd bestehen und hat weniger Probleme, wenn mehrere Tage lang gereist werden muss. Es verbessert daher die *Treffer-Punkte* und *Handeln-Fähigkeiten* deines Spieler-Charakters sowie dessen *Reichweite* im Kampf.
 * **Intelligenz:** Ein intelligenter Held verfügt über eine besonders gute Auffassungsgabe und kann auch komplizierte Zusammenhänge schnell verstehen. Deshalb profitieren alle *Wissens-Fähigkeiten* von einem hohen Wert in Intelligenz und dieser wirkt sich auch positiv auf die *Mana-Punkte* aus.
 * **Charisma:** Charisma beschreibt die Ausstrahlungskraft des Charakters. Je charismatischer der Held ist, desto stärker ist dessen Wirkung auf andere Menschen. Daher wirkt sich ein hoher Charisma-Wert positiv auf alle *Sozialen-Fähigkeiten* aus, allerdings profitiert auch die *Mentale-Belastbarkeit* deines Charakters von hohem Charisma.
 
@@ -34,18 +34,18 @@ Aus den Attributen deines Charakter berechnen sich nun folgende Werte:
 * **Treffer-Punkte:** Die Treffer-Punkte (TP) beschreiben das die Lebenspunkte eines Charakters. Erleidet der Held während eines Kampfes oder aus einem anderen Grund Schaden, sinken dessen Treffer-Punkte. Fallen die TP auf einen Schlag um 75% der Gesamt-TP oder insgesamt auf unter 10% der maximalen Treffer-Punkte des Charakters, wird dieser bewusstlos. Erleidet ein bewusstloser Held danach erneut Schaden, sodass dessen TP auf 0% fallen, stirbt der Charakter. Es ist allerdings nicht möglich, eine Figur zu töten, ohne dass diese bewusstlos wird. Somit stirbt ein Held nicht, wenn er auf einen Schlag Schaden in Höhe seiner maximalen Treffer-Punkte erleidet. Obwohl dieser dann einen TP-Wert von 0 hat, wird der Held zunächst bewusstlos und muss erst ein weiteres Mal Schaden erleiden, um final zu sterben.
 Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser über den Schwellenwert von 10% bzw. 25% (je nachdem aus welchem Grund der Charakter bewusstlos geworden ist) geheilt werden. Alternativ ist es auch möglich, durch einen Wurf auf eine Fähigkeit (beispielsweise auf *Medizin*) den Helden zurück in die Gegenwart zu holen. Hier entschiedet der DM, ob eine Fähigkeit geeignet dafür ist.
 Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich und die Treffer-Punkte regenerieren sich von alleine. Dies wird in der Regeneration pro In-Game-Stunde angegeben, also in der Zeit, welche die Spieler-Charaktere erleben. Eine schwere Verletzung kann auch dazu führen, dass die Regenerationsrate reduziert wird.
-	
+
 $$ Treffer-Punkte = \left(\frac{Stärke}{2} + \frac{Konstitution}{4}\right) \cdot Level + 10$$
 
-$$ TP-Regeneration / h = \left(max.~~~TP \over 10 \right) - X (Art~~~der~~~Verletzung)$$		
+$$ TP-Regeneration / h = \left(max.~~~TP \over 10 \right) - X (Art~~~der~~~Verletzung)$$
 
- 
+
 * **Mana-Punkte:** Mana-Punkte (MP) sind eine Ressource, die bei jedem Zauber verbraucht wird. Wenn die gesamten Mana-Punkte vollständig verbraucht wurde, hat dies keine weiteren Effekte auf den Charakter. Hat ein Held allerdings nicht genügend MP für einen Zauber, kann dieser nicht gewirkt werden. Versucht es der Charakter trotzdem, werden die verbliebene Mana-Punkte restlos verbraucht und der DM kann individuell mit der Situation umgehen. Es ist bspw. möglich, dass der Zauber schwächer wirkt, andere Nebeneffekte, oder einfach gar keinen Effekt hat. Die maximalen Mana-Punkte sind neben der Intelligenz und dem Level des Heldens auch von dem Fähigkeitswert *Magiefähigkeit* abhängig, der aktiv verbessert werden kann. Wie dein Charakter Fähigkeiten erhält, erfährst du später im Regelwerk.
-Die MP jedes Charakters regeneriert sich ebenfalls mit der In-Game-Zeit.		
+Die MP jedes Charakters regeneriert sich ebenfalls mit der In-Game-Zeit.
 
 $$ Mana-Punkte = \left(Intelligenz \cdot Level \over 2 \right) + Magiefähigkeit + 10$$
 
-$$ MP-Regeneration / h = \left(max.~~~Mana \over 10 \right)$$			
+$$ MP-Regeneration / h = \left(max.~~~Mana \over 10 \right)$$
 
 
 * **Mentale Belastbarkeit:** Die mentale Belastbarkeit (MB) beschreibt den Geisteszustand des Charakters. Er kann beispielsweise durch Angst und Furcht, aber genauso durch Freude oder Glaube beeinflusst werden. Geschehen Ereignisse, wodurch die MB des Charakters unter 10% oder auf einen Schlag unter 75% fällt, verliert der Charakter seine Beherrschung (Flucht, Angststarre, Panikattacke, etc.), bis er wieder über 10% bzw. 25% MB verfügt, oder durch andere Mittel zur Ruhe gebracht wird. Mentale Belastbarkeit verhält sich somit nahezu identisch wie die Trefferpunkte eines Heldens. Fällt die mentale Belastbarkeit eines Charakters allerdings auf 0, stirbt dieser nicht. Stattdessen erhält er eine, der Situation angemessene, Angst als permanente Charakter-Eigenschaft (Beispielsweise vor Wasser oder der Dunkelheit).
@@ -76,15 +76,15 @@ $$ Ausweichen = \left(Geschicklichkeit \over 2 \right)$$
 Fähigkeiten sind Tätigkeiten, die ein Charakter explizit gelernt oder gemeistert hat. Jeder Fähigkeit können Fähigkeitspunkte (FP) zugeteilt werden. Je mehr Fähigkeitspunkte in eine Fähigkeit investiert werden, desto stärker ist dein Charakter in dieser. Jede Fähigkeit ist einer von den drei Begabungen *Handeln*, *Soziales* und *Wissen* zuzuordnen.
 
 * **Handeln:** Eine Handlung ist, was dein Charakter aktiv tut. Handeln hat vor allem eine physische Komponente. Körperlich anstrengende Aktionen (z.B. das Anheben eines schweren Gegenstands oder das Fällen von Bäumen) zählen genauso in diese Gruppe wie feinmotorische Aktionen (bspw. das Schnitzen einer Holzfigur).
-	
+
 * **Wissen:** Wissen braucht dein Charakter beispielsweise, um einefremde Sprache zu verstehen, politische Differenzen einordnen zu können, mathematische Zusammenhänge nachzuvollziehen oder Pflanzen und Tiere unterscheiden zu können. Fähigkeiten, die in der Gruppe Wissen eingeordnet sind, gelten oft als neutral und analytisch. Hierunter fallen meist geistige Fähigkeiten, die besonders von Intelligenz und Bildung abhängen.
-	
+
 * **Soziales:** Soziale Fähigkeiten werden vor allem bei der Interaktion mit Nicht Spieler Charakteren notwendig. Soziales beschreibt also vor allem Fähigkeiten, die mit zwischenmenschlicher Interaktion zu tun haben. Hierzu gehören aktive Fähigkeiten wie Lügen oder Manipulieren, aber auch passive Fähigkeiten wie beispielsweise Menschenkenntnis.
 
 Um eine Aktion auszuführen, muss mit einem W20 auf den dazugehörigen Fähigkeitswert geworfen werden. Falls eine Aktion ausgeführt werden soll, die nicht gelernt wurde, muss eine Probe auf den Wert der Begabung gewürfelt werden. Würfe auf Begabungen können weder kritische Erfolge erzielen, noch kritisch fehlschlagen. Der Begabungswert berechnet sich mit der folgenden Formel:
-	
+
 $$Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8$$
-	
+
 Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben, als zu versuchen, auf die Begabung zu würfeln. Ist eine Fähigkeit gelernt, ihr Wert aber geringer als der zugehörige Begabungswert, ergibt sich als auf den zu würfelnden Wert: *\(Begabungswert + 1\)*. Hierzu ein kleines Beispiel: Dein Charakter befindet sich gerade im Wald und möchte die Spuren eines Rehs verfolgen. der Charakter hat dabei einen Begabungswert von 5 in der Kategorie *Wissen*, allerdings nur 3 Fähigkeitspunkte in der Fähigkeit *Spuren lesen*. Da dein Begabungswert nun höher ist als den Fähigkeitswert, wird statt auf den Fähigkeitswert auf den *\(Begabungswert + 1\)* gewürfelt, in diesem Falle also auf den Wert 6 (5+1). Fähigkeiten lassen sich immer in eine der drei Begabungen einordnen. Solltest es nicht eindeutig sein, in welche Begabung eine Fähigkeit fällt, entscheidet der DM. Im folgenden sind einigen möglichen Fähigkeiten vorgestellt und den entsprechenden Begabungen zugeordnet.
 
 
@@ -109,7 +109,7 @@ Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben
 Jeder Spieler hat Standardfertigkeiten, die nicht explizit gelernt werden müssen, aber verbessert werden können. Das bedeutet, diese Fähigkeiten kosten zu Beginn der Charaktererstellung auch keine zusätzlichen Fähigkeitspunkte. Es handelt sich dabei um:
 
 * Klettern (Handeln)
-* Schwimmen (Handeln)		
+* Schwimmen (Handeln)
 * Werfen (Handeln)
 * Reiten (Handeln)
 * Plaudern (Soziales)
