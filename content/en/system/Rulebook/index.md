@@ -55,37 +55,36 @@ $$ Mental~~~Resilience: = \left(Charisma \cdot level \over 2 \right) + 50$$
 $$ MR-Regeneration / h = \left(max.~~~MR \over 10\right) - X (Type~~~of~~~disturbance)$$
 
 
-* **Initiative:** Die Initiative ist entscheidend für das Kampf-System. Je geringer die Initiative ist, desto häufiger kommt ein Charakter dran. Alles Weitere hierzu in Kapitel **Kampfsystem**.
+* **Initiative:** Initiative is crucial to the combat system. The lower the initiative, the more often a character will take a turn. You can read more about this in the **Battle System** chapter.
 
-$$ Initiative = \left(Stärke + 20 \over Geschicklichkeit \right)$$
-
-
-* **Reichweite:** Die Reichweite beschreibt den Radius in Metern, den sich ein Charakter innerhalb einer Kampfesrunde bewegen kann. Die Bewegung wird dabei statt anderen Aktionen ausgeführt. Ein Charakter, der sich in einer Kampfrunde die maximale Reichweite bewegt hat, ist nicht mehr in der Lage andere Aktionen durchzuführen. Bewegt er sich nur Teile der maximalen Reichweite, können währenddessen anteilig andere Aktionen ausgeführt werden. So kann beispielsweise ein Bogenschütze seinen Bogen abfeuern, während er leicht läuft. Sprintet er allerdings in die nächste Deckung, ist dies nebenbei nicht mehr möglich.
-
-$$ Reichweite = \left(Konstitution + Geschicklichkeit \over 2 \right)$$
+$$ Initiative = \left(Strength + 20 \over Dexterity \right)$$
 
 
-* **Ausweichen:** Ausweichen ist ein fester Wert, auf den jeder Charakter mit einem W20 werfen kann, nachdem ein Feind diesen angreift. Ist der geworfene Wert kleiner oder genauso groß wie der Ausweichen-Wert, weicht der Charakter den Angriff aus und erhält keinen Schaden.
+* **Range:** Range is the radius in metres that a character can move within a combat round. The movement is performed instead of other actions. A character who has moved the maximum range in a combat round cannot perform any other actions. If only part of the maximum range is moved, other actions can be performed proportionally. For example, an archer can fire his bow while running at a leisurely pace. However, if he sprints to the nearest cover, he will no longer be able to do so.
+
+$$ Reichweite = \left(Constitution + Dexterity \over 2 \right)$$
+
+
+* **Dodge:** Dodge is a fixed value that any character can roll a D20 on after being attacked by an enemy. If the roll is less than or equal to the Dodge value, the character dodges the attack and takes no damage.
 
 $$ Ausweichen = \left(Geschicklichkeit \over 2 \right)$$
 
 
-# Fähigkeiten und Begabungen
+# Abilities and Talents
 
-Fähigkeiten sind Tätigkeiten, die ein Charakter explizit gelernt oder gemeistert hat. Jeder Fähigkeit können Fähigkeitspunkte (FP) zugeteilt werden. Je mehr Fähigkeitspunkte in eine Fähigkeit investiert werden, desto stärker ist dein Charakter in dieser. Jede Fähigkeit ist einer von den drei Begabungen *Handeln*, *Soziales* und *Wissen* zuzuordnen.
+Abilities are activities that a character has explicitly learnt or mastered. Each ability has a value of Ability Points (AP). The more AP you invest in a skill, the stronger your character will be in that skill. Each ability is assigned to one of the three talents **Action**, **Social** and **Knowledge**.
 
-* **Handeln:** Eine Handlung ist, was dein Charakter aktiv tut. Handeln hat vor allem eine physische Komponente. Körperlich anstrengende Aktionen (z.B. das Anheben eines schweren Gegenstands oder das Fällen von Bäumen) zählen genauso in diese Gruppe wie feinmotorische Aktionen (bspw. das Schnitzen einer Holzfigur).
+* **Action:** An action is something that your character does actively. Acting primarily has a physical component. Physically strenuous actions (e.g. lifting a heavy object or cutting down trees) are included in this group, as are fine motor actions (e.g. carving a wooden figurine). (e.g. carving a wooden figure).
 	
-* **Wissen:** Wissen braucht dein Charakter beispielsweise, um einefremde Sprache zu verstehen, politische Differenzen einordnen zu können, mathematische Zusammenhänge nachzuvollziehen oder Pflanzen und Tiere unterscheiden zu können.   Fähigkeiten, die in der Gruppe Wissen eingeordnet sind, gelten oft als neutral und analytisch. Hierunter fallen meist geistige Fähigkeiten, die besonders von Intelligenz und Bildung abhängen.
+* **Knowledge:** For example, your character might need Knowledge to understand a foreign language, categorise political differences, understand mathematical relationships, or distinguish between plants and animals. Abilities in the Knowledge group are often considered neutral and analytical. They tend to be mental abilities that are particularly dependent on intelligence and education.
 	
-* **Soziales:** Soziale Fähigkeiten werden vor allem bei der Interaktion mit Nicht Spieler Charakteren notwendig. Soziales beschreibt also vor allem Fähigkeiten, die mit zwischenmenschlicher Interaktion zu tun haben. Hierzu gehören aktive Fähigkeiten wie Lügen oder Manipulieren, aber auch passive Fähigkeiten wie beispielsweise Menschenkenntnis.
+* **Social:** Social abilities are especially important when interacting with non-player characters. Social primarily describes skills that have to do with interpersonal interaction. This includes active skills such as lying and manipulation, as well as passive skills such as knowing people.\\
 
-Um eine Aktion auszuführen, muss mit einem W20 auf den dazugehörigen Fähigkeitswert geworfen werden. Falls eine Aktion ausgeführt werden soll, die nicht gelernt wurde, muss eine Probe auf den Wert der Begabung gewürfelt werden. Würfe auf Begabungen können weder kritische Erfolge erzielen, noch kritisch fehlschlagen. Der Begabungswert berechnet sich mit der folgenden Formel:
+To perform an action, you must roll a D20 on the associated ability value. To perform an action that has not been learned, you must roll a die for the ability's value. Aptitude rolls can neither critically succeed nor critically fail. The aptitude score is calculated using the following formula:
 	
-$$Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8$$
+$$Talent value = \frac{\sum Ability Points}{10} \le 8$$
 	
-Es ist immer besser für eine Aktion, eine passende Fähigkeit zur Hand zu haben, als zu versuchen, auf die Begabung zu würfeln. Ist eine Fähigkeit gelernt, ihr Wert aber geringer als der zugehörige Begabungswert, ergibt sich als auf den zu würfelnden Wert: $Begabungswert + 1$. Hierzu ein kleines Beispiel: Dein Charakter befindet sich gerade im Wald und möchte die Spuren eines Rehs verfolgen. der Charakter hat dabei einen Begabungswert von 5 in der Kategorie *Wissen*, allerdings nur 3 Fähigkeitspunkte in der Fähigkeit *Spuren lesen*. Da dein Begabungswert nun höher ist als den Fähigkeitswert, wird statt auf den Fähigkeitswert auf den $Begabungswert + 1$ gewürfelt, in diesem Falle also auf den Wert 6 (5+1). Fähigkeiten lassen sich immer in eine der drei Begabungen einordnen. Solltest es nicht eindeutig sein, in welche Begabung eine Fähigkeit fällt, entscheidet der DM. Im folgenden sind einigen möglichen Fähigkeiten vorgestellt und den entsprechenden Begabungen zugeordnet.
-
+It is always better to have an appropriate ability at hand for an action than to try to roll for the ability. If a skill is learned but its value is less than the associated ability value, the result is: *\(ability value + 1\)*. Here is a small example: Your character is in the forest and wants to follow the tracks of a deer. Your character has an ability value of 5 in the talent *Knowledge*, but only 3 ability points in the skill *Read tracks*. Because your talent value is now higher than your ability value, the die roll is *\(ability value + 1\)* instead of the ability value, in this case 6 (5+1). Skills can always be assigned to one of the three talents. If it is not clear which talent an ability falls into, the DM decides. Below are some possible abilities and their corresponding talents.
 
 | Handeln <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
