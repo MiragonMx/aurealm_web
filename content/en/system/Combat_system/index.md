@@ -1,5 +1,5 @@
 ---
-title: "Arkanthia Regelwerk - Combat system"
+title: "Arkanthia Rulebook - Combat system"
 draft: false
 publishdate: 2024-04-29T09:01:00+02:00
 summary: "The combat system of the Arkanthia rulebook is explained here."
