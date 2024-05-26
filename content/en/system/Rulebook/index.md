@@ -88,59 +88,58 @@ It is always better to have an appropriate ability at hand for an action than to
 
 | Action <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Einhändig (Waffenführung) | Zweihändig (Waffenführung) | Schießen | Werfen | Faustkampf | Schleichen |
-| Klettern | Schwimmen | Jagen | Akrobatik | Reiten | Angeln |
+| One-handed (weapon handling) | Two-handed (weapon handling) | Shooting | Throwing | Fistfighting | Sneaking |
+| Climbing | Swimming | Hunting | Acrobatics | Riding | Fishing |
 
 | Knowledge <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Medizin | Tiere | Pflanzen | Alchemie | Kochen | Mechanik|
-| Magiefähigkeit | Schlösserknacken | Spuren lesen | Schmieden | Holzbearbeitung | Religion |
+| Medicine | Animals | Plants | Alchemy | Cooking | Mechanics|
+| Magic Capabilityt| Lockpicking | Reading Tracks | Blacksmithing | Woodworking | Religion |
 
 | Social <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Plaudern | Überzeugen | Lügen | Begeistern | Beruhigen | Flirten |
-| Humor | Raus reden | Führen | Manipulieren | Feilschen |  |
+| Chatting | Persuading | Lying | Inspiring | Calming | Flirting |
+| Humour | Talking out | Leading | Manipulating | Bargaining |
 
 
+## Standard ability
 
-## Standardfertigkeiten
+Each player has default abilities that do not need to be learned, but can be improved. This means that these abilities do not cost any additional skill points at the start of character creation. These are_
 
-Jeder Spieler hat Standardfertigkeiten, die nicht explizit gelernt werden müssen, aber verbessert werden können. Das bedeutet, diese Fähigkeiten kosten zu Beginn der Charaktererstellung auch keine zusätzlichen Fähigkeitspunkte. Es handelt sich dabei um:
+* Climbing (Action)
+* Swimming (Action)		
+* Throwing (Action)
+* Riding (Action)
+* Talking (Social)
+* Lying (Social)
 
-* Klettern (Handeln)
-* Schwimmen (Handeln)		
-* Werfen (Handeln)
-* Reiten (Handeln)
-* Plaudern (Soziales)
-* Lügen (Soziales)
-
-Vor dem Skillen der Fähigkeiten werden diese Fertigkeiten mit dem Wert 1 in die entsprechenden Begabungskategorien eingetragen.
+Before you train these skills, place them in the appropriate skill category with a value of 1.
 
 
-## Verbessern von Fähigkeiten
+## Improve abilities
 
-Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkeitspunkte auf Fähigkeiten verteilen. Grundsätzlich dürfen unbegrenzt FPs pro Fähigkeit verteilt werden, wobei die Entwicklung von Fähigkeiten mehr FPs kostet, je höher die Fähigkeit entwickelt wird.
+At the start of character creation, each player may spend 150 ability points on abilities. In principle, there is no limit to the number of APs that can be spent on each skill, but the higher the skill level, the more APs are required to develop it. 
 
 * Fähigkeitswert 0-4: 1 FP
 * Fähigkeitswert 5-9: 2 FP
 * Fähigkeitswert 10-14: 3 FP
 * Fähigkeitswert 15-19: 4 FP
 * Fähigkeitswert 20+: 5 FP
+  
+The higher the skill level of a character, the better they are at that skill. It may make sense to develop an ability to 20+, even though ability checks are made with a D20. This is because the DM can make the test more difficult in particularly complicated situations. This means that your ability score will be adjusted downwards by a value set by the DM. In such cases, you may benefit from higher ability scores.
+
+Your starting attributes also have an effect on your abilities, giving you $\(+ \frac{Attribute}{4}\)$ for each ability in the corresponding category (Constitution for the ability *Action*, Intelligence for the ability *Knowledge*, Charisma for the ability *Social*).
+
+Once the 150 points have been distributed, the total ability points for each ability are added together and divided by 10 (this does not take into account any extra points gained through attributes). This is the general talent score and can reach a maximum of 8. This can be used to perform actions for which you have no ability level.
 
 
-Je höher der Fähigkeitswert eines Charakters ist, desto besser ist dieser in der jeweiligen Fähigkeit. Es kann durchaus Sinn ergeben, eine Fähigkeit auf 20+ zu entwickeln, obwohl Fähigkeitsproben mit einem W20 durchgeführt werden. Das liegt daran, dass der DM in besonders komplizierten Situationen die Probe erschweren kann. Das bedeutet, dass euer Fähigkeitswert um einen vom DM definierten Wert herunter korrigiert wird. In solchen Fällen kann man von höheren Fähigkeitswerten profitieren.
-Eure zu Beginn bestimmten Attribute haben auch einen Einfluss auf eure Fähigkeiten und geben euch $+ \frac{Attribut}{4}$ für jede Fähigkeit in der entsprechenden Begabungskategorie (Konstitution für die Begabung *Handeln*, Intelligenz für die Begabung *Wissen*, Charisma für die Begabung *Soziales*).
+# Level up
 
-Sind die 150 Punkte verteilt, werden die gesamten Fähigkeitspunkte einer Begabung aufsummiert und durch 10 geteilt (hier werden die Zusatzpunkte durch die Attribute nicht berücksichtigt). Dies ist der genereller Begabungswert und kann maximal den Wert 8 erreichen. Der Begabungswert kann eingesetzt werden, um Aktionen durchzuführen, für die ihr keine Fähigkeit gelevelt habt.
+At a certain point in the adventure, each character's level increases.Each level up gives the player 8 skill points.These can be spent immediately or saved for the next level up. FPs cannot be spent spontaneously during an adventure, but only when the character levels up again, or in a quiet situation where there is no advantage to spending the remaining FPs. For example, a character could spend his three FPs to *Lockpicking* around a campfire in the evening. This is not possible if the group has just found a chest that needs to be opened.
 
+## Skilling without leveling up
 
-# Levelaufstieg
+Situations in the quest, conversations with NPCs, or items found can all lead to a character gaining abilities or, in rare cases, attributes. In addition, characters can receive character traits over the course of the game, which can be permanent buffs or nerfs.
 
-Ist ein bestimmter Punkt im Abenteuer erreicht, erhöht sich das Level jedes Charakters. Mit jedem Levelaufstieg erhält der Spieler 8 weitere Fähigkeitspunkte. Diese können sofort ausgegeben werden, oder für den nächsten Levelaufstieg gespart werden. FPs können nicht im Verlauf eines Abenteuers spontan eingesetzt werden, sondern nur bei einem erneuten Levelaufstieg oder in einer ruhigen Situation, in der der Charakter durch den Einsatz der noch verbleibenden FPs keinen Vorteil zieht. So kann ein Charakter beispielsweise abends am Lagerfeuer seine drei FPs in *Schloss knacken* investieren. Dies geht aber nicht, wenn die Gruppe in ihrem Abenteuer gerade eine Truhe gefunden hat, die geöffnet werden soll.
-
-## Skillen ohne Levelaufstieg
-
-Durch Situationen im Abenteuer, Gespräche mit NPCs oder gefundene Objekte kann es jederzeit vorkommen, dass ein Charakter Fähigkeiten oder in seltenen Fällen auch Attribute zugeteilt bekommen kann. Zusätzlich können Charaktere im Verlauf Charakter-Eigenschaften erhalten, welche sowohl Perma-Buffs als auch -Nerfs sein können.
-
-Eine beispielhafte Charaktererstellung für euren eigenen Helden findet ihr **hier**, das Kampfsystem der Regelwerks wir **hier** ausführlich erklärt.
+A sample character creation for your own hero can be found **here**, the combat system of the rulebook is explained in detail **here**.
 
