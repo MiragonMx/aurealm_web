@@ -6,16 +6,15 @@ summary: "Here you will be guided through a character creation as an example."
 thumbnail: img/Character creation (4_3).png
 ---
 
-Hier ist natürlich grundlegend einmal wichtig, eurem Charakter einen Namen, ein Alter und eine Geschichte zu geben. Versucht euch zu überlegen, was die Ziele eures Charakters im Leben sind, was ihn bisher beeinflusst hat, welche Werte ihm wichtig sind und ob er irgendwelche Ticks oder Verhaltensmuster hat. Macht euch hier wirklich in Ruhe Gedanken und überlegt euch, welchen Charakter ihr selbst spielen und auch ausleben wollt.
-Nun geht es an die Vergabe der Werte. Der hier vorgestellte Beispielscharakter soll den Namen Verlon haben, der mit 21 Jahren noch recht jung ist. Verlon ist nicht der hellste, physisch aber sehr gut aufgestellt. Charisma und Geschicklichkeit sind bei ihm leicht unterdurchschnittlich. So ergeben sich folgende Attributs-Werte:
+This is, of course, where it is most important to give your character a name, an age and a history. Try to think about your character's goals in life, what has influenced them, what values they hold dear, and whether they have any tics or behavioural patterns. Take some time to think about this and consider which character you want to play and live.
+Now it's time to assign values. The example character presented here will be called Verlon, who at 21 is still quite young. Verlon is not the brightest, but he is physically very well endowed. His Charisma and Dexterity are slightly below average. This results in the following stats:
 
-| Attribut <img width=500/> | Attributs-Wert <img width=500/> | 
-| :---: | :---: |
-| Stärke | 7 |
-| Geschicklichkeit | 4 | 
-| Konstitution | 8 |
-| Intelligenz | 2 |
-| Charisma | 4 |
+* **Stärke:** 7
+* **Geschicklichkeit:** 4
+* **Konstitution:** 8
+* **Intelligenz:** 2
+* **Charisma:** 4 
+ 
 
 Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigkeit, kann dies später aber bei jedem Levelaufstieg nachholen. Damit ergeben sich für ihn folgende Werte:
 
