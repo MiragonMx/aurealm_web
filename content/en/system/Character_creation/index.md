@@ -1,5 +1,5 @@
 ---
-title: "Arkanthia Regelwerk - Charactewr creation"
+title: "Arkanthia Regelwerk - Character creation"
 draft: false
 publishdate: 2024-04-29T09:02:00+02:00
 summary: "Here you will be guided through a character creation as an example."
