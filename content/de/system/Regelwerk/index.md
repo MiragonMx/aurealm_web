@@ -127,13 +127,6 @@ Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkei
 * Fähigkeitswert 15-19: 4 FP
 * Fähigkeitswert 20+: 5 FP
 
-| Fähigkeitswert <img width=500/> | Kosten <img width=500/> | 
-| :---: | :---: |
-| 0-4 | 1 FP |
-| 5-9 | 2 FP | 
-| 10-14 | 3 FP |
-| 15-19 | 4 FP |
-| 20+ | 5 FP |
 
 Je höher der Fähigkeitswert eines Charakters ist, desto besser ist dieser in der jeweiligen Fähigkeit. Es kann durchaus Sinn ergeben, eine Fähigkeit auf 20+ zu entwickeln, obwohl Fähigkeitsproben mit einem W20 durchgeführt werden. Das liegt daran, dass der DM in besonders komplizierten Situationen die Probe erschweren kann. Das bedeutet, dass euer Fähigkeitswert um einen vom DM definierten Wert herunter korrigiert wird. In solchen Fällen kann man von höheren Fähigkeitswerten profitieren.
 Eure zu Beginn bestimmten Attribute haben auch einen Einfluss auf eure Fähigkeiten und geben euch $+ \frac{Attribut}{4}$ für jede Fähigkeit in der entsprechenden Begabungskategorie (Konstitution für die Begabung *Handeln*, Intelligenz für die Begabung *Wissen*, Charisma für die Begabung *Soziales*).
