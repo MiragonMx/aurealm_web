@@ -37,7 +37,7 @@ Um einen bewusstlosen Charakter wieder handlungsfähig zu machen, kann dieser ü
 
 Ist ein Charakter nicht mehr in einer gefährlichen Situation, erholt er sich und die Treffer-Punkte regenerieren sich von alleine. Dies wird in der Regeneration pro In-Game-Stunde angegeben, also in der Zeit, welche die Spieler-Charaktere erleben. Eine schwere Verletzung kann auch dazu führen, dass die Regenerationsrate reduziert wird.
 	
-$$ Treffer-Punkte = left({Stärke} \over {2} + frac{Konstitution}{4}right) cdot Level + 10$$
+$$ **Treffer-Punkte** = left(\frac{Stärke}{2} + frac{Konstitution}{4}right) cdot Level + 10$$
 $$ TP-Regeneration / h = left(max. TP over 10right) - X (Art der Verletzung)$$		
 
  
