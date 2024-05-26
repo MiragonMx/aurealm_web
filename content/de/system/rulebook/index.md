@@ -143,5 +143,5 @@ Ist ein bestimmter Punkt im Abenteuer erreicht, erhöht sich das Level jedes Cha
 
 Durch Situationen im Abenteuer, Gespräche mit NPCs oder gefundene Objekte kann es jederzeit vorkommen, dass ein Charakter Fähigkeiten oder in seltenen Fällen auch Attribute zugeteilt bekommen kann. Zusätzlich können Charaktere im Verlauf Charakter-Eigenschaften erhalten, welche sowohl Perma-Buffs als auch -Nerfs sein können.
 
-Eine beispielhafte Charaktererstellung für euren eigenen Helden findet ihr **hier**, das Kampfsystem der Regelwerks wir **hier** ausführlich erklärt.
+Eine beispielhafte Charaktererstellung für euren eigenen Helden findet ihr [hier]({{< ref "/content/de/system/character_creation/index.md" >}}), das Kampfsystem der Regelwerks wir [hier]({{< ref "/content/de/system/combat_system/index.md" >}}) ausführlich erklärt.
 

@@ -141,5 +141,5 @@ At a certain point in the adventure, each character's level increases.Each level
 
 Situations in the quest, conversations with NPCs, or items found can all lead to a character gaining abilities or, in rare cases, attributes. In addition, characters can receive character traits over the course of the game, which can be permanent buffs or nerfs.
 
-A sample character creation for your own hero can be found **here**, the combat system of the rulebook is explained in detail **here**.
+A sample character creation for your own hero can be found [here]({{< ref "/content/en/system/character_creation/index.md" >}}), the combat system of the rulebook is explained in detail [here]({{< ref "/content/en/system/combat_system/index.md" >}}).
 
