@@ -1,5 +1,7 @@
 {{ $htmlTable := .Inner | markdownify }}
-{{ $class := .Get 0 }}
+{{/*{{ $class := .Get 0 }}*/}}
+{{/*{{ $class := "table table-bordered table-responsive" }}*/}}
+{{ $class := "table table-bordered table-responsive table-dark" }}
 {{ $old := "<table>" }}
 {{ $new := printf "<table class=\"%s\">" $class }}
 {{ $htmlTable := replace $htmlTable $old $new }} {{ $htmlTable | safeHTML }}

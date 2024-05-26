@@ -17,6 +17,7 @@ Nun geht es an die Vergabe der Werte. Der hier vorgestellte Beispielscharakter s
 
 Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigkeit, kann dies später aber bei jedem Levelaufstieg nachholen. Damit ergeben sich für ihn folgende Werte:
 
+{{<table>}}
 | Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> |
 | :---: | :---: | :---: |
 | Trefferpunkte | $(\frac{Stärke}{2} + \frac{Konstitution}{4}) \cdot Level + 10$ | $(\frac{7}{2} + \frac{4}{4}) \cdot 1 + 10 = 15.5$ |
@@ -28,6 +29,7 @@ Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigke
 | Initiative | $(\frac{Stärke + 20}{Geschicklichkeit})$ | $(\frac{7 + 20}{4}) = 6.8 (gerundet) $ |
 | Reichweite | $(\frac{Konstitution + Geschicklichkeit}{2})$ | $(\frac{8 + 4}{2}) = 6 $ |
 | Ausweichen | $(\frac{Geschicklichkeit}{2})$ | $(\frac{4}{2}) = 2 $ |
+{{</table>}}
 
 Damit hat Verlon schon mal viele wichtige Werte berechnet. Nun will er seine anfänglichen 150 Fähigkeitspunkte verteilen. Er entscheidet sich dazu *Einhändig 14* (29 FP), *Faustkampf 5* (6 FP) und *Jagen 9* (14 FP) in der Begabung *Handeln* zu leveln. Somit hat er insgesamt 49 FP in der Begabung vergeben. Um den Begabungswert von *Handeln* nun zu berechnen, muss er $Begabungswert = \frac{\sum Fähigkeitsspunkte}{10} \le 8$ berechnen. In Verlons Fall wäre dies also: $Begabungswert = \frac{49}{10} = 4.9 \leq 8$. Sein Begabungswert für *Handeln* wird nun auf 5 aufgerundet. Auf diesen kann er nun immer würfeln, wenn er eine Handlung ausführen möchte, die richtige Fähigkeit aber nicht gelernt hat. Außerdem werden alle seine Fähigkeiten in der Begabung *Handeln* durch sein Attribut **Konstitution** verbessert. Hierzu muss der Attributwert (Verlon hat **Konstitution 8**) durch vier geteilt werden ($+ \frac{8}{4} = +2$). Somit werden alle *Handeln*-Fähigkeiten um +2 verbessert, weshalb er nun *Einhändig 16*, *Faustkampf 7* und *Jagen 11* hat.
 

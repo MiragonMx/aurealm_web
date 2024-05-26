@@ -11,6 +11,7 @@ Ein Beispiel vereinfacht wahrscheinlich den Ablauf eines Kampfes. Nehmen wir an,
 
 Sobald der Kampf beginnt, beginnt auch der DM mit dem Hochzählen. Weder bei der 1, der 2, noch bei der 3 wurde eine Initiative eines Charakters erreicht, doch jetzt bei der 3.5 ist Lisbeth dran und schießt einem der drei Banditen mit einem Pfeil in die Schulter. Dieser sinkt zu Boden und ist fürs erste bewegungsunfähig, seine nächste Kampfrunde wird also ausgesetzt. Du zählst weiter und bei der Zahl 4 sind die verbleibenden zwei Banditen an der Reihe. Diese müssen nun erstmal 5 Meter auf die Gruppe zulaufen, um diese angreifen zu können. Dies verbraucht die Reichweite der Banditen komplett und sie können keine weitere Aktion ausführen. Da die Banditen jetzt direkt vor Silvio stehen, muss dieser nicht laufen, sondern kann bei der Zahl 5 nun direkt angreifen. Dies nutzt er auch und sticht mit seinem großen Zweihänder auf einen der Banditen ein. Dieser  würfelt aber erfolgreich auf 'Ausweichen' und weicht Silvios starkem Angriff aus. Der DM zählst weiter zur 6, hier ist niemand an der Reihe, bei der 7 ist jetzt aber Lisbeth dran, da diese einen Initiative-Wert von 3.5 hat und mit der Zahl 7 das Doppelte Ihrer Initiative erreicht wurde. Lisbeth feuert erneut, verfehlt aber leider ihr Ziel. Der Kampf führt sich jetzt weiter fort, die weitere Reihenfolge ist hier einmal aufgeführt:
 
+{{<table>}}
 | Kampfrunde | Aktive Charaktere |
 | :---: | :---: |
 | 8 | Banditen (auch der eine Bandit, der eben aussetzen musste) |
@@ -19,3 +20,4 @@ Sobald der Kampf beginnt, beginnt auch der DM mit dem Hochzählen. Weder bei der
 | 10.5 | Lisbeth |
 | 11 | - |
 | 12 | Banditen |
+{{</table>}}

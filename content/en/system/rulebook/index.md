@@ -86,20 +86,26 @@ $$Talent value = \frac{\sum Ability Points}{10} \le 8$$
 
 It is always better to have an appropriate ability at hand for an action than to try to roll for the ability. If a skill is learned but its value is less than the associated ability value, the result is: *\(ability value + 1\)*. Here is a small example: Your character is in the forest and wants to follow the tracks of a deer. Your character has an ability value of 5 in the talent *Knowledge*, but only 3 ability points in the skill *Read tracks*. Because your talent value is now higher than your ability value, the die roll is *\(ability value + 1\)* instead of the ability value, in this case 6 (5+1). Skills can always be assigned to one of the three talents. If it is not clear which talent an ability falls into, the DM decides. Below are some possible abilities and their corresponding talents.
 
+{{<table>}}
 | Action <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | One-handed (weapon handling) | Two-handed (weapon handling) | Shooting | Throwing | Fistfighting | Sneaking |
 | Climbing | Swimming | Hunting | Acrobatics | Riding | Fishing |
+{{</table>}}
 
+{{<table>}}
 | Knowledge <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Medicine | Animals | Plants | Alchemy | Cooking | Mechanics|
 | Magic Capabilityt| Lockpicking | Reading Tracks | Blacksmithing | Woodworking | Religion |
+{{</table>}}
 
+{{<table>}}
 | Social <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> | <img width=200/> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Chatting | Persuading | Lying | Inspiring | Calming | Flirting |
 | Humour | Talking out | Leading | Manipulating | Bargaining |
+{{</table>}}
 
 
 ### Standard ability
