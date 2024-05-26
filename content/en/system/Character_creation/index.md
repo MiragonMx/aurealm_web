@@ -3,7 +3,7 @@ title: "Arkanthia Regelwerk - Character creation"
 draft: false
 publishdate: 2024-04-29T09:02:00+02:00
 summary: "Here you will be guided through a character creation as an example."
-thumbnail: img/Charaktererstellung (4_3).png
+thumbnail: img/Character creation (4_3).png
 ---
 
 Hier ist natürlich grundlegend einmal wichtig, eurem Charakter einen Namen, ein Alter und eine Geschichte zu geben. Versucht euch zu überlegen, was die Ziele eures Charakters im Leben sind, was ihn bisher beeinflusst hat, welche Werte ihm wichtig sind und ob er irgendwelche Ticks oder Verhaltensmuster hat. Macht euch hier wirklich in Ruhe Gedanken und überlegt euch, welchen Charakter ihr selbst spielen und auch ausleben wollt.
