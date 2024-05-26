@@ -42,7 +42,7 @@ $$ HP-Regeneration / h = \left(max.~~~HP \over 10\right) - X (Type~~~of~~~injury
 * **Mana Points:** Mana Points (MP) are a resource that is consumed by each spell. If all your mana is used up, it will have no effect on your character. However, if a hero does not have enough mana for a spell, the spell cannot be cast. If the character tries to cast the spell anyway, the remaining mana will be used up completely and the DM can deal with the situation on an individual basis. For example, the spell may have a weaker effect, other side effects, or no effect at all. In addition to your intelligence and level, the maximum amount of mana you can gain depends on your *Magic capabilityt*-Ability, which can be actively improved. You can find out how your character gains abilities later in the rulebook.
 Each character's mana supply also regenerates over time.	
 
-$$ Mana Points = \left(Intelligence \cdot level \over 2 \right) + Magic~~~capabilityt + 10$$
+$$ Mana~~~Points = \left(Intelligence \cdot level \over 2 \right) + Magic~~~capabilityt + 10$$
 
 $$ MP-Regeneration / h = \left(max.~~~Mana \over 10\right)$$			
 
@@ -50,7 +50,7 @@ $$ MP-Regeneration / h = \left(max.~~~Mana \over 10\right)$$
 * **Mental Resilience:**  Mental Resilience (MR) describes the mental state of the character. It can be affected by fear and anxiety, for example, as well as happiness and faith. If events occur that cause the character's MR to drop below 10% or 75% in one fell swoop, the character will lose their temper (flight, paralysed fear, panic attack, etc.) until they have 10% or 25% MB again, or are calmed down by other means. Mental Resilience behaves almost identically to a hero's Hit Points. However, if a character's Mental Resilience drops to 0, they will not die. Instead, they will gain a fear appropriate to the situation as a permanent character trait (e.g. fear of water or darkness).
 MR also regenerates in a safe environment.
 
-$$ Mental Resilience: = \left(Charisma \cdot level \over 2 \right) + 50$$
+$$ Mental~~~Resilience: = \left(Charisma \cdot level \over 2 \right) + 50$$
 
 $$ MR-Regeneration / h = \left(max.~~~MR \over 10\right) - X (Type~~~of~~~disturbance)$$
 
