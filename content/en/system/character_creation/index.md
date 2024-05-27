@@ -21,7 +21,7 @@ Verlon does not want to learn magic, so he does not spend any APs on this skill,
 {{<table>}}
 | Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> |
 | :---: | :---: | :---: |
-| Hit Points | $(\frac{Strength}{2} + \frac{Constitution}{4}) \cdot level + 10$ | $(\frac{7}{2} + \frac{4}{4}) \cdot 1 + 10 = 15.5$ |
+| Hit Points | \((\frac{Strength}{2} + \frac{Constitution}{4}) \cdot level + 10\) | $(\frac{7}{2} + \frac{4}{4}) \cdot 1 + 10 = 15.5$ |
 | HP-Regeneration / h | $(\frac{max.\ \ HP}{10}) - X (Type\ \ of\ \ injury)$ | $(\frac{15.5}{10} + \frac{4}{4}) - 0 = 1.6 (rounded)$ |
 | Mana Points | $(\frac{Intelligence \cdot level}{2}) + Magic\ \ capabilityt \cdot 10$ | $(\frac{2 \cdot 1}{2}) + 0 \cdot 10 = 1$ |
 | MP-Regeneration / h | $(\frac{max.\ \ Mana}{10})$ | $(\frac{1}{10}) = 0.1 $ |
