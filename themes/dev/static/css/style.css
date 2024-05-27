@@ -30,12 +30,12 @@ main {
   max-width: 400px;
 }
 
-body.light-theme a, h2, h3 {
-  color: var(--red);
-}
-
 a, h2, h3 {
   color: var(--gold);
+}
+
+body.light-theme a, h2, h3 {
+  color: var(--red);
 }
 
 .navbar {
