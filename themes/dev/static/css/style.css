@@ -30,11 +30,11 @@ main {
   max-width: 400px;
 }
 
-a {
-  color: var(--gold);
+body.light-theme :host a, h2, h3 {
+  color: var(--red);
 }
 
-h2, h3 {
+a, h2, h3 {
   color: var(--gold);
 }
 
