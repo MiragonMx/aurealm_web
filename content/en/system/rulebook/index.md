@@ -78,7 +78,7 @@ Abilities are activities that a character has explicitly learnt or mastered. Eac
 
 * **Knowledge:** For example, your character might need Knowledge to understand a foreign language, categorise political differences, understand mathematical relationships, or distinguish between plants and animals. Abilities in the Knowledge group are often considered neutral and analytical. They tend to be mental abilities that are particularly dependent on intelligence and education.
 
-* **Social:** Social abilities are especially important when interacting with non-player characters. Social primarily describes skills that have to do with interpersonal interaction. This includes active skills such as lying and manipulation, as well as passive skills such as knowing people.\\
+* **Social:** Social abilities are especially important when interacting with non-player characters. Social primarily describes skills that have to do with interpersonal interaction. This includes active skills such as lying and manipulation, as well as passive skills such as knowing people.
 
 To perform an action, you must roll a D20 on the associated ability value. To perform an action that has not been learned, you must roll a die for the ability's value. Aptitude rolls can neither critically succeed nor critically fail. The aptitude score is calculated using the following formula:
 
