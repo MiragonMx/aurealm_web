@@ -62,7 +62,7 @@ $$ Initiative = \left(Strength + 20 \over Dexterity \right)$$
 
 * **Range:** Range is the radius in metres that a character can move within a combat round. The movement is performed instead of other actions. A character who has moved the maximum range in a combat round cannot perform any other actions. If only part of the maximum range is moved, other actions can be performed proportionally. For example, an archer can fire his bow while running at a leisurely pace. However, if he sprints to the nearest cover, he will no longer be able to do so.
 
-$$ Reichweite = \left(Constitution + Dexterity \over 2 \right)$$
+$$ Range = \left(Constitution + Dexterity \over 2 \right)$$
 
 
 * **Dodge:** Dodge is a fixed value that any character can roll a D20 on after being attacked by an enemy. If the roll is less than or equal to the Dodge value, the character dodges the attack and takes no damage.
@@ -134,7 +134,7 @@ At the start of character creation, each player may spend 150 ability points on 
 
 The higher the skill level of a character, the better they are at that skill. It may make sense to develop an ability to 20+, even though ability checks are made with a D20. This is because the DM can make the test more difficult in particularly complicated situations. This means that your ability score will be adjusted downwards by a value set by the DM. In such cases, you may benefit from higher ability scores.
 
-Your starting attributes also have an effect on your abilities, giving you $\(+ \frac{Attribute}{4}\)$ for each ability in the corresponding category (Constitution for the ability *Action*, Intelligence for the ability *Knowledge*, Charisma for the ability *Social*).
+Your starting attributes also have an effect on your abilities, giving you \(+ \frac{Attribute}{4}\) for each ability in the corresponding category (Constitution for the ability *Action*, Intelligence for the ability *Knowledge*, Charisma for the ability *Social*).
 
 Once the 150 points have been distributed, the total ability points for each ability are added together and divided by 10 (this does not take into account any extra points gained through attributes). This is the general talent score and can reach a maximum of 8. This can be used to perform actions for which you have no ability level.
 

@@ -136,7 +136,7 @@ Zu Beginn der Charaktererstellung darf jeder Mitspielende einmalig 150 Fähigkei
 
 
 Je höher der Fähigkeitswert eines Charakters ist, desto besser ist dieser in der jeweiligen Fähigkeit. Es kann durchaus Sinn ergeben, eine Fähigkeit auf 20+ zu entwickeln, obwohl Fähigkeitsproben mit einem W20 durchgeführt werden. Das liegt daran, dass der DM in besonders komplizierten Situationen die Probe erschweren kann. Das bedeutet, dass euer Fähigkeitswert um einen vom DM definierten Wert herunter korrigiert wird. In solchen Fällen kann man von höheren Fähigkeitswerten profitieren.
-Eure zu Beginn bestimmten Attribute haben auch einen Einfluss auf eure Fähigkeiten und geben euch $$+ \frac{Attribut}{4}$$ für jede Fähigkeit in der entsprechenden Begabungskategorie (Konstitution für die Begabung *Handeln*, Intelligenz für die Begabung *Wissen*, Charisma für die Begabung *Soziales*).
+Eure zu Beginn bestimmten Attribute haben auch einen Einfluss auf eure Fähigkeiten und geben euch $+ \frac{Attribut}{4}$ für jede Fähigkeit in der entsprechenden Begabungskategorie (Konstitution für die Begabung *Handeln*, Intelligenz für die Begabung *Wissen*, Charisma für die Begabung *Soziales*).
 
 Sind die 150 Punkte verteilt, werden die gesamten Fähigkeitspunkte einer Begabung aufsummiert und durch 10 geteilt (hier werden die Zusatzpunkte durch die Attribute nicht berücksichtigt). Dies ist der genereller Begabungswert und kann maximal den Wert 8 erreichen. Der Begabungswert kann eingesetzt werden, um Aktionen durchzuführen, für die ihr keine Fähigkeit gelevelt habt.
 
