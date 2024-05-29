@@ -1,10 +1,8 @@
 ---
 title: "Rulebook"
 draft: false
-summary: "Here you can find the rulebook of the arkanthia game system. It is inspired by the How to be a Hero-System and will also be available as a PDF at some point."
+summary: "Here you can find the rulebook for our pen and paper system split into a general rulebook and pages for specific topics like the combat system."
 ---
 
-Here you can find the rulebook of the arkanthia game system.
-It is inspired by the [*How to be a Hero*-System](https://main.howtobeahero.de/) and will also be available as a PDF at some point.
-<!--XXX: Link erzeugen und einfügen-->
-<!--It is inspired by the [*How to be a Hero*-System](https://main.howtobeahero.de/) and is also available as a [PDF](here_right_link).-->
+Here you can find the rulebook for our pen and paper system split into a general rulebook and pages for specific topics like the combat system.
+
