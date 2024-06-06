@@ -16,7 +16,7 @@ There are three ships docked: the "Arsena's Tail" and the "Selania" from Ullana 
 The terminal is the busiest place, with sailors occasionally coming out or going inside. They quickly find the stairs leading to the first floor of the terminal, where the office of the mysterious lieutenant is located. However, they don't want to proceed without Aldric, and Theo has an excellent idea on top. He wants to break into the office at night to get an initial look and possibly gather something to use against the lieutenant. So, they leave the terminal and step back onto the small pier, where they meet Aldric, who is jogging towards them in his wet pants.
 
 <div class="img-max center">
-  <img class="img-fluid rounded" title="Karte Fichtenstein Hafen" alt="Karte Fichtenstein Hafen." src="./img/fichtenstein_hafen.jpg" />
+  <img class="img-fluid rounded" title="Map Fichtenstein harbor" alt="Map Fichtenstein harbor." src="./img/fichtenstein_hafen.jpg" />
 </div>
 
 After our four friends shared all their experiences, they have a few hours to kill before nightfall, and where better to do that than in a rundown harbor tavern? After consuming a few hectoliters of beer, it is time for Theo to begin his breaking and entering mission. Löwenzahn, Kel Tuh Las, and Aldric join him to keep watch, so around 11 PM, the four leave the "Drunken Mermaid" and step into the pitch-dark night. They quickly reach the warehouses and eventually the loading terminal. Although it is locked, Theo make it look easy and opens the door without struggeling.
@@ -26,7 +26,5 @@ Inside, the terminal haven't changed much since their last visit. Theo cautiousl
 The upper floor is smaller than the storage area below, so it doesn't take Theo long to find the office. There are only a few desks for employees and some crates overflowing with paper. Theo carefully sneaks to the door, which bare a modest, definitely not flashy, solid gold plaque with the name "Kampf." With deft movements, he quickly picks the lock and enter a large, glass-walled office. The restraint shown at the door decoration continued inside. A massive polished spruce desk (at least he buys locally), an almost royally imposing desk chair, and a red checkered carpet adorn the office. However, Theo is more interested in incriminating documents than interior decoration, so he lets the ostentatious furniture be and starts searching through drawers. Apart from various letters, invoices, and delivery notes, there is not much to be find. The only oddity is a drawer containing a rope and a bottle with a clear liquid. Whether Lieutenant Kampf simply likes drinking vodka while playing rodeo, or if it is something more mysterious, you’ll find out in two weeks on Arkanthia Pen and Paper.
 
 <div class="center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein.jpg" />
 </div>
-
-
