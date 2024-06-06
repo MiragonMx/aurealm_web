@@ -1,6 +1,6 @@
 ---
 title: "The burglary in the harbour"
-publishdate: 2024-06-06T10:00:00+02:00
+publishdate: 2024-06-08T10:00:00+02:00
 date: 1237-09-27T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_14.png
