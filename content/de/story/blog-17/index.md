@@ -3,7 +3,7 @@ title: "Loot, Loot, Loot"
 publishdate: 2024-07-20T10:00:00+02:00
 date: 1237-09-28T00:10:03+02:00
 draft: false
-thumbnail: img/Thumbnail_Blog_17.jpg
+thumbnail: img/Blog_17.png
 summary: "Nach dem ereignisreichen Sammeln der Trankzutaten geht es heute für unsere vier Helden darum, den halbverwesten Kopf von Emanuel einzusammeln, um Leutnant Kampf zu beweisen, dass dieser tatsächlich aus dem Weg geräumt wurde. Ob das der einzige abgeschlagene Kopf bleibt, mit dem sie es heute zu tun haben, erfahrt ihr hier:"
 ---
 
