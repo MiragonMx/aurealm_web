@@ -121,7 +121,7 @@ defaultContentLanguage = 'de'
     tag = "tags"
 
 [params]
-  math = true
+  math = false
   favicon = "/favicon.ico"
   # footer
   imprint = "/impressum"

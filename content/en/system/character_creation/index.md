@@ -1,6 +1,7 @@
 ---
 title: "Arkanthia Rulebook - Character creation"
 draft: false
+math: true
 publishdate: 2024-04-29T09:00:00+02:00
 summary: "Here you will be guided through a character creation as an example."
 thumbnail: img/Character creation (4_3).png

@@ -1,6 +1,7 @@
 ---
 title: "Arkanthia Rulebook"
 draft: false
+math: true
 publishdate: 2024-04-29T09:02:00+02:00
 summary: "Here you can find the complete rulebook of the Arkanthia game system free of charge for your own campaign."
 thumbnail: img/Rulebook (4_3).png

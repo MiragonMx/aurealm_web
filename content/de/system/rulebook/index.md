@@ -1,6 +1,7 @@
 ---
 title: "Arkanthia Regelwerk"
 draft: false
+math: true
 publishdate: 2024-04-29T09:02:00+02:00
 summary: "Hier findet ihr das komplette Regelwerk des Arkanthia Spielsystems gratis für eure eigene Kampagne."
 thumbnail: img/Regelwerk (4_3).png

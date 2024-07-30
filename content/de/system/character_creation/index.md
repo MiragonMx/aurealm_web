@@ -1,6 +1,7 @@
 ---
 title: "Arkanthia Regelwerk - Charaktererstellung"
 draft: false
+math: true
 publishdate: 2024-04-29T09:00:00+02:00
 summary: "Hier werdet ihr einmal exemplarisch durch eine Charaktererstellung geführt."
 thumbnail: img/Charaktererstellung (4_3).png
