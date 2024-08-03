@@ -1,10 +1,11 @@
 ---
 title: "Die Suche nach José"
 publishdate: 2024-08-04T10:00:00+02:00
-date: 1237-09-28T00:10:03+02:00
+date: 1237-09-29T00:10:03+02:00
+enddate: 1237-09-30T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_18.png
-summary: "Nach dem ereignisreichen Sammeln der Trankzutaten geht es heute für unsere vier Helden darum, den halbverwesten Kopf von Emanuel einzusammeln, um Leutnant Kampf zu beweisen, dass dieser tatsächlich aus dem Weg geräumt wurde. Ob das der einzige abgeschlagene Kopf bleibt, mit dem sie es heute zu tun haben, erfahrt ihr hier:"
+summary: ""
 ---
 
 Im letzten Blog haben unsere vier Freunde fleißig den Kopf von Emanuel eingesammelt und sich durch ein Banditenlager gekämpft. Mit allerhand von den Räubern eingesammelten Gegenständen im Gepäck sind sie noch in der Nacht nach Fichtenstein zurückgekehrt, wo sie bei Udo direkt ins Bett gefallen sind.
