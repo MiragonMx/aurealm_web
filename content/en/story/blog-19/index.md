@@ -15,8 +15,6 @@ With the letter in their jacket pockets, they head back to the harbour, where th
 
 Kel, Theo, Löwenzahn and Aldric use the hour to stock up on provisions at Odu's and have another drink. Satisfied, they return to the pier and there it is, the small dinghy of the ‘Selania’. The emphasis here should really be on ‘small’, as the boat looks more like a large canoe than a ship. The thought of rowing across the open sea in this vessel doesn't excite the two of them at all, but they have no other choice. So they squeeze into the small rowing boat and slowly but surely make their way to Midgar.
 
-Translated with DeepL.com (free version)
-
 <div class="img-max center">
   <img class="img-fluid rounded" title="Map Fichtenstein harbor" alt="Map Fichtenstein harbor." src="./img/fichtenstein_hafen.jpg" />
 </div>
@@ -27,7 +25,6 @@ As they approach, the merchant ship looks pretty run-down, as if it has been lyi
 
 He lands in the water right next to the ship and is immediately caught by a strong current that wants to sweep him into the depths. Aldric remembers that the letter to José had already mentioned strong currents that would cause the ship to run aground on Midgar. Ironically, he thinks he has probably found them now and is pulled under the water again. Whether Aldric can still be rescued in time or the next blog will start with a new character introduction, you'll find out in a fortnight' time when it's time for Arkanthia Pen and Paper again. 
 
-Translated with DeepL.com (free version)
 
 <div class="center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Hafen_Midgar.jpg" />
