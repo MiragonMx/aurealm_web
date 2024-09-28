@@ -1,7 +1,7 @@
 ---
 title: "Der Einbruch im Hafen"
 publishdate: 2024-06-08T10:00:00+02:00
-date: 1237-09-27T00:10:03+02:00
+startdate: 1237-09-27T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_14.png
 summary: "Im letzten Blog hat Aldric sich alleine auf ein kleines Abenteuer aufgemacht. Dabei hat er die Austernfarm in der Nähe des Fichtensteiner Hafens erkundet und auch deren Inhaber Zetti kennengelernt. Heute erfahren wir, was unsere anderen drei Freunde in der Zwischenzeit getrieben haben. Warum das alles in einem Einbruch geendet hat, erfahrt ihr hier:"
