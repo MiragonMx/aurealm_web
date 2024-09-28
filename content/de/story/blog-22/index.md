@@ -1,4 +1,3 @@
-
 ---
 title: "Der Zwischenstopp auf Logar "
 publishdate: 2024-09-01T10:00:00+02:00
