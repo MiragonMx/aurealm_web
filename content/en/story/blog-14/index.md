@@ -1,7 +1,7 @@
 ---
 title: "The burglary in the harbour"
 publishdate: 2024-06-08T10:00:00+02:00
-date: 1237-09-27T00:10:03+02:00
+startdate: 1237-09-27T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_14.png
 summary: "In the last blog, Aldric set off on a little adventure on his own. He explored the oyster farm near Fichtenstein harbour and got to know its owner, Zetti. Today we find out what our other three friends have been up to in the meantime. You can find out why it all ended in a break-in here:"
