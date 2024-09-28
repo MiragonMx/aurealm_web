@@ -1,7 +1,7 @@
 ---
 title: "A competitor for Udo?"
 publishdate: 2024-05-11T09:00:00+02:00
-date: 1237-09-25T00:10:03+02:00
+startdate: 1237-09-25T00:10:03+02:00
 enddate: 1237-09-26T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_12.png

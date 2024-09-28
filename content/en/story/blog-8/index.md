@@ -1,7 +1,7 @@
 ---
 title: "A tour through Fichtenstein"
 publishdate: 2024-03-16T13:00:00+02:00
-date: 1237-09-25T00:10:05+02:00
+startdate: 1237-09-25T00:10:05+02:00
 draft: false
 thumbnail: img/Blog_8.jpg
 summary: "In the last blog, Löwenzahn and Kel Tuh Las have already fought off their serious hangovers, a result of their little feast in Fichtenstein. In this blog, Theo returns to the game as well and visits the herb woman Rosvita. Kel can also finally take care of his orange trees. Find out whether he is successful and what new equipment Theo finds at Rosvita's here:"

@@ -1,7 +1,7 @@
 ---
 title: "Der verschwundene Jarl"
 publishdate: 2024-03-30T13:00:00+02:00
-date: 1237-09-25T00:10:03+02:00
+startdate: 1237-09-25T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_9.jpg
 summary: "Spätestens seit dem letzten Blog wissen unsere vier Helden: Sie brauchen endlich mal Kohle. Da passender Weise der Jarl von Fichtenstein verschwunden ist, versuchen sie beim dessen Frau ihre Dienste anzubieten. Nachdem sie eine üppige Belohnung ausgehandelt haben, geht´s für die vier los auf ihre erste Quest. Was sie dort erwartet, erfahrt ihr hier:"

@@ -1,7 +1,7 @@
 ---
 title: "The search for José"
 publishdate: 2024-08-04T09:00:00+02:00
-date: 1237-09-29T00:10:03+02:00
+startdate: 1237-09-29T00:10:03+02:00
 enddate: 1237-09-30T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_18.png

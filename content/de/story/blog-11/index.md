@@ -1,7 +1,7 @@
 ---
 title: "Schatten auf dem Friedhof"
 publishdate: 2024-04-27T09:00:00+02:00
-date: 1237-09-25T00:10:03+02:00
+startdate: 1237-09-25T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_11.jpg
 summary: "Unsere Helden sind nach ihrer letzten Quest und der erfolgreichen Rettung des Jarls mit Geld überschüttet worden und geben diesen Reichtum direkt bei Hellebard Dunkel aus. Nun sind sie aber direkt wieder blank und sehen sich gezwungen, sich in die nächste Quest zu  stürzen und beschließen, Herzfried bei der Suche nach dem mysteriösen Grabräuber zu helfen. Wie das funktioniert, erfahrt ihr hier:"

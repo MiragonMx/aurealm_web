@@ -1,8 +1,8 @@
 ---
 title: "Consequences"
 publishdate: 2024-09-01T10:00:00+02:00
-date: 1237-09-30T00:10:03+02:00
-enddate: 1237-01-10T00:10:03+02:00
+startdate: 1237-09-30T00:10:03+02:00
+enddate: 1237-10-01T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_20.jpg
 summary: "This time our four friends continue their search for the missing José. On the island of Midgar, they make a thrilling discovery on a stranded ship, and an unexpected betrayal escalates the situation. As Aldric struggles with his new fear of water, his three friends work on a new plan. Find out what it's all about here:"

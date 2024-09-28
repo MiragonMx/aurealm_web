@@ -1,7 +1,7 @@
 ---
 title: "Ein profitabler Deal"
 publishdate: 2024-04-13T09:00:00+02:00
-date: 1237-09-25T00:10:03+02:00
+startdate: 1237-09-25T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_10.png
 summary: "Beim letzten Mal haben unsere vier Abenteurer eine Hütte entdeckt, aus der seltsame Geräusche drangen. Diesmal gehen sie der Sache genauer auf den Grund und klopfen zunächst höflich an. Doch auf das Klopfen folgt keine Reaktion und so luschert Löwenzahn vorsichtig durch das eine Fenster der Hütte. Was er entdeckt, erfahrt ihr hier:"

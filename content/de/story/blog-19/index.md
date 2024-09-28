@@ -1,7 +1,7 @@
 ---
 title: "Der Weg nach Midgar"
 publishdate: 2024-08-18T10:00:00+02:00
-date: 1237-09-30T00:10:03+02:00
+startdate: 1237-09-30T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_19.png
 summary: "Heute geht die Suche unserer vier Helden nach dem verschwundenen Matrosen José weiter. Hierbei stoßen sie schnell auf ein Rätsel, welches Aldric allerdings im Handumdrehen löst. Welche Informationen sie durch das Rätsel erhalten und wie sie die Lösung auf die Insel Midgar führt, erfahrt ihr hier:"

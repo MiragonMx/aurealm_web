@@ -1,7 +1,7 @@
 ---
 title: "Shadows in the graveyard"
 publishdate: 2024-04-27T09:00:00+02:00
-date: 1237-09-25T00:10:03+02:00
+startdate: 1237-09-25T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_11.jpg
 summary: "Our heroes have been showered with money after their last quest and the successful rescue of the Jarl and spend this wealth directly at Hellebard Dark. Now, however, they're broke again and are forced to throw themselves into the next quest and decide to help Herzfried in his search for the mysterious grave robber. You can find out how this works here:"

@@ -1,7 +1,7 @@
 ---
 title: "Ein neuer Auftrag"
 publishdate: 2024-06-22T10:00:00+02:00
-date: 1237-09-27T00:10:03+02:00
+startdate: 1237-09-27T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_15.png
 summary: "Nach einem erfolgreichen Einbruch im Hafen im letzten Blog haben unsere vier offensichtlich Gefallen an der Kriminalität gefunden und lassen diesmal weitere Einbrüche folgen. Außerdem lernen sie endlich den geheimnisvollen Auftraggeber von Karl Flittenberg kennen. Was dieser zu sagen hat und warum das ihre Zukunft beeinflussen wird, erfahrt ihr hier:"

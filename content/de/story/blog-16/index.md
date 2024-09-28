@@ -1,7 +1,7 @@
 ---
 title: "Zurück in der Wildnis"
 publishdate: 2024-07-06T10:00:00+02:00
-date: 1237-09-28T00:10:03+02:00
+startdate: 1237-09-28T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_16.png
 summary: "Unsere vier Freunde hatten in der letzten Session ein aufschlussreiches Gespräch mit Leutnant Kampf. Dieser hat ihnen auch direkt eine neue Quest gegeben. Mit dieser wollen sie sich aber lieber nicht beschäftigen, sondern gehen auf die Jagd nach Trankzutaten. Wie das geht, erfahrt ihr hier:"
