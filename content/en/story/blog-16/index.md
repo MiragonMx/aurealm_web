@@ -1,7 +1,7 @@
 ---
 title: "Back in the wilderness"
 publishdate: 2024-07-05T10:00:00+02:00
-date: 1237-09-28T00:10:03+02:00
+startdate: 1237-09-28T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_16.png
 summary: "Our four friends had a revealing conversation with Lieutenant Kampf in the last session. He also gave them a new quest straight away. However, they prefer not to deal with this, but instead go hunting for potion ingredients. You can find out how to do this here:"
