@@ -1,7 +1,7 @@
----
+--
 title: "Auf Wiedersehen, Fichtenstein!"
 publishdate: 2024-09-28T10:00:00+02:00
-date: 1237-10-02T00:10:03+02:00
+startdate: 1237-10-02T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_22.png
 summary: "Viele Sessions haben sich unsere vier Abenteurer in Fichtenstein aufgehalten. Doch heute treibt es sie endlich weiter in die Richtung des Ortes Selbingen. Doch auf dem Weg kehren sie beim Wirtshaus "Der Wanderer" ein. Wen sie hier treffen und was sonst noch für Überraschungen auf sie warten, erfahrt ihr hier:"
@@ -24,5 +24,3 @@ Kaum haben sie ihre Bestellung aufgegeben und Elisabeth in der Küche verschwind
 <div class="center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Wanderer.jpg" />
 </div>
-
-
