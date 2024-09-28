@@ -1,11 +1,13 @@
+
 ---
-title: "Auf Wiedersehen, Fichtenstein!"
-publishdate: 2024-09-28T10:00:00+02:00
-startdate: 1237-10-02T00:10:03+02:00
+title: "Der Zwischenstopp auf Logar "
+publishdate: 2024-09-01T10:00:00+02:00
+startdate: 1237-10-01T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_22.png
-summary: "Viele Sessions haben sich unsere vier Abenteurer in Fichtenstein aufgehalten. Doch heute treibt es sie endlich weiter in die Richtung des Ortes Selbingen. Doch auf dem Weg kehren sie beim Wirtshaus "Der Wanderer" ein. Wen sie hier treffen und was sonst noch für Überraschungen auf sie warten, erfahrt ihr hier:"
+thumbnail: img/Blog_21.png
+summary: "Nachdem Theo, Löwenzahn und Kel Tuh Las sich beim letzten Mal dazu entschieden haben, Aldric noch auf die nächste Insel zu schleppen, erkunden sie diese heute auch zu dritt. Dabei macht Löwenzahn einen interessanten Fund. Worum es sich dabei handelt, erfahrt ihr hier:"
 ---
+
 
 Die Entdeckungstour in den letzten Sessions, in denen die Inseln Midgar und Logar von unserer Gruppe erkundet wurden, scheint den Entdeckergeist in ihnen geweckt zu haben. Kaum haben sie den letzten Krümel Brot von Udos Gratis-Frühstück heruntergeschluckt, stehen die vier bereits mit Sack und Pack in der Tür der „Theke“. Etwas traurig, seine Stammgäste ziehen zu lassen, winkt ihnen Udo noch hinterher, bis sie das Tor von Fichtenstein hinter sich gelassen haben. Ab hier übernimmt Simon, der wie immer mit müden Lidern Wache schiebt, das Winken, sinkt aber nach kurzer Zeit wieder in den Schlaf. Das ausgegebene Ziel unserer Abenteurer ist Selbingen, welches eineinhalb Tagesmärsche südwestlich von Fichtenstein liegt. Die ersten Stunden des Marsches verlaufen recht ereignislos, und auch den Straßenabschnitt um die Residenz Chiraque herum lassen sie ohne Probleme hinter sich.
 
