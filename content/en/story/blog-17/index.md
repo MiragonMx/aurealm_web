@@ -1,7 +1,7 @@
 ---
 title: "Loot, Loot, Loot"
 publishdate: 2024-07-20T10:00:00+02:00
-date: 1237-09-28T00:10:03+02:00
+startdate: 1237-09-28T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_17.png
 summary: "After the eventful gathering of the potion ingredients, today our four heroes have to collect Emanuel's half-decomposed head to prove to Lieutenant Kampf that he has indeed been taken out of the way. Find out here whether this will be the only severed head they have to deal with today:"
