@@ -1,7 +1,7 @@
 ---
 title: "Der Zwischenstopp auf Logar "
 publishdate: 2024-09-01T10:00:00+02:00
-date: 1237-10-01T00:10:03+02:00
+startdate: 1237-10-01T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_21.png
 summary: "Nachdem Theo, Löwenzahn und Kel Tuh Las sich beim letzten Mal dazu entschieden haben, Aldric noch auf die nächste Insel zu schleppen, erkunden sie diese heute auch zu dritt. Dabei macht Löwenzahn einen interessanten Fund. Worum es sich dabei handelt, erfahrt ihr hier:"
