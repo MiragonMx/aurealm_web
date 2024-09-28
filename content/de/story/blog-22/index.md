@@ -1,4 +1,4 @@
---
+---
 title: "Auf Wiedersehen, Fichtenstein!"
 publishdate: 2024-09-28T10:00:00+02:00
 startdate: 1237-10-02T00:10:03+02:00
