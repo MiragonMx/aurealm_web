@@ -1,7 +1,7 @@
 ---
 title: "Eine Tour durch Fichtenstein"
 publishdate: 2024-03-16T13:00:00+02:00
-date: 1237-09-25T00:10:03+02:00
+startdate: 1237-09-25T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_8.jpg
 summary: "Im letzten Blog haben sich bereits Löwenzahn und Kel Tuh Las gegen ihren schwerwiegenden Kater, ein Resultat ihres kleinen Festes in Fichtenstein, aufgebäumt. In diesem Blog begibt sich nun auch Theo wieder ins Spielgeschehen und besucht die Kräuterfrau Rosvita. Außerdem kann sich Kel endlich um seine Orangenbäume kümmern. Ob er damit erfolgreich ist und was Theo bei Rosvita an neuem Equipment findet, erfahrt ihr hier:"
