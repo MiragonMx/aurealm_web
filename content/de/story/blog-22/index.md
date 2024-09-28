@@ -8,8 +8,8 @@ summary: ""
 ---
 
 
-<div class="center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Wanderer.jpg" />
+<div class="img-max center">
+  <img class="img-fluid rounded" title="Karte Fichtenstein" alt="Karte Fichtenstein." src="./img/fichtenstein.jpg" />
 </div>
 
 
