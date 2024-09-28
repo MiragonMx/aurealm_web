@@ -1,7 +1,7 @@
 ---
 title: "The way to Midgar"
 publishdate: 2024-08-18T09:00:00+02:00
-date: 1237-09-30T00:10:03+02:00
+startdate: 1237-09-30T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_19.png
 summary: "Today, our four heroes continue their search for the missing sailor José. They quickly come across a puzzle, which Aldric solves in no time at all. Find out here what information the riddle gives them and how the solution leads them to the island of Midgar:"
