@@ -7,6 +7,9 @@ thumbnail: img/Blog_22.png
 summary: "Our four adventurers have spent many sessions in Fichtenstein, but today they are finally heading in the direction of the inn ‘The hiker’. Find out who they meet here and what other surprises await them here:"
 ---
 
+<div class="img-max center">
+  <img class="img-fluid rounded"  title="Map Fichtenstein" alt="Map Fichtenstein." src="./img/fichtenstein.jpg" />
+</div>
 
 <div class="center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Logar_to_Fichtenstein.jpg" />
