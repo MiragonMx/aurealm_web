@@ -1,7 +1,7 @@
 ---
 title: "The missing Earl"
 publishdate: 2024-03-30T13:00:00+02:00
-date: 1237-09-25T00:10:05+02:00
+startdate: 1237-09-25T00:10:05+02:00
 draft: false
 thumbnail: img/Blog_9.jpg
 summary: "Since the last blog, our four heroes have realised that desperately need money. The Jarl of Fichtenstein has disappeared, so they attempt to offer their services to his wife. After negotiating a generous reward, they embark on their first quest. Discover what awaits them here::"
