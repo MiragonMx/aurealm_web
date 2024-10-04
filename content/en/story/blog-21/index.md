@@ -3,7 +3,7 @@ title: "The stopover on Logar"
 publishdate: 2024-09-01T10:00:00+02:00
 startdate: 1237-10-01T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_21.jpg
+thumbnail: img/Blog_21.png
 summary: "After Theo, Löwenzahn and Kel Tuh Las decided to drag Aldric to the next island last time, the three of them also explore it today. In the process, Löwenzahn makes an interesting discovery. You can find out what it is here:"
 ---
 
