@@ -1,6 +1,6 @@
 ---
 title: "Der Zwischenstopp auf Logar "
-publishdate: 2024-09-01T10:00:00+02:00
+publishdate: 2024-09-15T10:00:00+02:00
 startdate: 1237-10-01T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_21.png
