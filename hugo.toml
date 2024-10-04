@@ -1,17 +1,23 @@
 # License for Icons:
-##
+#
 # Bootstrap Icons (https://icons.getbootstrap.com/)
 # Copyright 2019-2023 The Bootstrap Authors
 # Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE.md)
 
 baseURL = 'https://arkanthia.pages.dev/'
-title = 'Arkanthia Pen & Paper'
+title = 'Arkanthia: Deine Quelle für Pen and Paper Abenteuer'
 theme = 'dev'
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
 
 defaultContentLanguage = 'de'
 [languages]
@@ -20,7 +26,7 @@ defaultContentLanguage = 'de'
     languageName = 'Deutsch'
     languageCode = 'de-DE'
     weight = 1
-    Description = "Willkommen auf der Website des TTRPG/Pen-and-Paper-Spiels Arkanthia! Hier kannst du unsere laufende Kampagne in der selbstgebauten Welt von Aurealm verfolgen. Wir spielen mit einer Gruppe von vier Spielern in einem High-Fantasy-Setting voller Intrigen, Gefahren, Abenteuer und jeder Menge Spaß und Witze."
+    Description = "Willkommen in Arkanthia, deiner Heimat für Pen and Paper! Endecke unser kostenlose Pen and Paper Regelwerk Arkanthia und begleite uns auf einer Reise durch diese magische Welt in unserem Pen and Paper Blog."
 
 [[languages.de.menu.main]]
     identifier = "home"
@@ -40,13 +46,13 @@ defaultContentLanguage = 'de'
     url = "/about"
     weight = 80
 
-#[[languages.de.menu.main]]
-    #identifier = "system"
-    #name = "Regeln"
-    #pre = '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-journal-text" aria-hidden="true" focusable="false" viewBox="0 0 16 16"> <path d="M5 10.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/> <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z"/> <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z"/> </svg>'
-    #pageRef = "system/"
-    #url = "/system/"
-    #weight = 20
+[[languages.de.menu.main]]
+    identifier = "system"
+    name = "Regelwerk"
+    pre = '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-journal-text" aria-hidden="true" focusable="false" viewBox="0 0 16 16"> <path d="M5 10.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/> <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z"/> <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z"/> </svg>'
+    pageRef = "system/"
+    url = "/system/"
+    weight = 20
 
 [[languages.de.menu.main]]
     identifier = "story"
@@ -69,7 +75,7 @@ defaultContentLanguage = 'de'
     languageName = 'English'
     languageCode = 'en-US'
     weight = 2
-    Description = "Welcome to the TTRPG/pen and paper game Arkanthia site! Follow our ongoing campaign in the homebrew world of Aurealm with a party of four in a high fantasy setting full of intrigue, danger, adventure and lots of fun and jokes."
+    Description = "Welcome to Arkanthia, your home for pen and paper! Discover our free pen and paper rulebook Arkanthia and join us on a journey through this magical world in our pen and paper blog."
 [[languages.en.menu.main]]
     identifier = "home"
     name = "Home"
@@ -87,13 +93,13 @@ defaultContentLanguage = 'de'
     url = "/about"
     weight = 80
 
-#[[languages.en.menu.main]]
-    #identifier = "system"
-    #name = "Rules"
-    #pre = '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-journal-text" aria-hidden="true" focusable="false" viewBox="0 0 16 16"> <path d="M5 10.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/> <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z"/> <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z"/> </svg>'
-    #pageRef = "system/"
-    #url = "/system/"
-    #weight = 20
+[[languages.en.menu.main]]
+    identifier = "system"
+    name = "Rulebook"
+    pre = '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-journal-text" aria-hidden="true" focusable="false" viewBox="0 0 16 16"> <path d="M5 10.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0-2a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z"/> <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z"/> <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z"/> </svg>'
+    pageRef = "system/"
+    url = "/system/"
+    weight = 20
 
 [[languages.en.menu.main]]
     identifier = "story"
@@ -115,11 +121,10 @@ defaultContentLanguage = 'de'
     tag = "tags"
 
 [params]
-
-    favicon = "/favicon.ico"
-
-    # footer
-    imprint = "/impressum"
+  math = false
+  favicon = "/favicon.ico"
+  # footer
+  imprint = "/impressum"
 
 [privacy]
   [privacy.disqus]
