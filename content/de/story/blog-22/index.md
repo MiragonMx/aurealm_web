@@ -1,6 +1,6 @@
 ---
 title: "Auf Wiedersehen, Fichtenstein!"
-publishdate: 2024-09-01T10:00:00+02:00
+publishdate: 2024-09-29T10:00:00+02:00
 startdate: 1237-10-02T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_22.png
