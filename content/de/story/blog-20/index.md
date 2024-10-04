@@ -2,7 +2,7 @@
 title: "Konsequenzen"
 publishdate: 2024-09-01T10:00:00+02:00
 startdate: 1237-09-30T00:10:03+02:00
-enddate: 1237-01-10T00:10:03+02:00
+enddate: 1237-10-01T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_20.jpg
 summary: "Unsere vier Freunde sind diesmal weiter auf der Suche nach dem verschollenen José. Auf der Insel Midgar machen sie einen spannenden Fund auf einem gestrandeten Schiff, und ein unerwarteter Verrat lässt die Lage eskalieren. Während Aldric mit seiner neuen Panik vor Wasser kämpft, arbeiten seine drei Freunde an einem neuen Plan. Worum es hierbei geht, erfahrt ihr hier:"
