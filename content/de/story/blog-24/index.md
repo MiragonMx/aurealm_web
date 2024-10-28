@@ -5,7 +5,7 @@ startdate: 1237-10-02T00:10:03+02:00
 enddate: 1237-10-03T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_24.jpg
-summary: "Vor zwei Wochen haben sich Kel, Aldric, Löwenzahn und Theo erfolgreich gegen einen Hinterhalt gewehrt und ihre Feinde überwältigt. Jetzt sehnen sie sich nach einem ruhigen Abend im "Wanderer", doch daraus wird nichts. Warum, erfahrt ihr hier:"
+summary: "Vor zwei Wochen haben sich Kel, Aldric, Löwenzahn und Theo erfolgreich gegen einen Hinterhalt gewehrt und ihre Feinde überwältigt. Jetzt sehnen sie sich nach einem ruhigen Abend im 'Wanderer', doch daraus wird nichts. Warum, erfahrt ihr hier:"
 ---
 
 Ein harter Kampf liegt hinter unseren vier Helden. Erschöpft, aber voller Stolz, schleppen sie sich aus dem Wald, in dem sie in einen Hinterhalt geraten waren. Auf dem Weg zurück zum Gasthaus "Der Wanderer" wechseln sie noch ein paar müde Worte darüber, wie ihre Gutmütigkeit von dem Jungen Floren schamlos ausgenutzt wurde und dass sie ihn ihrer Meinung nach angemessen bestraft haben. Auch wenn darüber wohl die Meinungen auseinandergehen, bleibt die Tatsache bestehen: Floren und seine Bande werden niemanden mehr täuschen können.
