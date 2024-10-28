@@ -5,7 +5,7 @@ startdate: 1237-10-02T00:10:03+02:00
 enddate: 1237-10-03T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_24.jpg
-summary: "Two weeks ago, Kel, Aldric, Löwenzahn and Theo successfully fought off an ambush and overpowered their enemies. Now they're longing for a quiet evening in the Wanderer, but that's not going to happen. Find out why here:"
+summary: "Two weeks ago, Kel, Aldric, Löwenzahn and Theo successfully fought off an ambush and overpowered their enemies. Now they're longing for a quiet evening in the 'Wanderer', but that's not going to happen. Find out why here:"
 ---
 A fierce battle lies behind our four heroes. Exhausted, but full of pride, they drag themselves out of the forest where they were ambushed. On their way back to The Wanderer tavern, they exchange a few tired words about how their good nature was shamelessly exploited by the boy Floren, and how they felt they deserved to punish him. Opinions may differ, but the fact remains: Floren and his gang will never be able to fool anyone again.
 
