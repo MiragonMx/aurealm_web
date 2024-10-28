@@ -1,5 +1,5 @@
 ---
-title: "Kel's first coup:"
+title: "Kel's first coup"
 publishdate: 2024-10-27T10:00:00+02:00
 startdate: 1237-10-02T00:10:03+02:00
 enddate: 1237-10-03T00:10:03+02:00
