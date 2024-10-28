@@ -19,7 +19,7 @@ But Theo has an idea: as a rogue, he might as well start acting like one. So he 
 
 Meanwhile, Theo tries to get to the front door unnoticed to tell his friends about his mishap, but instead he hears a loud argument inside, instigated by Elisabeth. A few minutes later, his three companions come out, shake their heads and tell him that Elisabeth had noticed his escape and was quite annoyed. Fortunately, Löwenzahn offered to pay Theo's room bill, which quickly calmed Elisabeth down. They were finally able to leave the inn on good terms.
 
-What awaits our heroes in Selbingen, however, won't be revealed for another two weeks in Arkanthia Pen and Paper.
+What awaits our heroes in Selbingen, however, won't be revealed for another two weeks in Arkanthia Pen and Paper. 
 
 <div class="center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia."  src="./img/Arkanthia_Full_Map_Wanderer_only.jpg" />
