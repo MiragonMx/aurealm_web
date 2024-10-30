@@ -26,7 +26,8 @@ defaultContentLanguage = 'de'
     languageName = 'Deutsch'
     languageCode = 'de-DE'
     weight = 1
-    Description = "Willkommen in Arkanthia, deiner Heimat für Pen and Paper! Endecke unser kostenlose Pen and Paper Regelwerk Arkanthia und begleite uns auf einer Reise durch diese magische Welt in unserem Pen and Paper Blog."
+    [languages.de.params]
+      Description = "Willkommen in Arkanthia, deiner Heimat für Pen and Paper! Endecke unser kostenlose Pen and Paper Regelwerk Arkanthia und begleite uns auf einer Reise durch diese magische Welt in unserem Pen and Paper Blog."
 
 [[languages.de.menu.main]]
     identifier = "home"
@@ -83,7 +84,9 @@ defaultContentLanguage = 'de'
     languageName = 'English'
     languageCode = 'en-US'
     weight = 2
-    Description = "Welcome to Arkanthia, your home for pen and paper! Discover our free pen and paper rulebook Arkanthia and join us on a journey through this magical world in our pen and paper blog."
+    [languages.en.params]
+      Description = "Welcome to Arkanthia, your home for pen and paper! Discover our free pen and paper rulebook Arkanthia and join us on a journey through this magical world in our pen and paper blog."
+
 [[languages.en.menu.main]]
     identifier = "home"
     name = "Home"
