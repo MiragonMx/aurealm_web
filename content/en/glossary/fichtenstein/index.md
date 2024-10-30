@@ -1,6 +1,6 @@
 ---
 title: "Fichtenstein"
-publishdate: 2024-11-01T08:00:00+02:00
+publishdate: 2024-10-30T08:00:00+02:00
 draft: false
 thumbnail: img/fichtenstein.jpg
 Summary: "Fichtenstein is a small village in the northern marshlands."
