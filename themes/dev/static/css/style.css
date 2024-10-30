@@ -38,9 +38,14 @@ body.light-theme a, body.light-theme h2, body.light-theme h3 {
   color: var(--red);
 }
 
+
 .navbar {
   background-color: var(--red);
   color: var(--light);
+}
+
+body.light-theme .nav-item a, .nav-item a, body.light-theme .navbar-brand, .navbar-brand {
+  color: inherit;
 }
 
 .active{
@@ -48,13 +53,13 @@ body.light-theme a, body.light-theme h2, body.light-theme h3 {
   color: var(--light);
 }
 
-body.light-theme .navbar-brand, .navbar-brand {
-  color: inherit;
-}
+/*a .navbar-brand {*/
+  /*color: var(--light) !important;*/
+/*}*/
 
-body.light-theme .nav-link, .nav-link {
-  color: inherit;
-}
+/*a .nav-link {*/
+  /*color: var(--light) !important;*/
+/*}*/
 
 .btn-light-dark-toggle, #lang-switch-dropdown-link{
   color: inherit;
@@ -83,12 +88,27 @@ body.light-theme .nav-link, .nav-link {
   /*background-color: var(--dark);*/
 }
 
+.dropdown:hover {
+  display:block;
+}
+
+.dropdown-toggle:hover {
+  color: var(--gold);
+  display:block;
+  /*background-color: var(--dark);*/
+}
+
 .dropdown-menu .dropdown-item:focus {
   color: var(--gold);
   background-color: var(--dark);
 }
 
-#lang-switch-dropdown-link:hover, .btn-light-dark-toggle:hover, .nav-link:hover, .navbar-brand:hover, .is-active {
+.dropdown-item:focus {
+  color: var(--gold);
+  background-color: var(--dark);
+}
+
+#lang-switch-dropdown-link:hover, .btn-light-dark-toggle:hover, body.light-theme .nav-link:hover, .nav-link:hover, .navbar-brand:hover, body.light-theme .navbar-brand:hover, .is-active {
   color: var(--gold);
 }
 
