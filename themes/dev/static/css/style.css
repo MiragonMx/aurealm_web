@@ -48,11 +48,11 @@ body.light-theme a, body.light-theme h2, body.light-theme h3 {
   color: var(--light);
 }
 
-.navbar-brand {
+body.light-theme .navbar-brand, .navbar-brand {
   color: inherit;
 }
 
-.nav-link {
+body.light-theme .nav-link, .nav-link {
   color: inherit;
 }
 
