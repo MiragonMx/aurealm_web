@@ -71,6 +71,27 @@ defaultContentLanguage = 'de'
     url = "/glossary/"
     weight = 50
 
+[[languages.de.menu.main]]
+    identifier = "people"
+    parent = "glossary"
+    name = "Personen"
+    pageRef = "glossary/people/"
+    url = "/glossary/people/"
+
+[[languages.de.menu.main]]
+    identifier = "places"
+    parent = "glossary"
+    name = "Orte"
+    pageRef = "glossary/places/"
+    url = "/glossary/places/"
+
+[[languages.de.menu.main]]
+    identifier = "things"
+    parent = "glossary"
+    name = "Dinge"
+    pageRef = "glossary/things/"
+    url = "/glossary/things/"
+
 #[[languages.de.menu.main]]
     #identifier = "quests"
     #name = "Quests"
@@ -127,6 +148,27 @@ defaultContentLanguage = 'de'
     pageRef = "glossary/"
     url = "/glossary/"
     weight = 50
+
+[[languages.en.menu.main]]
+    identifier = "people"
+    parent = "glossary"
+    name = "People"
+    pageRef = "glossary/people/"
+    url = "/glossary/people/"
+
+[[languages.en.menu.main]]
+    identifier = "places"
+    parent = "glossary"
+    name = "Places"
+    pageRef = "glossary/places/"
+    url = "/glossary/places/"
+
+[[languages.en.menu.main]]
+    identifier = "things"
+    parent = "glossary"
+    name = "Things"
+    pageRef = "glossary/things/"
+    url = "/glossary/things/"
 
 #[[languages.en.menu.main]]
     #identifier = "quests"
