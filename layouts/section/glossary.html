@@ -7,7 +7,7 @@
     </h1>
 
     {{ .Content }}
-    {{ $paginator := .Paginate (.Pages.ByTitle) 5 }}
+    {{ $paginator := .Paginate (.Sections.ByTitle) 5 }}
     {{ range $paginator.Pages }}
       <div class="card-container">
         {{ partial "widgets/post-card.html" . }}
