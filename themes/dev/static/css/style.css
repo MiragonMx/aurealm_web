@@ -43,9 +43,9 @@ body.light-theme a, body.light-theme h2, body.light-theme h3 {
   color: var(--light);
 }
 
-.active{
+.is-active{
   background-color: var(--red);
-  color: var(--light);
+  color: var(--gold);
 }
 
 body.light-theme .navbar-brand, .navbar-brand {
@@ -78,17 +78,15 @@ body.light-theme .nav-link, .nav-link {
   background-color: var(--dark);
 }
 
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
 .dropdown-item {
   color: var(--light)
 }
 
-.dropdown-menu, .dropdown-item:hover {
-  color: var(--gold);
-  /*background-color: var(--dark);*/
-  background-color: var(--red);
-}
-
-.dropdown-menu, .dropdown-item:focus {
+.dropdown-menu, .dropdown-item:focus, .dropdown-item:hover {
   color: var(--gold);
   /*background-color: var(--dark);*/
   background-color: var(--red);
