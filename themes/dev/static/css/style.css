@@ -78,14 +78,20 @@ body.light-theme .nav-link, .nav-link {
   background-color: var(--dark);
 }
 
-.dropdown-menu .dropdown-item:hover {
-  color: var(--gold);
-  /*background-color: var(--dark);*/
+.dropdown-item {
+  color: var(--light)
 }
 
-.dropdown-menu .dropdown-item:focus {
+.dropdown-menu, .dropdown-item:hover {
   color: var(--gold);
-  background-color: var(--dark);
+  /*background-color: var(--dark);*/
+  background-color: var(--red);
+}
+
+.dropdown-menu, .dropdown-item:focus {
+  color: var(--gold);
+  /*background-color: var(--dark);*/
+  background-color: var(--red);
 }
 
 #lang-switch-dropdown-link:hover, .btn-light-dark-toggle:hover, .nav-link:hover, .navbar-brand:hover, .is-active {
