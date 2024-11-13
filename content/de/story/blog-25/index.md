@@ -4,7 +4,7 @@ publishdate: 2024-11-10T10:00:00+02:00
 startdate: 1237-10-03T00:10:03+02:00
 enddate: 1237-10-04T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_25.jpg
+thumbnail: img/Blog_25.png
 summary: " Nach einer aufregenden Übernachtung im 'Wanderer', geht es für unsere vier Freunde nun endlich weiter zur nächsten Ortschaft Selbingen. Sie erreichen den kleinen Ort in der Dämmerung, können sich aber dennoch etwas umschauen. Wen sie in Selbingen kennenlernen, erfahrt ihr hier:"
 ---
 
