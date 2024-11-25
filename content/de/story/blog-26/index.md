@@ -1,6 +1,6 @@
 ---
 title: "Die Bedrohung Selbingens"
-publishdate: 2024-11-10T10:00:00+02:00
+publishdate: 2024-11-24T10:00:00+02:00
 startdate: 1237-10-03T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_26.png
