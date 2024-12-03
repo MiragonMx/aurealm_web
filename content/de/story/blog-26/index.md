@@ -1,7 +1,7 @@
 ---
 title: "Die Bedrohung Selbingens"
 publishdate: 2024-11-24T10:00:00+02:00
-startdate: 1237-10-03T00:10:03+02:00
+startdate: 1237-10-04T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_26.png
 summary: "Nach einer langen Wanderung erreichten Theo, Löwenzahn, Aldric und Kel Tuh Las beim letzten mal das kleine Dorf Selbingen. Noch immer bedrückt sie die düstere Andeutung des Pfarrers Herbert, der ihnen beim letzten Mal von mysteriösen Angriffen berichtet hatte. Doch was bedroht das Dorf – und können unsere Helden helfen? All das erfahrt ihr hier:"
