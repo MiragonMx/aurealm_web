@@ -3,7 +3,7 @@ title: "Vier Bergmänner"
 publishdate: 2024-12-07T10:00:00+02:00
 startdate: 1237-10-04T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_27.png
+thumbnail: img/Blog_27.jpg
 summary: "Kaum in Selbingen angekommen, werden Kel Tuh Las, Theo, Aldric und Löwenzahn mit einer dringenden Mission betraut: Sie sollen Eisenerz aus einer verlassenen Mine beschaffen, um das Dorf gegen drohende Angriffe zu wappnen. Was zunächst wie ein klarer Auftrag erscheint, entpuppt sich schnell als gefährliche Prüfung. Doch die wahre Bedrohung wartet nicht in den Tiefen der Mine – sondern in Selbingen selbst. Was unsere Helden dort erwartet, erfahrt ihr hier:"
 ---
 Vor vier Wochen sind unsere vier Freunde zum ersten Mal in Selbingen angekommen. Die Zeit hier haben sie ausgiebig zum Einkaufen und für Gespräche genutzt, doch heute verlassen sie den kleinen Ort schon wieder, um eine Nebenquest für den Schmied Meckmo Hämmerich zu erledigen. Dieser braucht dringend neue Schmiedematerialien, damit er unseren Helden Waren anbieten kann. Aber nicht nur hierfür, sondern auch, um weitere Waffen zu schmieden. Diese braucht Selbingen, um sich gegen die mysteriösen Angriffe zu verteidigen, die das Dorf in regelmäßigen Abständen heimsuchen.

@@ -3,7 +3,7 @@ title: "Four miners"
 publishdate: 2024-12-07T10:00:00+02:00
 startdate: 1237-10-04T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_27.png
+thumbnail: img/Blog_27.jpg
 summary: "Having barely arrived in Selbingen, Kel Tuh Las, Theo, Aldric and Löwenzahn are entrusted with an urgent mission: they are to procure iron ore from an abandoned mine to arm the village against impending attacks. What at first seems like a straightforward mission soon turns out to be a dangerous test. However, the real threat is not waiting in the depths of the mine - but in Selbingen itself. Find out what awaits our heroes there here:"
 ---
 
