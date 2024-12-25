@@ -59,7 +59,7 @@ $$ MB-Regeneration / h = \left(max.\ \  MB \over 10 \right) - X (Art\ \  der\ \ 
 
 * **Initiative:** Die Initiative ist entscheidend für das Kampf-System. Je geringer die Initiative ist, desto häufiger kommt ein Charakter dran. Alles Weitere hierzu in Kapitel **Kampfsystem**.
 
-$$ Initiative = \left(10 + Stärke \over 2 - Geschicklichkeit \over 2 \right)$$
+$$ Initiative = 10 + \left(Stärke \over 2 \right) - \left(Geschicklichkeit \over 2 \right) $$
 
 
 * **Reichweite:** Die Reichweite beschreibt den Radius in Metern, den sich ein Charakter innerhalb einer Kampfesrunde bewegen kann. Die Bewegung wird dabei statt anderen Aktionen ausgeführt. Ein Charakter, der sich in einer Kampfrunde die maximale Reichweite bewegt hat, ist nicht mehr in der Lage andere Aktionen durchzuführen. Bewegt er sich nur Teile der maximalen Reichweite, können währenddessen anteilig andere Aktionen ausgeführt werden. So kann beispielsweise ein Bogenschütze seinen Bogen abfeuern, während er leicht läuft. Sprintet er allerdings in die nächste Deckung, ist dies nebenbei nicht mehr möglich.
