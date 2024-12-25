@@ -58,7 +58,7 @@ $$ MR-Regeneration / h = \left(max.\ \ MR \over 10\right) - X (Type\ \ of\ \ dis
 
 * **Initiative:** Initiative is crucial to the combat system. The lower the initiative, the more often a character will take a turn. You can read more about this in the **Battle System** chapter.
 
-$$ Initiative = \left(Strength + 20 \over Dexterity \right)$$
+$$ Initiative = 10 + \left(Strength \over 2 \right) - \left(Constitution \over 2 \right) $$
 
 
 * **Range:** Range is the radius in metres that a character can move within a combat round. The movement is performed instead of other actions. A character who has moved the maximum range in a combat round cannot perform any other actions. If only part of the maximum range is moved, other actions can be performed proportionally. For example, an archer can fire his bow while running at a leisurely pace. However, if he sprints to the nearest cover, he will no longer be able to do so.
