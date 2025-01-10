@@ -5,4 +5,4 @@ draft: false
 Summary: "Die Mine 'Gungeaug' ist eine der größten Nzrtv Minen von Zazyrus."
 ---
 
-In der Mine 'Gungeaug' werden täglich große Mengen des Nztrv Gesteins gefördert, welches zweimal in der Woche von einem Zug abgeholt wird. Sie liegt in der Nordmarsch und gehört Herrn Chiraque.
+In der Mine 'Gungeaug' werden täglich große Mengen des Nztrv Gesteins gefördert, welches zweimal in der Woche von einem Zug abgeholt wird. Sie liegt in der Nordmarsch und gehört Monsieur Chiraque. Da die Mine wichtig für die Ziele Zazyrus' ist, werden ihr Sondergenehmigungen eingeräumt. Hierunter fallen unter anderem Steuerentlastungen und die Legalisierung von Sklavenarbeit.
