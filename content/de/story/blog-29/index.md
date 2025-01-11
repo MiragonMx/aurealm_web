@@ -2,7 +2,7 @@
 title: "Schutt und Asche:"
 publishdate: 2025-01-05T10:00:00+02:00
 startdate: 1237-10-04T00:10:03+02:00
-enddate:1237-10-05T00:10:03+02:00
+enddate: 1237-10-05T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_28.png
 summary: "Ein erbitterter Kampf hat Selbingen erschüttert. Die Blassen, unheimliche Plünderer aus den Schatten, hatten zugeschlagen und den Ort in Angst und Schrecken versetzt. Doch unsere Helden kämpften mit Mut und all ihrer Kraft um Selbingen zu schützen. Ihr Einsatz rettete den Ort vor dem Untergang – doch der Sieg hatte seinen Preis. Wen Selbingen zu betrauern hat und welche Verluste die Gemeinschaft erschüttern, erfahrt ihr hier:"
