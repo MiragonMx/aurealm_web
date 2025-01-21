@@ -4,7 +4,7 @@ publishdate: 2025-01-05T10:00:00+02:00
 startdate: 1237-10-04T00:10:03+02:00
 enddate: 1237-10-05T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_28.png
+thumbnail: img/Blog_29.png
 summary: "Ein erbitterter Kampf hat Selbingen erschüttert. Die Blassen, unheimliche Plünderer aus den Schatten, hatten zugeschlagen und den Ort in Angst und Schrecken versetzt. Doch unsere Helden kämpften mit Mut und all ihrer Kraft um Selbingen zu schützen. Ihr Einsatz rettete den Ort vor dem Untergang – doch der Sieg hatte seinen Preis. Wen Selbingen zu betrauern hat und welche Verluste die Gemeinschaft erschüttern, erfahrt ihr hier:"
 ---
 
@@ -27,5 +27,5 @@ Sie öffnen vorsichtig die Tür des Gebäudes und sehen sofort die nächsten dre
 Mit eingefallenem Gesicht begrüßt der Bürgermeister die vier in seiner Eingangshalle. Bevor sie etwas sagen können, meint er mit belegter Stimme: „Diesmal hat es Gerd getroffen.“ Sie erfahren, dass Gerd seit Jahrzehnten in Selbingen lebte und früher als Fischer auf dem See gearbeitet hat. Seit einiger Zeit sei er aber zu alt für körperliche Arbeit gewesen, weshalb er überall im Dorf kleinere Arbeiten ausgeführt hat, die Selbingen zugute kommen sollten. Nun sei er bei dem Angriff gestorben. Betroffen sprechen unsere vier ihr Mitleid aus und erzählen von ihren Entdeckungen im Militäraußenposten und an der Leiche, die sie gefunden hatten. Außerdem erwähnen sie auch das kleine Boot, das sie auf dem Weg zum Rathaus entdeckt haben. Siegfried dankt ihnen für die Informationen und ihren Einsatz für die Stadt. Obwohl unsere Freunde schon einen Plan haben, was sie als Nächstes machen, erzählen sie Siegfried noch nichts davon. Was unsere Freunde ausgeheckt haben, erfahrt ihr jedoch erst in zwei Wochen beim nächsten Blog Arkanthia Pen and Paper.
 
 <div class="center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Wanderer_Selbingen.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen.jpg" />
 </div>
