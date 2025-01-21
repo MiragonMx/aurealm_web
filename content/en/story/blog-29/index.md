@@ -1,5 +1,5 @@
 ---
-title: "Rubble and ashes:"
+title: "Rubble and ashes"
 publishdate: 2025-01-05T10:00:00+02:00
 startdate: 1237-10-04T00:10:03+02:00
 enddate: 1237-10-05T00:10:03+02:00

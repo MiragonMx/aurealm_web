@@ -1,5 +1,5 @@
 ---
-title: "The battle for Selbingen:"
+title: "The battle for Selbingen"
 publishdate: 2024-12-22T10:00:00+02:00
 startdate: 1237-10-04T00:10:03+02:00
 draft: false
