@@ -4,7 +4,7 @@ publishdate: 2025-01-05T10:00:00+02:00
 startdate: 1237-10-05T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_30.jpg
-summary: ""
+summary: "Nach dem Kampf gegen die Blassen in Selbingen brechen unsere vier Helden zu einem neuen Abenteuer auf. Ihr Ziel: die geheimnisvolle Felseninsel, die mitten im Selbigsee liegt und von ihnen als mögliches Versteck der Blassen vermutet wird. Was sie dort erwartet, erfahrt ihr hier:"
 ---
 
 Nach dem erfolgreichen Kampf gegen die Blassen mussten unsere vier Helden feststellen, dass Selbingen noch schwerer getroffen wurde, als sie zunächst vermuteten. Ein Großbrand hatte Bibianes Stall zerstört, und ihre Erkundung am Morgen brachte die traurige Gewissheit über den Verlust des Dorfbewohners Gerd sowie der drei hier stationierten Soldaten. Außerdem entdeckten sie ein verlassenes Boot, das einsam auf den Wellen am steinigen Strand von Selbingen schaukelte. Genau dieses Boot inspirierte unsere vier Freunde zu einem neuen Plan.
@@ -23,7 +23,7 @@ Nun, da die Gefahr gebannt ist, schauen sie sich in Ruhe auf der Ebene um. Auf d
 
 Vorsichtig zwängt sich Theo durch die Felsspalte und gelangt in eine winzige Kammer. Obwohl er keine hohen Erwartungen hatte, ist er dennoch enttäuscht, denn die Höhle ist nahezu leer. Nur eine alte, zusammengefallene Holzkiste steht modrig in einer Ecke. Mangels Alternativen widmet er sich schließlich der Kiste, öffnet sie behutsam und entdeckt eine kleine Phiole mit Öl, eine Strickleiter und ein Fernglas. Was er damit anfangen soll, weiß Theo nicht, und er berichtet seinen Freunden von seinem Fund. Die sind ebenso ratlos, raten ihm aber, die Gegenstände wieder zurückzulegen – sie könnten später noch wichtig sein.
 
-Damit haben sie die Oberfläche der Insel vollständig erkundet und entscheiden sich nun, die Höhle im Inneren der Insel zu untersuchen. Was sie dort erwartet, erfahrt ihr im nächsten Blogbeitrag von Arkanthia Pen & Paper.
+Damit haben sie die Oberfläche der Insel vollständig erkundet und entscheiden sich nun, die Höhle im Inneren der Insel zu untersuchen. Was sie dort erwartet, erfahrt ihr im nächsten Blogbeitrag von Arkanthia Pen and Paper.
 
 <div class="center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen_Felseninsel.jpg" />
