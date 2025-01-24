@@ -5,7 +5,7 @@ draft: false
 thumbnail: "img/Aldric.png"
 ---
 
-Mein Name ist Aldric, Sohn von Osric, des vorletzten Grafen von Praven und dies ist meine Geschichte.
+Mein Name ist [Aldric]({{< ref "glossary/people/Aldric-von-Praven" >}}), Sohn von Osric, des vorletzten Grafen von Praven und dies ist meine Geschichte.
 
 Während diese Zeilen zu Papier wandern, werter Leser, befinde ich mich auf dem Abort einer gottlosen Spelunke, geschlagen mit der Gesellschaft von drei, oder besser zweieinhalb, wilden und aufschneiderischen, wenn auch gutmütigen, Halunken, zu denen mich jedoch mittlerweile die enge Bande gemeinsamer Heldentaten und, gelegentlich, nicht so gemeinsamer Untaten bindet. Doch der Reihe nach.
 
