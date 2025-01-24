@@ -58,7 +58,7 @@ $$ MR-Regeneration / h = \left(max.\ \ MR \over 10\right) - X (Type\ \ of\ \ dis
 
 * **Initiative:** Initiative is crucial to the combat system. The lower the initiative, the more often a character will take a turn. You can read more about this in the **Battle System** chapter.
 
-$$ Initiative = \left(Strength + 20 \over Dexterity \right)$$
+$$ Initiative = 10 + \left(Strength \over 2 \right) - \left(Constitution \over 2 \right) $$
 
 
 * **Range:** Range is the radius in metres that a character can move within a combat round. The movement is performed instead of other actions. A character who has moved the maximum range in a combat round cannot perform any other actions. If only part of the maximum range is moved, other actions can be performed proportionally. For example, an archer can fire his bow while running at a leisurely pace. However, if he sprints to the nearest cover, he will no longer be able to do so.
@@ -127,11 +127,11 @@ Before you train these skills, place them in the appropriate skill category with
 
 At the start of character creation, each player may spend 150 ability points on abilities. In principle, there is no limit to the number of APs that can be spent on each skill, but the higher the skill level, the more APs are required to develop it.
 
-* Fähigkeitswert 0-4: 1 FP
-* Fähigkeitswert 5-9: 2 FP
-* Fähigkeitswert 10-14: 3 FP
-* Fähigkeitswert 15-19: 4 FP
-* Fähigkeitswert 20+: 5 FP
+* Ability value 0-4: 1 AP
+* Ability value 5-9: 2 AP
+* Ability value 10-14: 3 AP
+* Ability value 15-19: 4 AP
+* Ability value 20+: 5 AP
 
 The higher the skill level of a character, the better they are at that skill. It may make sense to develop an ability to 20+, even though ability checks are made with a D20. This is because the DM can make the test more difficult in particularly complicated situations. This means that your ability score will be adjusted downwards by a value set by the DM. In such cases, you may benefit from higher ability scores.
 
