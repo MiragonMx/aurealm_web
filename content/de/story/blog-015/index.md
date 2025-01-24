@@ -26,7 +26,7 @@ Ein kleiner Pfad führt durch Felsen und Küstenvegetation und endet schließlic
 
 Eine halbe Stunde später trudeln die vier bei Udo ein und genehmigen sich vor dem Schlafengehen noch das eine oder andere Hopfengetränk. Ob sie am nächsten Tag wirklich so zielstrebig an ihren Quests arbeiten oder doch wieder ein wenig abschweifen, erfahrt ihr im nächsten Arkanthia Pen and Paper Blog.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
 </div>
 

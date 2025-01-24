@@ -25,6 +25,6 @@ Zwei Räume später erreichen sie die sogenannte Brauerei. Diese ähnelt allerdi
 
 Kaum haben sie ihre Bestellung aufgegeben und Elisabeth in der Küche verschwinden sehen, knallt laut die Tür des Gasthauses auf, und ein kleiner Junge steht panisch und schweißüberströmt im Türrahmen. Ein kleines Rinnsal von getrocknetem Blut klebt an seiner Schläfe, und in seinen Haaren hängen kleine Äste und Blätter. Seine zerrissenen, dreckigen Hosen lassen darauf schließen, dass er in den letzten Minuten öfter Bekanntschaft mit dem Boden gemacht haben muss. Atemlos keucht er ein beängstigtes „Hilfe“ in den Raum, und Tränen steigen ihm in die Augen. Heldenhaft, wie unsere vier nun mal sind, springen sie auf und fragen den kleinen Jungen, was denn passiert sei. Er erklärt hektisch, dass er Floren heiße und sein Papa im Wald von einem Rudel Wölfe angegriffen wurde. Sie seien dort zum Jagen gewesen und komplett überrumpelt worden. Mehr müssen unsere Freunde nicht wissen. Sie springen auf und rennen mit dem Jungen hinaus auf die Straße. Ob sie erfolgreich gegen das Wolfsrudel bestehen können oder gemeinsam mit Floren und dessen Vater im Wald zerfleischt werden, erfahrt ihr in zwei Wochen, wenn es weitergeht mit dem Abenteuer Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Wanderer.jpg" />
 </div>

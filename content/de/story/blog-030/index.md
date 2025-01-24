@@ -11,7 +11,7 @@ Nach dem erfolgreichen Kampf gegen die Blassen mussten unsere vier Helden festst
 
 Heute wollen sie sich auf den Weg zur Felseninsel in der Mitte des Selbigsees machen, um sie zu erkunden und dort möglicherweise das Versteck der Blassen zu finden. Diese Idee gefällt vor allem Aldric nicht, da er immer noch mit seiner traumatischen Wasserphobie zu kämpfen hat. Doch seine Bedenken werden von der Gruppe großzügig ignoriert. Mit Hilfe eines Seils wird Aldric in das Boot verfrachtet, das sie am Strand gefunden haben, und schon rudern sie los in Richtung Felseninsel.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="./img/selbingen.jpg" />
 </div>
 
@@ -25,6 +25,6 @@ Vorsichtig zwängt sich Theo durch die Felsspalte und gelangt in eine winzige Ka
 
 Damit haben sie die Oberfläche der Insel vollständig erkundet und entscheiden sich nun, die Höhle im Inneren der Insel zu untersuchen. Was sie dort erwartet, erfahrt ihr im nächsten Blogbeitrag von Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen_Felseninsel.jpg" />
 </div>

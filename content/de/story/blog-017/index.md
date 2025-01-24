@@ -23,7 +23,7 @@ Nach wenigen Minuten geben die restlichen Banditen auf und fliehen. Jedoch nicht
 
 Nachdem wirklich jeder Rucksack, jede Tasche und jeder Beutel so voll wie möglich gestopft ist, geht's wieder in Richtung Fichtenstein. Wie geplant halten sie den gesamten Weg über Ausschau nach Kira, doch finden sie weder Kira selbst, noch irgendeine Spur von ihr. Da ihre Rucksäcke aber wirklich schwer sind, ist ihre Begeisterung für zeitaufwendige Umwege eher unterdurchschnittlich und so wählen sie doch lieber den direkten Weg.  So kommen sie ohne Kira am späten Abend in Fichtenstein an und fallen direkt in Udos vorbereitete Betten, diesmal sogar ohne vorher die halbe Bar leer zu saufen. Wie das Abenteuer unserer vier Helden morgen weitergeht, erfahrt ihr aber erst in zwei Wochen bei Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Map_Blog_17.jpg" />
 </div>
 

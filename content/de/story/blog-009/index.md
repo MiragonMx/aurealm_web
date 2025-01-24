@@ -21,7 +21,7 @@ Der nächste Morgen ist nass, kalt und ungemütlich, und so steht ein bisschen d
 
 Schon aus einigen Metern Entfernung fallen ihnen merkwürdige Geräusche auf, die aus der Hütte kommen. So richtig zuordnen können sie diese nicht; es erinnert aber eher an Tiere als an Foltergeschrei oder das, was sie sonst so erwartet haben. Beim Näherkommen und genauem Hinhören können sie tatsächlich eine Mischung aus Katzenmiauen und Gebrüll hören. Etwas überfordert mit dieser unerwarteten Szenerie stehen die vier erst kurze Zeit unschlüssig im Kreis und gucken sich gegenseitig ratlos an, bevor mal wieder Aldric die Initiative ergreift und vorsichtig an die Tür klopft. Was für eine wilde Entdeckung sie in der Hütte machen, erfahrt ihr beim nächsten Mal Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Blog_9.jpg" />
 </div>
 

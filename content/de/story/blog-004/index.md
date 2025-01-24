@@ -17,6 +17,6 @@ Draußen in der frischen Luft überkommt nun auch Kel Tuh Las ein Verlangen. Tr�
 
 Die Rückkehr zu Feandal gelingt trotz Dämmerung problemlos, und Feandal kann sein Glück gar nicht fassen, dass er tatsächlich noch einmal seine Taschenuhr in den Händen halten kann. Die Vermutung, dass Wilhelm hinter dem Diebstahl steckt, behalten unsere vier Abenteurer aber vorerst für sich. Feandal überreicht ihnen feierlich die versprochene Kleidung, und wenige Momente später stehen Löwenzahn mit mintfarbenem Ledermantel über dem Froschkostüm, Kel Tuh Las mit Schiebermütze, Mantel und Cordhose und auch Aldric mit neuer Hose im Lager von Feandal. Theo geht in diesem Fall zwar leer aus, ist jedoch mit seinem gefundenen Dolch mehr als zufrieden. So können sich alle vier zufrieden von Feandal verabschieden. Ihr nächstes Ziel heißt der Hof von Wilhelm und die nächste Ortschaft Fichtenstein. Doch diese Reise muss bis zur nächsten Runde Arkanthia Pen and Paper warten.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>

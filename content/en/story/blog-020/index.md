@@ -20,6 +20,6 @@ Loud seagull cries and the smell of salt water wake our four adventurers the nex
 
 They reach the northern end of the island sooner than expected. Aldric is also surprised that they are already moored again after less than two hours. But then he opens his eyes and sees the next beach in front of him. On the verge of a complete nervous breakdown, he begins to clamour at the top of his voice before he loses his strength, stumbles onto the beach and slumps to the ground. Find out what the other three experience on Logar next time on Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Midgar_to_Logar.jpg" />
 </div>

@@ -30,7 +30,7 @@ Fortunately, Löwenzahn remembers the tip-off that Odu gave them in the bar the 
 
 However, this is abruptly interrupted by Theo, who has been diligently rolling the dice on "perception" all the way and is now finally rewarded. Theo discovers some broken branches near the rock which, with a lot of imagination, can be interpreted as a footpath. So the four of them make their way into the thicket, where they are rewarded after just a few metres. In front of them is a small wooden box locked with a padlock. Löwenzahn takes the key from José's bed and the key bit disappears into the lock without any problems. Löwenzahn carefully turns the key and opens the box. Of course, you won't find out what he finds inside until the next Arkanthia Pen and Paper blog.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Hafen" />
 </div>
 

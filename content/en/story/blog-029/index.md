@@ -16,7 +16,7 @@ As is so often the case, Aldric takes the reins and tells Kel Tuh Las to go to t
 
 But then some of the inhabitants of Selbingen finally arrive with heaps of buckets, and together they manage to extinguish the stable. Completely exhausted and with a few injuries, our four friends and half of Selbingen now stand in front of the dripping barn and decide that it's enough for the night. One by one, everyone retreats to their homes and our friends, fully laden with various armour and weapons, return to their borrowed house, which has survived the night surprisingly well. They step through the door and powerlessly throw the Pale Ones' equipment into a corner of their home before falling exhausted into their beds and sinking into a deep sleep.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="./img/selbingen.jpg" />
 </div>
 
@@ -26,6 +26,6 @@ They carefully open the door to the building and immediately see the next three 
 
 The mayor greets the four of them in his entrance hall with a sunken face. Before they can say anything, he says in a gravelly voice: ‘This time it's Gerd.’ They learn that Gerd has lived in Selbingen for decades and used to work as a fisherman on the lake. However, he had been too old for physical labour for some time, which is why he had carried out small jobs all over the village to benefit Selbingen. Now he had died in the attack. The four of us express their sympathy and tell of their discoveries at the military outpost and the body they had found. They also mention the small boat they discovered on the way to the town hall. Siegfried thanks them for the information and their commitment to the town. Although our friends already have a plan for what they are going to do next, they don't tell Siegfried anything about it yet. You won't find out what our friends have cooked up until the next ‘Arkanthia Pen and Paper’ blog in a fortnight' time.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen.jpg" />
 </div>

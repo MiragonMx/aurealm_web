@@ -10,7 +10,7 @@ Nach fast einem Jahr Pen and Paper sind unsere vier Freunde in der letzten Sessi
 
 Um Genaueres zu erfahren, stehen unsere Helden jetzt vor dem Rathaus von Selbingen, um den Bürgermeister Siegfried zu treffen. Hierzu betreten sie das einst wohl prachtvolle Gebäude, das nun aber ziemlich leer und ausgeräumt wirkt. Ein älterer Mann im feinen Rollkragenpullover steht auf einer höher gelegenen Empore und beginnt, eine Treppe hinunterzugehen, sobald sie das Gebäude betreten. Er heißt sie in Selbingen willkommen, wirkt jedoch von Beginn an sehr bedrückt. Daher lässt sich Aldric nicht lange bitten und fragt Siegfried direkt, was denn hier in Selbingen vor sich gehe. Erst versucht Siegfried noch zu überspielen, dass ihm etwas auf der Seele liegt, doch als auch Löwenzahn bekräftigt, dass sie gerne helfen würden, beginnt er zu erzählen: Da Selbingen direkt am See liegt, kommt es häufig vor, dass nachts dichter Nebel über der Stadt liegt. Seit Kurzem jedoch werden diese Nächte von Überfällen begleitet. Merkwürdig blass und transparent wirkende Männer landen mit kleinen Booten am Ufer und überfallen die Häuser. Sie bereichern sich am Eigentum der Bewohner und sind noch vor Ende der Nacht wieder verschwunden. Die Dorfbewohner haben Angst vor den unheimlichen Gestalten und trauen sich kaum, Widerstand zu leisten. Die wenigen, die es gewagt haben, liegen nun auf dem nahen Friedhof begraben. Siegfried hat bereits die königliche Armee um Hilfe gebeten, wartet jedoch noch immer auf eine Reaktion des Zyrens.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="./img/selbingen.jpg" />
 </div>
 
@@ -20,6 +20,6 @@ Ein kleiner, ziemlich kräftiger Mann mit hochrotem Kopf kommt auf sie zu und st
 
 Sie schlagen den Weg gen Norden ein, wo die Mine nach etwa einer Stunde auf der linken Seite der Helenau-Handelsroute im Astral, einem kleineren Hügelgebiet, liegen soll. Doch bevor sie die Siedlung verlassen, passieren sie noch die Ställe von Selbingen, was sie auf eine Idee bringt. Mit Pferden wären sie viel schneller bei der Mine und auch zurück, und auch der nächste Weg in eine andere Stadt würde schneller gehen. Sie klopfen also am Haus neben den Ställen. Eine junge, blonde Frau öffnet ihnen die Tür, strahlt sie an und stellt sich als Bibiane vor. Während Kel nun eher Interesse an Bibiane zeigt, wollen die anderen drei wissen, ob sie Pferde und die nötige Ausrüstung zu verkaufen habe. Tatsächlich kann Bibiane ihnen einige Tiere zeigen, und selbst Theos Bedürfnisse könnten mit einem Pony befriedigt werden. Leider sind die Preise so astronomisch hoch, dass die Eisenkappen in Wolfsform plötzlich wie ein Schnäppchen wirken. So müssen sie doch ihre Beine bemühen, um die Eisenmine zu erreichen – doch diesen Weg bestreiten sie erst beim nächsten Mal Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Wanderer_Selbingen.jpg" />
 </div>

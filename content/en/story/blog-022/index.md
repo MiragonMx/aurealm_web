@@ -25,6 +25,6 @@ After two rooms, they arrive at the brewery, which is what it's called. However,
 
 Before they've even finished ordering, Elisabeth disappears into the kitchen and the inn door bangs open loudly. A small boy stands in the doorway, looking panicked and covered in sweat. There's a small trickle of dried blood on his temple and bits of twigs and leaves in his hair. His torn and dirty trousers show he's been on the floor a few times in the last few minutes. He's out of breath and says, "Help!" in a scared voice, his eyes welling up with tears. Our four heroes spring into action, asking the boy what has happened. He explains that his name is Floren and that his dad was attacked by a pack of wolves in the forest. They'd been out hunting and got caught off guard. That's all our friends need to know. They spring up and head out onto the road with the boy. You'll find out in a fortnight's time when the Arkanthia Pen and Paper adventure continues whether they can hold their own against the wolves or will be mauled in the forest along with Floren and his father.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia."  src="./img/Arkanthia_Full_Map_Logar_to_Fichtenstein.jpg" />
 </div>

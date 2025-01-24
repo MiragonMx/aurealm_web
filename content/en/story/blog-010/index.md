@@ -21,7 +21,7 @@ But before they set off, Löwenzahn has a little offer for Kel. In the midst of 
 
 With their chests puffed out, they finally knock on the door of the Jarl's house. Franziska's joy is boundless, but Robin still feels rather uncomfortable in his own skin. Fortunately, this is not our adventurers' problem. They are much more concerned about their reward, which Franziska hands them directly and thanks them in pretty much every way possible. But as Franziska doesn't know anything about the renegotiated quest price, Robin is now wide-eyed. Somewhat awkwardly, he mumbles something into his beard that most closely resembles "But that's not enough" and disappears into the depths of his own home. While Franziska babbles a chop in their ears while they wait, a shiny blade finally appears in the hallway after a few minutes. With obvious displeasure, Robin hands Kel his personal jarl's sword and Franziska can't believe that her husband is giving away this valuable weapon. But after her cautious objection is harshly brushed aside by Robin, she quickly comes to terms with the situation - after all, it's not her sword. Happy and satisfied, our heroes turn their backs on the pair of Earls and bid them a brief farewell. Now it's finally time to go shopping in the general shop of Hellebard Dark, but we won't find out until the next Arkanthia Pen and Paper blog.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Blog_10.jpg" />
 </div>
 

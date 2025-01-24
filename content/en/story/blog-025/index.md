@@ -14,7 +14,7 @@ They walk leisurely along the Helenau trade route to the south-west and enjoy th
 
 When they arrive in Selbingen, dusk has already fallen, but many windows are illuminated. Löwenzahn in particular, whose interest in religion is great, is drawn directly to the brightly lit cathedral. The other three decide to take a look at the stables at the entrance to the village before heading to the trading post.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="./img/selbingen.jpg" />
 </div>
 
@@ -30,6 +30,6 @@ Our heroes set off early the next morning. Outside the inn, they enjoy their fir
 
 Two guards in leather armour cross their spears as they arrive and ask about their request. Löwenzahn briefly explains that they have heard about the attacks and would like to offer their help. This answer is enough for the guards Heino and Dittmar, who then let them into the town hall. However, we only find out what Mayor Siegfried thinks of their offer and exactly what the attacks are in the next episode of Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Wanderer_Selbingen.jpg" />
 </div>

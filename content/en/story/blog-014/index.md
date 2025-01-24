@@ -25,6 +25,6 @@ Inside, the terminal haven't changed much since their last visit. Theo cautiousl
 
 The upper floor is smaller than the storage area below, so it doesn't take Theo long to find the office. There are only a few desks for employees and some crates overflowing with paper. Theo carefully sneaks to the door, which bare a modest, definitely not flashy, solid gold plaque with the name "Kampf." With deft movements, he quickly picks the lock and enter a large, glass-walled office. The restraint shown at the door decoration continued inside. A massive polished spruce desk (at least he buys locally), an almost royally imposing desk chair, and a red checkered carpet adorn the office. However, Theo is more interested in incriminating documents than interior decoration, so he lets the ostentatious furniture be and starts searching through drawers. Apart from various letters, invoices, and delivery notes, there is not much to be find. The only oddity is a drawer containing a rope and a bottle with a clear liquid. Whether Lieutenant Kampf simply likes drinking vodka while playing rodeo, or if it is something more mysterious, you’ll find out in two weeks on Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Hafen.jpg" />
 </div>

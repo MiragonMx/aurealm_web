@@ -27,7 +27,7 @@ A small path leads through rocks and coastal vegetation to an old lighthouse. Fr
 
 Half an hour later, the four of them arrive at Udo's and have a drink or two before going to bed. We'll find out in the next Arkanthia Pen and Paper blog whether they'll be as determined as ever the next day, or whether they'll wander off again.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
 </div>
 

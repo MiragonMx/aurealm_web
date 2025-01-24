@@ -22,6 +22,6 @@ One of them is Ulrich, who lives right next to the cemetery. He lives here with 
 
 With Ulrich in tow, Löwenzahn returns to the 'Theke', where the other three have already been busy dragging customers. Not only do they manage to collect the required ten customers in Fichtenstein, they even exceed this number by three. Satisfied, Löwenzahn, Aldric and Kel Tuh Las sit down in a corner of the guest room, maneuver the huge barrel onto the table there and start a game of 'Ex your glass'. The only simple rule is that two people have to compete against each other and each have to drink a pint of beer on ex. The slower one loses and the faster one wins. The stakes can be renegotiated before each round. Theo is interested in the game, but first tries to take the money out of the pockets of one or two of the guests with his cards before his synapses trick him in the intoxication of alcohol. He isn't really successful, but at least he manages to get one or two silver coins. After a few more or less successful attempts, Theo joins his already passionate drinking colleagues. Löwenzahn in particular seems to get on very well with Ulrich, who has apparently already drunk quite a bit. Find out next time at Arkanthia Pen and Paper whether this is really going well or whether Helena is playing the party crasher.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_6.jpg" />
 </div>

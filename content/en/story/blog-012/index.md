@@ -31,7 +31,7 @@ About 45 minutes later, they arrive at a cosy harbour. A few warehouses and a la
 
 On his return, he is immediately bombarded with a barrage of questions and explains that there is nothing exciting happening in the harbour at the moment, that there are three ships in the harbour and that a ship from Ulana Nana recently disappeared off the coast. Of course, they could also stay overnight or eat at his place, depending on what they fancy. At the moment, they are primarily in the mood for drinking, which is why they throw themselves into the bar life of the ‘boozing mermaid’. But you won't find out how this turns out for another two weeks in Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
 </div>
 

@@ -14,7 +14,7 @@ They sprint through the still unfamiliar alleyways before finally reaching the m
 
 From their defensive position, they watch as some of the villagers, frightened and carrying only the bare necessities, scurry into the small church on the market square to seek safety.To their discomfort, our four heroes hardly hear anything since the arrival of their opponents.But then Aldric spots a creature coming towards them across the market square.Dressed in leather armour and armed with a sword, it shuffles unerringly towards them.And then Theo and Aldric realise what makes their enemies so sinister: ashen skin, almost transparent in appearance, stretches across the swordsman's bony face.Something ghostly surrounds him and sends a cold shiver down their spines.But it only gets worse, because to make matters worse, four more fighters emerge from the fog one by one behind the first pale man.While three continue to move unerringly towards them and are now less than five metres away, Aldric can see the other two pale ones pull a bow from their backs and fire the first two arrows at them. Aldric is able to dodge this attack with a quick leap to the side and immediately returns fire. Theo also grabs one of his throwing stars and hurls it at their opponents.While Theo hits, but does hardly any damage with his throwing stars, Aldric has had a really bad day today.First, one of the enemy archers dodges, and when he then redirects his fire at the melee fighters, who are now standing directly in front of their house, he encounters the most agile swordsman in Aurealm. In an almost dance-like display, he dodges three of Aldric's arrows at close range before Aldric finally gets his revenge and sinks half his quiver into the swordsman. With a quick leap to the side, Aldric is able to dodge this attack and immediately returns fire. Theo also grabs one of his throwing stars and hurls it at his opponents. While Theo hits, but does hardly any damage with his throwing stars, Aldric has had a really bad day today. Firstly, one of the enemy archers dodges and when he then redirects his fire at the melee fighters, who are now standing directly in front of their house, he encounters Aurealm's most agile swordsman. In an almost dance-like display, he dodges three of Aldric's arrows at close range before Aldric finally gets his revenge and sinks half his quiver into the swordsman.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="./img/selbingen.jpg" />
 </div>
 
@@ -24,6 +24,6 @@ But before he can pursue them any further, he hears Löwenzahn calling for his h
 
 The last arrow has just left the string of Aldric's bow when they hear a loud bang that leaves the world in complete silence for an eternally long second. A huge fireball at the other end of Selbingen lights up the whole village before collapsing again a few moments later. But it leaves behind a huge blaze, which our heroes can still clearly see through the fog from their house. But you won't find out what just blew up until the next Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen.jpg" />
 </div>

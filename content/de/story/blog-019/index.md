@@ -25,7 +25,7 @@ Beim Näherkommen sieht das Handelsschiff schon ziemlich heruntergekommen aus, s
 
 Er landet direkt neben dem Schiff im Wasser und wird sofort von einer starken Strömung erfasst, die ihn in die Tiefe reißen will. Aldric erinnert sich, dass schon in dem Brief an José von starken Strömungen die Rede war, die das Schiff auf Midgar auflaufen lassen würden. Ironischerweise denkt er, dass er sie jetzt wohl gefunden hat und wird wieder unter Wasser gezogen. Ob Aldric noch rechtzeitig gerettet werden kann oder der nächste Blog mit einer neuen Charaktervorstellung beginnt, erfahrt ihr in zwei Wochen, wenn es wieder Zeit für Arkanthia Pen and Paper ist. 
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Hafen_Midgar.jpg" />
 </div>
 

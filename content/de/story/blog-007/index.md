@@ -24,6 +24,6 @@ Während sich Kel in Richtung Schuppen aufmacht, fragt Löwenzahn den Priester, 
 
 Gerade als Herzfried fertig ist mit seiner Erklärung, kommt Kel mit zwei Spaten bewaffnet zurück in die Kirche. Er bedankt sich bei Herzfried und erklärt, dass er diese in Nullkommanichts zurückbringen werde. Allerdings hat Kel Tuh Las auch eine Frage an Herzfried. Er habe nämlich auf dem kleinen Friedhof überraschend viele frisch zugeschippte Gräber gesehen und hat nun die brennende Frage, wie dies Zustande kam. Herzfried senkt daraufhin seinen Blick etwas gen Boden und sagt: "Das erfahrt ihr leider erst im nächsten Blog Arkanthia Pen and Paper."
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein.jpg" />
 </div>

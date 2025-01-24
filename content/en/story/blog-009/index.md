@@ -21,7 +21,7 @@ The next morning is wet, cold and uncomfortable, so the question arises as to wh
 
 Even from a few metres away, they notice strange noises coming from the hut. They can't quite place them, but they sound more like animals than screams of torture or anything else they might have expected. As they get closer and listen more carefully, they can actually hear a mixture of cat meows and roars. Somewhat overwhelmed by this unexpected scene, the four of them stand in a circle for a short time, looking at each other blankly, before Aldric once again takes the initiative and knocks cautiously on the door. Find out what wild discovery they make in the hut next time in Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Blog_9.jpg" />
 </div>
 

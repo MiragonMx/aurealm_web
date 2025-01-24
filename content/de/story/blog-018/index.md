@@ -30,7 +30,7 @@ Zum Glück erinnert sich Löwenzahn an den Hinweis, den Odu ihnen am Vorabend in
 
 Diese wird jedoch jäh von Theo unterbrochen, der den ganzen Weg über fleißig auf "Wahrnehmung" gewürfelt hat und nun endlich belohnt wird. Denn Theo entdeckt in der Nähe des Felsens einige abgebrochene Äste, die mit viel Phantasie als Trampelpfad gedeutet werden können. Also machen sich die vier auf den Weg ins Dickicht, wo sie schon nach wenigen Metern belohnt werden. Vor ihnen steht eine kleine Holzkiste, die mit einem Vorhängeschloss verschlossen ist. Löwenzahn holt den Schlüssel aus Josés Bett und ohne Probleme verschwindet der Schlüsselbart im Schloss. Vorsichtig dreht Löwenzahn den Schlüssel und öffnet das Kästchen. Was er darin findet, erfahrt ihr natürlich erst im nächsten Arkanthia Pen and Paper Blog.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
 </div>
 

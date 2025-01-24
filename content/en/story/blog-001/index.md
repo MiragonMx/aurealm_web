@@ -19,6 +19,6 @@ While the last drop is still falling into the barrel, the group suddenly hears f
 
 Aldric and Kel Tuh Las are flanked by both guards with their weapons drawn. The group enters a spacious, round room in the centre of which a wide staircase leads from the cellar to the upper floor. They can already hear a loud babble of voices from down here, which is repeatedly drowned out by loud toasts. They slowly climb the stairs, where a guard "accidentally" kicks a horse's hind leg. The anatomy of the horse costume briefly shows every conceivable misalignment and Kel Tuh Las' nose, which makes acquaintance with the steps, also takes on a new orientation. At the top of the stairs, the group finds themselves in a wild crowd, through which they fight their way to the forecourt of the residence. But even here it is no less crowded, and the proportion of drunk and staggering people is all the higher. Find out what kind of show our four showmen put on and whether this is the start of a new career in next blog Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>

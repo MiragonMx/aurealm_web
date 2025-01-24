@@ -9,7 +9,7 @@ summary: "Having barely arrived in Selbingen, Kel Tuh Las, Theo, Aldric and Löw
 
 Our four friends arrived in Selbingen for the first time four weeks ago. They have used their time here extensively for shopping and chatting, but today they are leaving the small town again to complete a side quest for the blacksmith Meckmo Hämmerich. He urgently needs new forging materials so that he can offer our heroes goods. Not only for this, but also to forge more weapons. Selbingen needs these to defend itself against the mysterious attacks that plague the village at regular intervals.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="./img/selbingen.jpg" />
 </div>
 
@@ -27,6 +27,6 @@ Meckmo can hardly believe his eyes when the heroes arrive at his smithy with the
 
 Before they go to bed, they want to stretch their legs. Elated, Kel pushes open the door of the inn and suddenly finds himself in a thick fog. With luck, he can see about five metres before everything disappears into the white nothingness. A shiver runs down their spines and they remember what the people of Selbingen had told them: The attacks come on foggy nights! You'll find out if that's true this time too next time you play Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen_Mine.jpg" />
 </div>

@@ -22,7 +22,7 @@ Doch bevor es losgeht, hat Löwenzahn noch ein kleines Angebot für Kel. In Mitt
 Mit geschwollener Brust klopfen sie schließlich an die Tür des Jarlshauses. Die Freude von Franziska ist grenzenlos, Robin dagegen fühlt sich noch immer ziemlich unwohl in seiner Haut. Das ist aber ja glücklicherweise nicht das Problem unserer Abenteurer. Sie machen sich viel mehr Gedanken über ihre Belohnung, die ihnen Franziska auch direkt in die Hand drückt und dabei in so ziemlich jeder Form bedankt. Da Franziska ja aber nichts von dem neu verhandelten Quest-Preis weiß, wird nun Robin mit großen Augen angeguckt. Etwas ungeschickt nuschelt er irgendwas in seinen Bart, was am ehesten an "Aber das reicht doch nicht." erinnert und verschwindet in den Tiefen seines Eigenheims. Während ihnen Franziska in der Wartezeit ein Kotelett an Ohr labert, erscheint nach wenigen Minuten endlich eine glänzende Klinge im Flur. Mit sichtbarem Missfallen händigt Robin Kel sein persönliches Jarlsschwert aus und auch Franziska kann die Welt nicht fassen, dass ihr Gatte diese wertvolle Waffe verschenkt. Doch nachdem ihr vorsichtiger Einspruch von Robin in harscher Art aus dem Weg geräumt würde, findet sie sich auch recht schnell mit der Situation ab, ist ja schließlich auch nicht ihr Schwert. Glücklich und zufrieden wenden sich unsere Helden vom Jarlspaar ab und verabschieden sich knapp. Nun heißt es endlich shoppen im Gemischtwarenladen von Hellebard Dunkel, doch das erleben wir erst im nächsten Blog Arkanthia Pen and Paper.
 
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Blog_10.jpg" />
 </div>
 

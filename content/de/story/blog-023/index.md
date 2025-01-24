@@ -19,6 +19,6 @@ Aldrics Beschuss, kombiniert mit Löwenzahns Speeren, hat dem Magier schwer zuge
 
 Aldric möchte jedoch noch einen Blick auf die merkwürdigen Flaschen werfen, aus denen der Magier getrunken hatte. Es ist eine kleine Phiole, die aus dunklem Glas besteht. Beim genaueren Hinsehen entdeckt er, dass in das Glas Nztrv eingearbeitet wurde, was den dunklen Schimmer verursacht. Vorsichtig öffnet er die Phiolen, doch diese sind bereits leer, und unglücklicherweise finden sie auch in der Tunika des Mannes keine weiteren gefüllten Phiolen. Lediglich in einer Flasche entdecken sie noch einen kleinen Tropfen. Sie lassen ihn in Löwenzahns offene Handfläche tropfen, doch es passiert nicht viel, außer dass der durchsichtige Tropfen einen leichten rosa Schimmer abgibt. Nun haben sie wirklich Hunger und machen sich schnell auf den Weg zurück zum „Wanderer“, wo noch immer ihr Essen aus dem letzten Blog auf sie wartet. Doch was sie dort erwartet, erfahren unsere vier Freunde erst in zwei Wochen beim nächsten Blog von Arkanthia Pen and Paper.
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Wanderer.jpg" />
 </div>

@@ -20,7 +20,7 @@ Lautes Möwengeschrei und der Geruch von Salzwasser weckt unsere vier Abenteurer
 
 Schneller als erwartet erreichen sie den nördlichen Stand der Insel. Auch Aldric ist überrascht, dass sie bereits nach weniger als zwei Stunden wieder anlegen. Doch dann macht er die Augen auf und sieht den nächsten Strand vor sich. Kurz vor einem kompletten Nervenzusammenbruch fängt er an lauthals zu zetern, bevor ihn die Kraft dazu verlässt, er auf den Strand stolpert und sich auf den Boden sacken lässt. Was die anderen drei auf Logar erleben, erfahrt ihr beim nächsten Mal bei Arkanthia Pen and Paper. 
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Midgar_to_Logar.jpg" />
 </div>
 

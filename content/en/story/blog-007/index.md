@@ -24,7 +24,7 @@ As Kel makes his way towards the shed, Löwenzahn asks the priest what the relig
 
 Just as Herzfried has finished his explanation, Kel returns to the church armed with two spades. He thanks Herzfried and explains that he will have them back in no time. However, Kel Tuh Las also has a question for Herzfried. He has seen a surprising number of freshly tipped graves in the small cemetery and now has the burning question of how this came about. Herzfried lowers his gaze to the ground and says: "Unfortunately, you won't find out until the next Arkanthia Pen and Paper blog."
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein.jpg" />
 </div>
 

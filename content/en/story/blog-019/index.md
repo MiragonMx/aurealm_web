@@ -26,7 +26,7 @@ As they approach, the merchant ship looks pretty run-down, as if it has been lyi
 He lands in the water right next to the ship and is immediately caught by a strong current that wants to sweep him into the depths. Aldric remembers that the letter to José had already mentioned strong currents that would cause the ship to run aground on Midgar. Ironically, he thinks he has probably found them now and is pulled under the water again. Whether Aldric can still be rescued in time or the next blog will start with a new character introduction, you'll find out in a fortnight' time when it's time for Arkanthia Pen and Paper again. 
 
 
-<div class="center">
+<div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Hafen_Midgar.jpg" />
 </div>
 
