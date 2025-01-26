@@ -1,0 +1,65 @@
+people:
+  aldric:
+    words:
+      - Aldric
+      - Aldrics
+      - Aldric von Praven
+      - Aldric von Pravens
+    slug: "Aldric-von-Praven"
+  emanuel:
+    words:
+      - Emanuel
+      - Emanuels
+    slug: "Emanuel"
+  feandal:
+    words:
+      - Feandal
+      - Feandals
+    slug: "Feandal"
+  hellebard:
+    words:
+      - Hellebard
+      - Hellebards
+      - Hellebard Dunkel
+      - Hellebard Dunkels
+    slug: "Hellebard-Dunkel"
+  herzfried:
+    words:
+      - Herzfried
+      - Herzfrieds
+      - Herzfried Oben
+      - Hellebard Obens
+    slug: "Herzfried-Oben"
+  herzfried:
+    words:
+      - Karl
+      - Karls
+      - Karl Flittenberg
+      - Karl Flittenbergs
+    slug: "Karl-Flittenberg"
+  theo:
+    words:
+      - Theo
+      - Theos
+      - Theobald
+      - Theobalds
+      - Theobald Bonter
+      - Theobald Bonters
+    slug: "Theobald-Bonter"
+
+  wilhelm:
+    words:
+      - Wilhelm
+      - Wilhelms
+    slug: "Wilhelm"
+
+places:
+  aurealm:
+    words:
+      - Aurealm
+      - Aurealms
+    slug: "Aurealm"
+
+things:
+
+
