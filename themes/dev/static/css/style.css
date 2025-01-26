@@ -149,6 +149,13 @@ body.light-theme .navbar-brand:hover,
   box-shadow: 0 0.1em 0.2em 0 var(--gold), 0 0.2em 0.4em 0 var(--gold);
 }
 
+.glossary-link {
+  color: inherit;
+  text-decoration: underline dotted;
+  /*font-weight: bolder;*/
+  font-style: italic;
+}
+
 .center {
   display: flex;
   justify-content: center;
