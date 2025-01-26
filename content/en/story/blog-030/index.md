@@ -1,6 +1,6 @@
 ---
 title: "The selbinger rock island"
-publishdate: 2025-01-05T10:00:00+02:00
+publishdate: 2025-01-18T10:00:00+02:00
 startdate: 1237-10-05T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_30.jpg
@@ -11,7 +11,6 @@ After the successful battle against the Pale Ones, our four heroes realised that
 
 Today they want to make their way to the rocky island in the centre of Lake Selbingen to explore it and possibly find the hiding place of the pale ones. Aldric in particular doesn't like this idea, as he is still struggling with his traumatic phobia of water. But his concerns are generously ignored by the group. With the help of a rope, Aldric is loaded into the boat they have found on the beach and they row off in the direction of the rocky island.
 
-Translated with DeepL.com (free version)
 <div class="img-max center">
   <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="./img/selbingen.jpg" />
 </div>
@@ -26,7 +25,6 @@ Theo carefully squeezes through the crevice and enters a tiny chamber. Although 
 
 They have now fully explored the surface of the island and decide to investigate the cave inside the island. You can find out what awaits them there in the next Arkanthia Pen and Paper blog post.
 
-Translated with DeepL.com (free version)
 <div class="img-max center">
   <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen_Felseninsel.jpg" />
 </div>
