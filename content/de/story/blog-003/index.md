@@ -4,7 +4,7 @@ publishdate: 2024-01-06T13:00:00+02:00
 startdate: 1237-09-22T00:10:02+02:00
 enddate: 1237-09-23T00:10:02+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/Blog_3.png
 summary: "Unsere Gruppe aus Kel Tuh Las, Löwenzahn, Theo und Aldric erreicht ein diesmal das Lager im Telzer Moor, welches sie beim letzten Mal entdeckt haben. Hier lernen Sie Feandal den Fischer kennen, welcher ihnen erstmal kurz zusammenfasst, in welchem Land und in welcher Welt Sie sich überhaupt befinden. Nach einer Nacht im Lager von Feandal hat der noch einen Auftrag für unsere Gruppe. Wie dieser lautet und wie sich die vier hierbei anstellen, erfahrt ihr hier:"
 ---
 
