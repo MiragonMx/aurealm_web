@@ -3,7 +3,7 @@ title: "Escape from slavery"
 publishdate: 2023-12-23T13:00:00+02:00
 startdate: 1237-09-22T00:10:01+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/Blog_2.png
 summary: "Our group is dragged onto a small stage in the costumes they received last time and are made to entertain the visitors of the festival on the forecourt of the Chiraque residence. Unfortunately, the entertainment business is not their cup of tea, which is why they are pelted with all sorts of fruit and vegetables. You can find out here whether they manage to get out of this misery or pull a brilliant artistic act out of their hat:"
 ---
 
