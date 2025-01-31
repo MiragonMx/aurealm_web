@@ -20,6 +20,7 @@ def load_yaml_mapping(yaml_file):
             slug = details['slug']
             for word in details['words']:
                 mapping[word] = "people/" + slug
+                mapping[word + 's'] = "people/" + slug
 
     if isinstance(places_data, dict):
         for entry, details in data['places'].items():
