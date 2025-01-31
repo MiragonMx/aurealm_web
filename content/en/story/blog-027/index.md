@@ -10,7 +10,7 @@ summary: "Having barely arrived in Selbingen, Kel Tuh Las, Theo, Aldric and Löw
 Our four friends arrived in Selbingen for the first time four weeks ago. They have used their time here extensively for shopping and chatting, but today they are leaving the small town again to complete a side quest for the blacksmith Meckmo Hämmerich. He urgently needs new forging materials so that he can offer our heroes goods. Not only for this, but also to forge more weapons. Selbingen needs these to defend itself against the mysterious attacks that plague the village at regular intervals.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="./img/selbingen.jpg" />
+  <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="/img/selbingen.jpg" />
 </div>
 
 So all in all, it's quite an important task that the four of them have been entrusted with. They hike north along the Helenau trade route towards Fichtenstein. After just over an hour, however, they leave the main road and turn left across the open field to reach the small low mountain range of Astral. A small track leads them directly to the entrance of the mine. But their first major problem awaits them here: a mother bear has made herself cosy with her two cubs in the entrance area, and all three seem to be daydreaming. Aldric and Löwenzahn, our two nature experts, discuss how they can best eliminate the danger without having to kill the bears. Aldric would certainly be interested in a bearskin, and Kel would also like to hang her mother's head on the wall. But as they don't even own a home yet and would actually feel a twinge of conscience about killing the family in cold blood, they decide to take the animal-friendly route.
@@ -28,5 +28,5 @@ Meckmo can hardly believe his eyes when the heroes arrive at his smithy with the
 Before they go to bed, they want to stretch their legs. Elated, Kel pushes open the door of the inn and suddenly finds himself in a thick fog. With luck, he can see about five metres before everything disappears into the white nothingness. A shiver runs down their spines and they remember what the people of Selbingen had told them: The attacks come on foggy nights! You'll find out if that's true this time too next time you play Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen_Mine.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Selbingen_Mine.jpg" />
 </div>

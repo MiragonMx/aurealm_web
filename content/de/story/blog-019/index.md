@@ -14,7 +14,7 @@ Nun sitzen sie aber gespannt vor der Kiste, die sie in der letzten Session noch 
 Mit dem Brief in der Jackentasche geht es zurück zum Hafen, wo sofort nach Eduardo, dem besorgten Freund von José, gesucht wird. Schnell finden sie ihn bei der Arbeit und erzählen ihm von ihrem Verdacht, dass José auf Midgar sein könnte. Aufgeregt schaut Eduardo sie an und fragt, was denn nun der Plan sei, um José zu retten. Darüber haben sich unsere vier Freunde natürlich noch keine Gedanken gemacht und genau in diesem Moment fällt ihnen ein, dass ein Boot sehr hilfreich sein könnte, um auf eine Insel zu gelangen. Diese Idee hat auch Eduardo und bietet an, sich das kleine Beiboot von der "Selania", dem Handelsschiff, auf dem er arbeitet, auszuleihen. Positiv wie unsere Freunde sind, freuen sie sich über das Angebot, willigen sofort ein und verabreden sich in einer Stunde am Kai. 
 
 <div class="img-max center">
-  <img class="img-fluid rounded" title="Karte Fichtenstein Hafen" alt="Karte Fichtenstein Hafen." src="./img/fichtenstein_hafen.jpg" />
+  <img class="img-fluid rounded" title="Karte Fichtenstein Hafen" alt="Karte Fichtenstein Hafen." src="/img/fichtenstein_hafen.jpg" />
 </div>
 
 Kel, Theo, Löwenzahn und Aldric nutzen die Stunde, um sich bei Odu mit Proviant einzudecken und noch etwas zu trinken. Zufrieden geht es zurück zum Pier und da liegt es, das kleine Beiboot der "Selania". Wobei die Betonung hier wirklich auf "klein" liegen muss, denn das Boot gleicht eher einem größeren Kanu als einem Schiff. Der Gedanke, mit diesem Gefährt über das offene Meer zu RUDERN, begeistert die beiden zwar überhaupt nicht, aber es bleibt ihnen wohl nichts anderes übrig. Also quetschen sie sich in das kleine Ruderboot und machen sich langsam aber sicher auf den Weg nach Midgar.
@@ -26,7 +26,7 @@ Beim Näherkommen sieht das Handelsschiff schon ziemlich heruntergekommen aus, s
 Er landet direkt neben dem Schiff im Wasser und wird sofort von einer starken Strömung erfasst, die ihn in die Tiefe reißen will. Aldric erinnert sich, dass schon in dem Brief an José von starken Strömungen die Rede war, die das Schiff auf Midgar auflaufen lassen würden. Ironischerweise denkt er, dass er sie jetzt wohl gefunden hat und wird wieder unter Wasser gezogen. Ob Aldric noch rechtzeitig gerettet werden kann oder der nächste Blog mit einer neuen Charaktervorstellung beginnt, erfahrt ihr in zwei Wochen, wenn es wieder Zeit für Arkanthia Pen and Paper ist. 
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Hafen_Midgar.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Fichtenstein_Hafen_Midgar.jpg" />
 </div>
 
 

@@ -3,7 +3,7 @@ title: "Back at Chiraque"
 publishdate: 2024-01-20T13:00:00+02:00
 startdate: 1237-09-23T00:10:03+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/Blog_4.png
 summary: "Our four adventurers return to Feandal's camp, exhausted from their fight against the giant crocodile in the last session. Here they finally receive their long-awaited first quest reward. Furthermore, Feandal is so enthusiastic about their results that he immediately offers them a new mission. Our four don't need to be asked twice and naturally accept the new quest. You can find out where it takes them here:"
 ---
 
@@ -18,5 +18,5 @@ Outside in the fresh air, Kel Tuh Las is also overcome by a desire. Dreaming, he
 The return to Feandal is successful despite the twilight, and Feandal can't believe his luck that he can actually hold his pocket watch in his hands again. However, our four adventurers keep their suspicions that Wilhelm is behind the theft to themselves for the time being. Feandal ceremoniously hands them the promised clothes, and a few moments later, Löwenzahn with a mint-colored leather coat over his frog costume, Kel Tuh Las with a peaked cap, coat and corduroy trousers and Aldric with new trousers are standing in Feandal's camp. Although Theo comes away empty-handed in this case, he is more than satisfied with the dagger he has found. So all four can bid a satisfied farewell to Feandal. Their next destination is Wilhelm's farm and the next village, Fichtenstein. But this journey will have to wait until the next round of Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>

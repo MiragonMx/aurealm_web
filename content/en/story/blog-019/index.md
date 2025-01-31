@@ -16,7 +16,7 @@ With the letter in their jacket pockets, they head back to the harbour, where th
 Kel, Theo, Löwenzahn and Aldric use the hour to stock up on provisions at Odu's and have another drink. Satisfied, they return to the pier and there it is, the small dinghy of the ‘Selania’. The emphasis here should really be on ‘small’, as the boat looks more like a large canoe than a ship. The thought of rowing across the open sea in this vessel doesn't excite the two of them at all, but they have no other choice. So they squeeze into the small rowing boat and slowly but surely make their way to Midgar.
 
 <div class="img-max center">
-  <img class="img-fluid rounded" title="Map Fichtenstein harbor" alt="Map Fichtenstein harbor." src="./img/fichtenstein_hafen.jpg" />
+  <img class="img-fluid rounded" title="Map Fichtenstein harbor" alt="Map Fichtenstein harbor." src="/img/fichtenstein_hafen.jpg" />
 </div>
 
 As expected, the journey takes a long time, but after several hours they finally reach the small island. They dock and moor the boat with ropes to a nearby rock. Together with Eduardo, they decide to follow the coastline and circle the island bit by bit, as the rest of the small island is heavily wooded and they won't have to fight their way through the dense forest. They also hope to meet the merchant ship at some point if they simply follow the beach. They trudge on for kilometre after kilometre, but in the afternoon they finally catch sight of a stranded ship. This gives them new strength and they march quickly towards the wreck.
@@ -27,7 +27,7 @@ He lands in the water right next to the ship and is immediately caught by a stro
 
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_Hafen_Midgar.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Fichtenstein_Hafen_Midgar.jpg" />
 </div>
 
 

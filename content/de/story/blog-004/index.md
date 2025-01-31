@@ -3,7 +3,7 @@ title: "Zurück bei Chiraque"
 publishdate: 2024-01-20T13:00:00+02:00
 startdate: 1237-09-23T00:10:03+02:00
 draft: false
-thumbnail: img/thumbnail.png
+thumbnail: img/Blog_4.png
 summary: "Unsere vier Abenteurer kehren erschöpft von ihrem Kampf gegen das Riesenkrokodil in der letzten Session zu Feandal ins Lager zurück. Hier erhalten sie nun endlich die lang erwartete, erste Questbelohnung. Außerdem ist Feandal so begeister von ihren Ergebnissen, dass er ihnen direkt einen neuen Auftrag anbietet. Da lassen sich unsere vier nicht zweimal bitten und nehmen die neue Quest natürlich an. Wo sie diese hinführt, erfahrt ihr hier:"
 ---
 
@@ -18,5 +18,5 @@ Draußen in der frischen Luft überkommt nun auch Kel Tuh Las ein Verlangen. Tr�
 Die Rückkehr zu Feandal gelingt trotz Dämmerung problemlos, und Feandal kann sein Glück gar nicht fassen, dass er tatsächlich noch einmal seine Taschenuhr in den Händen halten kann. Die Vermutung, dass Wilhelm hinter dem Diebstahl steckt, behalten unsere vier Abenteurer aber vorerst für sich. Feandal überreicht ihnen feierlich die versprochene Kleidung, und wenige Momente später stehen Löwenzahn mit mintfarbenem Ledermantel über dem Froschkostüm, Kel Tuh Las mit Schiebermütze, Mantel und Cordhose und auch Aldric mit neuer Hose im Lager von Feandal. Theo geht in diesem Fall zwar leer aus, ist jedoch mit seinem gefundenen Dolch mehr als zufrieden. So können sich alle vier zufrieden von Feandal verabschieden. Ihr nächstes Ziel heißt der Hof von Wilhelm und die nächste Ortschaft Fichtenstein. Doch diese Reise muss bis zur nächsten Runde Arkanthia Pen and Paper warten.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Blog_1-4.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Blog_1-4.jpg" />
 </div>
