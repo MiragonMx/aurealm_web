@@ -24,5 +24,5 @@ After a few minutes, the remaining bandits give up and flee. But not without Ald
 Once every rucksack, bag and pouch has been stuffed as full as possible, they head back towards Spruce Stone. As planned, they keep an eye out for Kira the whole way, but find neither Kira herself nor any trace of her. As their rucksacks are really heavy, their enthusiasm for time-consuming detours is rather below average and so they prefer to take the direct route.  They arrive in Fichtenstein late in the evening without Kira and fall straight into Udo's prepared beds, this time without even drinking half the bar empty first. But you won't find out how the adventure of our four heroes continues tomorrow for another two weeks in Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Map_Blog_17.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Map_Blog_17.jpg" />
 </div>

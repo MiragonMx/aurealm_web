@@ -12,7 +12,7 @@ Nach dem erfolgreichen Kampf gegen die Blassen mussten unsere vier Helden festst
 Heute wollen sie sich auf den Weg zur Felseninsel in der Mitte des Selbigsees machen, um sie zu erkunden und dort möglicherweise das Versteck der Blassen zu finden. Diese Idee gefällt vor allem Aldric nicht, da er immer noch mit seiner traumatischen Wasserphobie zu kämpfen hat. Doch seine Bedenken werden von der Gruppe großzügig ignoriert. Mit Hilfe eines Seils wird Aldric in das Boot verfrachtet, das sie am Strand gefunden haben, und schon rudern sie los in Richtung Felseninsel.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="./img/selbingen.jpg" />
+  <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="/img/selbingen.jpg" />
 </div>
 
 Aus der Ferne wirkt die Insel klein und unscheinbar, doch mit jedem Paddelschlag wächst sie vor ihnen und entpuppt sich schließlich als beeindruckendes Naturdenkmal. Schroffe Felswände ragen steil aus dem ruhigen Wasser empor, und nur ein paar karge Bäume trotzen dem steinigen Untergrund. Sie umrunden die Insel, um eine geeignete Stelle zum Anlegen zu finden, und entdecken eine etwa vierzig Meter breite Öffnung, die ins Innere der Insel führt. Was sie dort sehen, raubt selbst dem vor Angst schweißgebadeten Aldric den Atem: Eine riesige Höhle erstreckt sich tief in die Insel hinein, fast so, als würde eine steinerne Kuppel über ihr thronen. Am Eingang der Höhle finden sie eine flache Stelle, an der sie das Boot sicher anlanden können.
@@ -26,5 +26,5 @@ Vorsichtig zwängt sich Theo durch die Felsspalte und gelangt in eine winzige Ka
 Damit haben sie die Oberfläche der Insel vollständig erkundet und entscheiden sich nun, die Höhle im Inneren der Insel zu untersuchen. Was sie dort erwartet, erfahrt ihr im nächsten Blogbeitrag von Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen_Felseninsel.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Selbingen_Felseninsel.jpg" />
 </div>

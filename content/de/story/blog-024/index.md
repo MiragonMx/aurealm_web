@@ -23,5 +23,5 @@ Unterdessen versucht Theo, unbemerkt zum Eingang zu gelangen, um seinen Freunden
 Was unsere Helden in Selbingen erwartet, erfahren wir jedoch erst in zwei Wochen bei Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Wanderer_only.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Wanderer_only.jpg" />
 </div>

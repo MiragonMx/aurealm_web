@@ -9,7 +9,7 @@ summary: "Kaum in Selbingen angekommen, werden Kel Tuh Las, Theo, Aldric und Lö
 Vor vier Wochen sind unsere vier Freunde zum ersten Mal in Selbingen angekommen. Die Zeit hier haben sie ausgiebig zum Einkaufen und für Gespräche genutzt, doch heute verlassen sie den kleinen Ort schon wieder, um eine Nebenquest für den Schmied Meckmo Hämmerich zu erledigen. Dieser braucht dringend neue Schmiedematerialien, damit er unseren Helden Waren anbieten kann. Aber nicht nur hierfür, sondern auch, um weitere Waffen zu schmieden. Diese braucht Selbingen, um sich gegen die mysteriösen Angriffe zu verteidigen, die das Dorf in regelmäßigen Abständen heimsuchen.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="./img/selbingen.jpg" />
+  <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="/img/selbingen.jpg" />
 </div>
 Also alles in allem eine doch recht wichtige Aufgabe, die den vieren anvertraut wurde. Sie wandern die Helenau-Handelsroute gen Norden in Richtung Fichtenstein. Doch bereits nach einer guten Stunde weichen sie von der Hauptstraße ab und schlagen sich links über das freie Feld, um das kleine Mittelgebirge Astral zu erreichen. Ein kleiner Trampelpfad führt sie direkt zum Eingang der Mine. Doch hier wartet ihr erstes größeres Problem auf sie: Eine Bärenmutter hat es sich mit ihren beiden Jungen im Eingangsbereich gemütlich gemacht, und alle drei scheinen seelenruhig vor sich hin zu träumen. Aldric und Löwenzahn, unsere beiden Naturexperten, beratschlagen, wie sie die Gefahr am besten aus dem Weg räumen können, ohne die Bären töten zu müssen. Zwar hätte Aldric durchaus Interesse an einem Bärenfell, und auch Kel würde sich gerne den Kopf der Mutter an die Wand hängen. Aber da sie bisher nicht mal ein Eigenheim besitzen und tatsächlich auch kleine Gewissensbisse hätten, die Familie eiskalt zu töten, entscheiden sie sich für den tierlieben Weg.
 
@@ -25,5 +25,5 @@ Meckmo kann seinen Augen kaum trauen, als die Helden mit dem vollen Karren in se
 
 Bevor sie sich schlafen legen, wollen sie sich noch kurz die Beine vertreten. Beschwingt drückt Kel die Tür des Gasthofs auf und steht plötzlich in dichtem Nebel. Mit Glück kann er etwa fünf Meter weit sehen, bevor alles im weißen Nichts verschwindet. Ein Schauer läuft ihnen über den Rücken, und sie erinnern sich daran, was die Einwohner Selbingens ihnen erzählt hatten: In nebligen Nächten kommen die Angriffe! Ob das auch dieses Mal zutrifft, erfahrt ihr beim nächsten Mal Arkanthia Pen and Paper.
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Selbingen_Mine.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Selbingen_Mine.jpg" />
 </div>

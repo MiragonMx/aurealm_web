@@ -9,11 +9,12 @@
 
     {{ partial "metadata.html" . }}
 
-    {{ with .Resources.GetMatch .Params.thumbnail }}
-      <div class="img-max center">
-        <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" class="img-fluid rounded " alt="...">
-      </div>
-    {{ end }}
+    <div class="img-max center">
+      {{ $image := resources.Get (printf "%s" .Params.thumbnail) }}
+      {{ with $image }}
+        <img src="{{ ($image).RelPermalink }}" class="img-fluid rounded " alt="Thumbnail for {{ .Title }} ">
+      {{ end }}
+    </div>
     <br>
 
     {{ .Content }}

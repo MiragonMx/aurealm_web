@@ -15,7 +15,7 @@ Gemächlich wandern sie die Helenau-Handelsroute gen Südwesten entlang und geni
 Als sie in Selbingen ankommen, ist die Dämmerung bereits hereingebrochen, doch viele Fenster sind erleuchtet. Besonders Löwenzahn, dessen Interesse für Religion groß ist, zieht es direkt zur hell erleuchteten Kathedrale. Die anderen drei entscheiden sich, zunächst den Pferdestall am Dorfeingang in Augenschein zu nehmen, bevor es sie zum Handelsposten zieht.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="./img/selbingen.jpg" />
+  <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="/img/selbingen.jpg" />
 </div>
 
 Dort lernen sie den Besitzer Lukas Lukan Valerius kennen, der eine beeindruckende Auswahl an Waren anbietet. Doch die Preise scheinen unseren Helden alles andere als gerecht, und obwohl Aldric sich schließlich eine kleine Phiole Weihwasser leistet, verlässt die Gruppe das Kontor frustriert. Lukas Lukan sieht ihnen enttäuscht nach, da er sonst für seine fairen Preise und den guten Service geschätzt wird. Doch schnell wendet er sich wieder seinen Waren zu.
@@ -31,5 +31,5 @@ Am nächsten Morgen brechen unsere Helden früh auf. Vor dem Gasthaus genießen 
 Zwei Wachen in Lederrüstungen kreuzen die Speere bei ihrem Eintreffen und fragen nach ihrem Anliegen. Löwenzahn erklärt kurz, dass sie von den Angriffen gehört haben und ihre Hilfe anbieten möchten. Diese Antwort genügt den Wachen Heino und Dittmar, die sie daraufhin ins Rathaus lassen. Was der Bürgermeister Siegfried von ihrem Angebot hält und um welche Angriffe es sich genau handelt, erfahren wir jedoch erst in der nächsten Episode von Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Wanderer_Selbingen.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Wanderer_Selbingen.jpg" />
 </div>

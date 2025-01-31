@@ -15,7 +15,7 @@ Hemmungslos fliegt die Faust von Kel Tuh Las in Karls Gesicht und genervt wieder
 Diese Informationen lässt Kels Faust fürs erste sinken und er erkundigt sich etwas detaillierter nach dem mysteriösen Auftragsgeber. Doch hier wird es wieder ziemlich dünn, was Karls Informationsangebot angeht und er erklärt lediglich, dass er das Amulett in einer Höhle nahe des Hafens verstecken sollte und dort dann auch später eine Belohnung finden würde. Kel ist damit eigentlich zufrieden, aber Aldric wundert sich etwas, wie Karl denn zu seinem Auftrag gekommen sei, wenn er seinen Auftraggeber gar nicht kennt. Kel guckt kurz verwirrt, nickt dann aber zustimmend, versteht die Frage von Aldric aber eigentlich gar nicht so ganz. Karl dagegen schon und er merkt, dass er wohl Kel aber nicht Aldric austricksen kann. Da er aber immer noch gehörigen Respekt vor einer nächsten Schelle hat, erklärt er, dass er den Auftrag von einem gewissen Leutnant erhalten habe, der die Geschehnisse im Hafen kontrollieren würde. Damit ist nun auch Aldric zufrieden. 
 
 <div class="img-max center">
-  <img class="img-fluid rounded" title="Karte Fichtenstein" alt="Karte Fichtenstein." src="./img/fichtenstein.jpg" />
+  <img class="img-fluid rounded" title="Karte Fichtenstein" alt="Karte Fichtenstein." src="/img/fichtenstein.jpg" />
 </div>
 
 Die Frage ist nun, was sie mit ihrem Gefangenen machen. Doch entgegen ihrer Natur schneiden sie diesmal nicht wieder irgendwelche Fußsohlen auf. Stattdessen lösen sie die Fesseln von Karl und machen ihm sehr deutlich, dass sie ihn nie wieder sehen wollen und er sich aus der Region verpissen soll. Karl nickt ängstlich und läuft mit allem was er hat schnurstracks zurück zur Holzpalisade und schwingt sich aus ihrem Sichtfeld. Für unsere vier ist das nächste Questziel nun klar, doch vorher wollen sie sich erst mal ausschlafen. Dafür bevorzugen sie aber die Betten von Udo und nicht die Kirchenbänke.
@@ -25,13 +25,13 @@ Der nächste Morgen beginnt spät und kann eigentlich auch schon Mittag genannt 
 Ungefähr 45 Minuten später erreichen sie einen gemütlichen Hafen. Einige Lagerhallen und ein größeres Verladeterminal bestimmen das Bild der kleinen Häuseransammlung. Außerdem sind drei Schiffsmasten über den Häuserdächern zu sehen. Doch das ist für unsere Freunde natürlich zweitrangig. Sie sind von der hiesigen Bar geradezu magisch angezogen. "Die saufende Meerjungfrau" ist ein eher schäbiger Schuppen, hat aber immerhin ein maritimes Ambiente und vor allem Bier. Schon beim Betreten fällt ihnen auf, dass der durchschnittliche Pegel hier für die meisten Menschen lebensgefährlich wäre und prompt fühlen sie sich wie zu Hause. An der Bar begrüßt sie der Barkeeper und stellt sich als Norbert vor. Das ist unseren Helden aber egal und sie beschließen, ihn in Zukunft Odu zu nennen. Da sie im gleichen Atemzug auch einiges an Bier bestellen, akzeptiert Odu seinen neuen Namen und macht sich daran, die Biere zu zapfen.
 
 <div class="img-max center">
-  <img class="img-fluid rounded" title="Karte Fichtenstein Hafen" alt="Karte Fichtenstein Hafen." src="./img/fichtenstein_hafen.jpg" />
+  <img class="img-fluid rounded" title="Karte Fichtenstein Hafen" alt="Karte Fichtenstein Hafen." src="/img/fichtenstein_hafen.jpg" />
 </div>
 
 Bei seiner Rückkehr wird er dann direkt mit einem Trommelfeuer aus Fragen gelöchert und er erklärt, dass es gerade nichts Aufregendes im Hafen geschieht, dass drei Schiffe im Hafen liegen und dass vor kurzem ein Schiff aus Ulana Nana vor der Küste verschwunden sei. Außerdem könnten sie natürlich auch bei ihm übernachten oder essen, je nachdem, wonach ihnen der Sinn steht. Dieser steht ihnen aktuell primär nach saufen, weshalb sie sich ins Barleben der "saufenden Meerjungfrau" werfen. Wie das ausgeht, erfahrt ihr aber erst in zwei Wochen bei Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
 </div>
 
 
