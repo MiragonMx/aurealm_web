@@ -10,7 +10,7 @@ summary: "After a successful break-in at the harbour in the last blog, our fours
 Having not only explored the port of Fichtenstein in the last session, but also broken into it, our four now find themselves standing in front of the loading terminal in the middle of the night, somewhat at a loss. Since they have already broken the law, and it has worked out quite well, they decide to break into the other warehouses and search the cargo stored there. But apart from a few crates of food, decorations and clothes, they find nothing of real interest. Aldric, in particular, was hoping for a crate of weapons so he could finally trade in his stupid hunting bow for a crossbow. At least Theo finds a potion in the last corner. Since he doesn't recognise it, however, it ends up in Theo's pocket unlabelled and rather useless. As the night slowly but surely draws to a close, it's time to go to sleep. Of course, we head back up the mountain to enjoy Udo's free rooms and breakfast, which is usually good.
 
 <div class="img-max center">
-  <img class="img-fluid rounded" title="Map Fichtenstein harbor" alt="Map Fichtenstein harbor." src="./img/fichtenstein_hafen.jpg" />
+  <img class="img-fluid rounded" title="Map Fichtenstein harbor" alt="Map Fichtenstein harbor." src="/img/fichtenstein_hafen.jpg" />
 </div>
 
 After a short night, the four of us are sitting with sunken eyelids in the bar of Udo's pub, eating fresh bread with spicy salami and each taking a sip of orange juice that Udo has squeezed from the orange trees that Kel brought here and planted a few days ago. Thus fortified, they make their way back down the mountain, but only after a short chat with Simon at the gate. Their path leads them directly to the loading terminal, where a few sailors have gathered at the gate to inspect the broken lock. Undeterred, they walk past the crowd to the first floor and knock politely on the lieutenant's door. With a "come in" that sounds more like a military order than a friendly invitation, they are invited into the office.  The Lieutenant sits at his oversized desk and looks at the four newcomers with the utmost scepticism, asking them in his friendly manner what they want from him. Kel is the first to have the courage to say something, and with great negotiating skills, he starts by telling the Lieutenant that he shouldn't talk to them like that. Actually, the Lieutenant always seems to talk like that, as he is visibly surprised that he has spoken to them inappropriately, and is forced to try to repeat the question in a friendlier tone, which fails miserably and sounds even more unpleasant.
@@ -28,7 +28,7 @@ A small path leads through rocks and coastal vegetation to an old lighthouse. Fr
 Half an hour later, the four of them arrive at Udo's and have a drink or two before going to bed. We'll find out in the next Arkanthia Pen and Paper blog whether they'll be as determined as ever the next day, or whether they'll wander off again.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Fichtenstein_&_Fichtenstein_Hafen.jpg" />
 </div>
 
 

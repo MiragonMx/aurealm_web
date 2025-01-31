@@ -20,7 +20,7 @@ Nach einer weiteren halben Stunde stehen sie wieder vor dem noch immer kreideble
 Am späten Abend erreichen sie schließlich den Hafen. Erschöpft von der Fahrt kraxeln sie aus dem Boot. Da Eduardo nun ja aber nicht mehr ist, wissen sie nicht so wirklich, wie sie das Beiboot nun bei der Mannschaft der "Selania" abgeben sollen, ohne unangenehme Fragen beantworten zu müssen. Und so lassen sie es einfach im Hafenbecken vor sich hin dümpeln und machen sich auf zu ihrer letzten Etappe des Tages, den Fußweg hoch nach Fichtenstein. Hier angelangt stolpern sie müde in die "Theke" von Udo, wo er sie schon mit vier frisch gezapften Bierchen erwartet. Doch zu seiner völligen Überraschung nicken sie ihm nur müde zu und lassen das Bier unangetastet stehen. Sie schlurfen die Treppe ins erste Obergeschoss hoch, wünschen sich noch eine gute Nacht und verschwinden dann in ihren Zimmern. Was unsere ausgeschlafenen Abenteurer am nächsten Morgen erwartet, erfahrt ihr aber erst in zwei Wochen beim nächsten Mal Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="./img/Arkanthia_Full_Map_Logar_to_Fichtenstein.jpg" />
+  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Weltkarte Arkanthia." src="/img/Arkanthia_Full_Map_Logar_to_Fichtenstein.jpg" />
 </div>
 
 

@@ -19,5 +19,5 @@ Aldric's fire, together with Löwenzahn's spears, has hit the mage hard. He mana
 Aldric thinks it would be a good idea to take another look at the strange bottles the mage had been drinking from. It's a small vial made of dark glass. On closer inspection, he notices that Nztrv has been incorporated into the glass, which is why it has that dark shimmer. He opens the vials, but they're already empty. Unfortunately, they don't find any more filled vials in the man's tunic either. They only find a small drop in one bottle. They let it drip into Löwenzahn's open palm, but nothing much happens except that the transparent drop gives off a slight pink glow. They're now really hungry and quickly make their way back to the 'Wanderer', where their food from the last blog is still waiting for them. But our four friends won't find out what awaits them there until the next Arkanthia Pen and Paper blog in a fortnight's time.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="./img/Arkanthia_Full_Map_Wanderer.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Wanderer.jpg" />
 </div>

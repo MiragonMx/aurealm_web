@@ -22,5 +22,5 @@ Meanwhile, Theo tries to get to the front door unnoticed to tell his friends abo
 What awaits our heroes in Selbingen, however, won't be revealed for another two weeks in Arkanthia Pen and Paper. 
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia."  src="./img/Arkanthia_Full_Map_Wanderer_only.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia."  src="/img/Arkanthia_Full_Map_Wanderer_only.jpg" />
 </div>

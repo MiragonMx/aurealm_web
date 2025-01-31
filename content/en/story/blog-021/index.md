@@ -20,7 +20,7 @@ After another half hour, they are back in front of the still pale Aldric, who is
 They finally reach the harbour late in the evening. Exhausted from the journey, they clamber out of the boat. As Eduardo is no longer around, they don't really know how to hand over the dinghy to the crew of the ‘Selania’ without having to answer any unpleasant questions. And so they simply let it bob along in the harbour basin and set off on their last leg of the day, the footpath up to Fichtenstein. Once there, they stumble tiredly into Udo's ‘bar’, where he is already waiting for them with four freshly tapped beers. But to his complete surprise, they only nod wearily at him and leave the beer untouched. They shuffle up the stairs to the first floor, wish each other a good night and then disappear into their rooms. But you won't find out what awaits our well-rested adventurers the next morning until the next Arkanthia Pen and Paper blog in a fortnight' time.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia."  src="./img/Arkanthia_Full_Map_Logar_to_Fichtenstein.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia."  src="/img/Arkanthia_Full_Map_Logar_to_Fichtenstein.jpg" />
 </div>
 
 
