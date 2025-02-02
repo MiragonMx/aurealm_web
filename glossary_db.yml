@@ -22,17 +22,55 @@ people:
       - Herzfried
       - Herzfried Oben
     slug: "Herzfried-Oben"
-  herzfried:
+  karl:
     words:
       - Karl
       - Karl Flittenberg
     slug: "Karl-Flittenberg"
+  kel:
+    words:
+      - Kel
+      - Kel Tu Las
+    slug: "Kel-Tu-Las"
+  kevin:
+    words:
+      - Kevin
+    slug: "Kevin"
+  kira:
+    words:
+      - Kira
+    slug: "Kira"
+  loewenzahn:
+    words:
+      - Löwenzahn
+    slug: "Löwenzahn"
+  chiraque:
+    words:
+      - Chiraque
+      - Monsieur Chiraque
+    slug: "Monsieur-Chiraque"
+  robin:
+    words:
+      - Robin
+    slug: "Robin"
+  rosvita:
+    words:
+      - Rosvita
+    slug: "Rosvita"
+  simon:
+    words:
+      - Simon
+    slug: "Simon"
   theo:
     words:
       - Theo
       - Theobald
       - Theobald Bonter
     slug: "Theobald-Bonter"
+  udo:
+    words:
+      - Udo
+    slug: "Udo"
   wilhelm:
     words:
       - Wilhelm
@@ -43,7 +81,72 @@ places:
     words:
       - Aurealm
     slug: "Aurealm"
+  balrum:
+    words:
+      - Balrum
+    slug: "Balrum"
+  meerjungfrau:
+    words:
+      - Die saufende Meerjungfrau
+      - Saufende Meerjungfrau
+      - saufende Meerjungfrau
+    slug: "Die-saufende-Meerjungfrau"
+  fichtenstein:
+    words:
+      - Fichtenstein
+    slug: "fichtenstein"
+  fichtenstein-hafen:
+    words:
+      - Fichtenstein Hafen
+      - Fichtenstein haven
+      - Fichtensteiner Hafen
+    slug: "Fichtenstein-Hafen"
+  helenau-handelsroute:
+    words:
+      - Helenau Handelsroute
+      - Helenauer Handelsroute
+      - Helenau trade route
+    slug: "Helenau-Handelsroute"
+  mine-gungeaug:
+    words:
+      - Mine Gungeaug
+      - Gungeauger Mine
+      - Gungeauger mine
+      - Gungeaug mine
+    slug: "Mine-Gungeaug"
+  chiraque-residency:
+    words:
+      - Residenz Chiraque
+      - Residenz von Chiraque
+      - Chiraque residency
+    slug: "Residenz-Chiraque"
+  rhatcyl:
+    words:
+      - Rhatcyl
+    slug: "Rhatcyl"
+  thauros:
+    words:
+      - Thauros
+    slug: "Thauros"
+  theke:
+    words:
+      - Theke
+    slug: "Theke"
+  ullana-nana:
+    words:
+      - Ullana-Nana
+    slug: "Ullana-Nana"
+  zazyrus:
+    words:
+      - Zazyrus
+    slug: "Zazyrus"
+  zwei-reiche-handelsroute:
+    words:
+      - Zwei Reiche Handelsroute
+      - Handelsroute der zwei Reiche
+      - Two kingdom trade route
+      - Two empire trade route
+    slug: "Zwei-Reiche-Handelsroute"
 
 things:
-
 
