@@ -2,7 +2,7 @@
 title: "Biography Kel Tuh Las"
 publishdate: 2023-11-11T13:00:00+02:00
 draft: false
-thumbnail: "img/Kel Tu Las.png"
+thumbnail: "img/Kel_Tu_Las.png"
 ---
 
 My name is Kel Tuh Las,
