@@ -4,7 +4,7 @@ publishdate: 2025-03-16T10:00:00+02:00
 startdate: 1237-10-06T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_34.jpg
-summary: "Now that Selbingen has been freed from its threat, it's time for some time off. So Aldric and Theo set off for the legendary mead factory ‘Odin's Waters’ - in search of good mead and a tempting deal. Meanwhile, Löwenzahn roams the countryside in search of Bibiane and her horses... And Kel? He's on a completely different ‘quest:’"
+summary: "Now that Selbingen has been freed from its threat, it's time for some time off. So Aldric and Theo set off for the legendary mead factory ‘Odin's Waters’ - in search of good mead and a tempting deal. Meanwhile, Löwenzahn roams the countryside in search of Bibiane and her horses... And Kel? He's on a completely different ‘quest’:"
 ---
 In an exuberant and celebratory speech in the last blog, Kel Tuh Las declared to the entire village of Selbingen that the threat posed by the Pale Ones had been eradicated and that the village could now sleep in peace again. This speech apparently sparkled with so much sex appeal that Kel was immediately approached by two young women. But before he could go on a date, some work had to be done first. With Löwenzahn's help, Kel sold some weapons to Meckmo and then headed off on a date. The date was a success, but what did Theo, Löwenzahn and Aldric do in the meantime?
 
