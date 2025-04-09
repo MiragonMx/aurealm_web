@@ -2,6 +2,7 @@
 title: "Ein Saunagang mit Juri"
 publishdate: 2025-04-13T10:00:00+02:00
 startdate: 1237-10-06T00:10:03+02:00
+enddate: 1237-10-07T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_36.jpg
 summary: "Nachdem sich unsere Freunde beim letzten Mal aufgeteilt haben, feiern Theo und Aldric – mit einer ganzen Wagenladung feinsten Mets im Gepäck – heute ein feuchtfröhliches Wiedersehen mit Juri und Kel Tuh Las. Währenddessen genießt Löwenzahn entspannt die Stille des Astralgebirges auf der Suche nach Bibiane. Ob diese erfolgreich ist und wie das Wiedersehen unserer anderen Freunde ausgeht, erfahrt ihr hier:"
