@@ -1,6 +1,6 @@
 ---
 title: "Getrennte Abenteuer"
-publishdate: 2025-03-16T10:00:00+02:00
+publishdate: 2025-03-30T10:00:00+02:00
 startdate: 1237-10-06T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_35.jpg
