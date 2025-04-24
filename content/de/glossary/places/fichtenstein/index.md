@@ -2,7 +2,7 @@
 title: "Fichtenstein"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-thumbnail: img/fichtenstein.jpg
+thumbnail: /img/fichtenstein.jpg
 Summary: "Fichtenstein ist ein kleiner Ort in der Nordmarsch."
 ---
 
