@@ -2,7 +2,7 @@
 title: “Kel Tuh Las”
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-thumbnail: img/Kel Tuh Las.jpg
+thumbnail: img/Kel Tuh Las.png
 Summary: “Kel Tuh Las is one of our four heroes on this adventure. With strong magical abilities, pumped-up muscles and a sharp mind, he can strike fear into the hearts of many enemies. However, his tendency to do rash things and flirt with everything that's not three on the tree often terrifies his friends.”
 ---
 
