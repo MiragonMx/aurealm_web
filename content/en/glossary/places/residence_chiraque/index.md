@@ -2,7 +2,7 @@
 title: “Residence Chiraque”
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-Summary: “The ‘Gungeaug’ mine is one of the largest Nzrtv mines in Zazyrus.”
+Summary: “The Chiraque residence is the main house of the ‘Gungeaug’ mine, which belongs to the owner Mr. Chiraque.”
 ---
 
-The 'Gungeaug' mine produces large quantities of Nztrv rock every day, which is picked up by train twice a week. It is located in the North Marsh and belongs to Monsieur Chiraque. As the mine is important for Zazyrus' goals, it is granted special permits. These include tax relief and the legalization of slave labour.
+The Chiraque residence is located in the 'Gungeaug' mine in the North Marsh. It belongs to Mr. Chiraque and is often the venue for major celebrations attended by merchants from all over Zazyrus. 
