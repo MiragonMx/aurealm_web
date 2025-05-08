@@ -2,7 +2,7 @@
 title: "Kel Tuh Las"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-thumbnail: img/Kel Tuh Las.jpg
+thumbnail: img/Kel_Tu_Las.png
 Summary: "Kel Tuh Las ist einer unserer vier Helden, die dieses Abenteuer bestreiten. Mit ausgeprägten magischen Fähigkeiten, aufgepumpten Muskeln und einem haarscharfen Verstand kann er vielen Feinden das Fürchten lehren. Sein Hang dazu unüberlegt irgendwelche Dinge zu tun und alles anzuflirten, was bei drei nicht auf dem Baum ist versetzt allerdings auf des Öfteren seine Freunde in Angst und Schrecken."
 ---
 
