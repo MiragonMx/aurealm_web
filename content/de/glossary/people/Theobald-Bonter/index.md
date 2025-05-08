@@ -2,7 +2,7 @@
 title: "Theobald Bonter"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-thumbnail: img/Theo.jpg
+thumbnail: img/Theo.png
 Summary: "Theobald Bonter, oder eigentlich nur Theo, ist als Halbling der Kleinste unserer vier Abenteurer. Seine Größe nutzt er in diversen Situationen zum Gunste seiner Gruppe, sei es im Kampf, wo er aus dem Hinterhalt seine Gegner überrascht, oder um heimlich an Informationen zu gelangen, die ihn eigentlich gar nichts angehen."
 ---
 
