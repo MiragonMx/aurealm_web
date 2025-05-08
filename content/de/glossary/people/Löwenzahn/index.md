@@ -2,7 +2,7 @@
 title: "Löwenzahn"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-thumbnail: img/Kel Tuh Las.jpg
+thumbnail: img/Löwenzahn.png
 Summary: "Geboren als Halbork, verstoßen von seinem eigenen Stamm und einsam in der Natur aufgewachsen, bevor er als Sklave Nztrv abbauen musste. Das ist die trauige Vergangenheit von Löwenzahn, der nun endlich in unserer Gruppe von Abenteurern seinen Platz gefunden hat. Mit umfangreichen Wissen über Pflanzen und Tiere konnte er seinen neunen Freunden direkt helfen und mit mehr Zeitin Zivilisation werden auch seine sozialen Fähigkeiten langsam zu einer Waffe."
 ---
 
