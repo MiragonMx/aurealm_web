@@ -2,7 +2,7 @@
 title: "Aldric von Praven"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-thumbnail: img/Aldric.jpg
+thumbnail: img/Aldric.png
 Summary: "Obwohl Aldric einen adligen Ursprung hat, gibt es bei unseren Freunden wahrscheinlich dennoch niemanden, der den Adel so sehr verachtet wie Aldric. Abgesehen von seiner gewandten Sprache, wenn er denn will, ist auch nicht mehr viel an Aldric adelig. Stattdessen hat er sich zu einem Fan von Bögen und Armbrüsten entwickelt, der genau weiß, wie man Schaden austeilt."
 ---
 
