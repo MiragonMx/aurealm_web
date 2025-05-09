@@ -5,4 +5,4 @@ draft: false
 Summary: “A huge island in the north of Aurealm.”
 ---
 
-Ceaydryssnar is a huge island that lies to the north of Aurealm. Little is known about it, except that icy temperatures reign over a barren land.
+<a class="glossary-link" href={{<ref "glossary/places/ceaydryssnar">}} >Ceaydryssnar</a> is a huge island that lies to the north of <a class="glossary-link" href={{<ref "glossary/places/aurealm">}} >Aurealm</a>. Little is known about it, except that icy temperatures reign over a barren land.

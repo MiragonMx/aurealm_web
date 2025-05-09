@@ -17,7 +17,7 @@ Now it's time to assign values. The example character presented here will be cal
 * **Charisma:** 4
 
 
-Verlon does not want to learn magic, so he does not spend any APs on this skill, but he can make up for it later, each time he levels up. This gives him the following stats:
+Verlon does not want to learn <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a>, so he does not spend any APs on this skill, but he can make up for it later, each time he levels up. This gives him the following stats:
 
 {{<table>}}
 | Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> |

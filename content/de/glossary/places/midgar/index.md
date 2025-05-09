@@ -5,4 +5,4 @@ draft: false
 Summary: "Eine kleine Insel, die einige Kilometer vor dem Fichtensteiner Hafen liegt."
 ---
 
-Midgar ist eine von zwei kleinen Inseln, die vor der Küste der Nordmarsch liegen. Midgar liegt dabei etwas nördlicher als ihre Schwesterinsel Logar. 
+<a class="glossary-link" href={{<ref "glossary/places/helenau_trade_route">}} >Midgar</a> ist eine von zwei kleinen Inseln, die vor der Küste der Nordmarsch liegen. <a class="glossary-link" href={{<ref "glossary/places/helenau_trade_route">}} >Midgar</a> liegt dabei etwas nördlicher als ihre Schwesterinsel Logar. 

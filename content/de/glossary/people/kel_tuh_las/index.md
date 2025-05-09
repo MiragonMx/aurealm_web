@@ -6,7 +6,7 @@ thumbnail: img/Kel_Tu_Las.png
 Summary: "Kel Tuh Las ist einer unserer vier Helden, die dieses Abenteuer bestreiten. Mit ausgeprägten magischen Fähigkeiten, aufgepumpten Muskeln und einem haarscharfen Verstand kann er vielen Feinden das Fürchten lehren. Sein Hang dazu unüberlegt irgendwelche Dinge zu tun und alles anzuflirten, was bei drei nicht auf dem Baum ist versetzt allerdings auf des Öfteren seine Freunde in Angst und Schrecken."
 ---
 
-Mein Name ist Kel Tuh Las,
+Mein Name ist <a class="glossary-link" href={{<ref "glossary/people/kel_tuh_las">}} >Kel Tuh Las</a>,
 
 ich bin 25, 195 cm groß, mein Brustumfang beträgt ebenfalls 195 cm und ich Bankdrücke mehr als alle anderen, demnach gehört mir dieses Abenteuer und ich bin der alleinige Herrscher hier.
 

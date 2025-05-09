@@ -6,5 +6,5 @@ thumbnail: img/fichtenstein.jpg
 Summary: "Fichtenstein is a small village in the northern marshlands."
 ---
 
-Fichtenstein is a small village in the northern marshlands.
-Here you can find everything you need for a simple life and the connection to the main trade route and the nearby Fichtenstein harbor, which is important for trade.
+<a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a> is a small village in the northern marshlands.
+Here you can find everything you need for a simple life and the connection to the main trade route and the nearby <a class="glossary-link" href={{<ref "glossary/places/fichtenstein_harbor">}} >Fichtenstein harbor</a>, which is important for trade.

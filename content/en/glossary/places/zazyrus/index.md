@@ -6,4 +6,4 @@ thumbnail: img/Arkanthia_Logo (4_3).png
 Summary: "Zazyrus is the world in which the campagne that is told on this site unfolds."
 ---
 
-Zazyrus is the world in which the campagne that is told on this site unfolds.
+<a class="glossary-link" href={{<ref "glossary/places/zazyrus">}} >Zazyrus</a> is the world in which the campagne that is told on this site unfolds.

@@ -5,4 +5,4 @@ draft: false
 Summary: “The main continent of the fourth level.”
 ---
 
-<a class=“glossary-link” href={{<ref “glossary/places/Aurealm”>}} >Aurealm</a>is a dumbbell-shaped continent on the fourth level, home to the five different countries of Balrum, Zazyrus, Rhatcyl, Thauros and Ullana Nana, which is a group of islands off the continent.
+<a class=“glossary-link” href={{<ref “glossary/places/Aurealm”>}} >Aurealm</a>is a dumbbell-shaped continent on the fourth level, home to the five different countries of <a class="glossary-link" href={{<ref "glossary/places/balrum">}} >Balrum</a>, <a class="glossary-link" href={{<ref "glossary/places/zazyrus">}} >Zazyrus</a>, <a class="glossary-link" href={{<ref "glossary/places/rhatcyl">}} >Rhatcyl</a>, <a class="glossary-link" href={{<ref "glossary/places/thauros">}} >Thauros</a> and Ullana Nana, which is a group of islands off the continent.

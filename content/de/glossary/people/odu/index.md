@@ -5,4 +5,4 @@ draft: false
 Summary: "Odu ist der Besitzer der schäbigen Hafenkneipe 'Die besoffene Meerjungfrau'."
 ---
 
-Der Inhaber der Kneipe "Die besoffene Meerjungfrau" im Hafen von Fichtenstein heißt eigentlich Norbert, doch unsere Freude haben ihn in Referenz an den Barkeeper Udo in Fichtenstein liebevoll in Odu umgetauft.
+Der Inhaber der Kneipe "Die besoffene Meerjungfrau" im Hafen von <a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a> heißt eigentlich Norbert, doch unsere Freude haben ihn in Referenz an den Barkeeper <a class="glossary-link" href={{<ref "glossary/people/udo">}} >Udo</a> in <a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a> liebevoll in <a class="glossary-link" href={{<ref "glossary/people/odu">}} >Odu</a> umgetauft.

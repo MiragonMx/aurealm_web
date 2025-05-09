@@ -6,7 +6,7 @@ thumbnail: img/Aldric.png
 Summary: “Although Aldric has noble origins, there is probably no one among our friends who despises the nobility as much as Aldric. Aside from his eloquent speech when he wants to, there is not much about Aldric that is noble anymore. Instead, he's become a fan of bows and crossbows who knows exactly how to deal damage.”
 ---
 
-My name is Aldric, son of Osric, the penultimate Earl of Praven, and this is my story.
+My name is <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a>, son of Osric, the penultimate Earl of Praven, and this is my story.
 
 As these lines are being committed to paper, dear reader, I find myself in the privy of a godless dive, beaten with the company of three, or rather two and a half, savage and boastful, if good-natured, scoundrels, with whom I am now bound by the close bond of shared exploits and, occasionally, not so shared misdeeds. But first things first.
 
@@ -18,7 +18,7 @@ From that day on, I lived a lot in the woods and made a living with odd jobs, hu
 
 Some of my inherited qualities came in handy, others were forgotten.Today, I only occasionally stand out among the common folk due to my tall stature of a good six feet and pass as a prowler and ranger.
 
-Then as now, I am driven by the desire for revenge in quiet moments, but while the youthful Aldric learned to survive, my travels took me far away, so that even today, despite my deadly dexterity, only dark dreams can bring me closer to my goal.
+Then as now, I am driven by the desire for revenge in quiet moments, but while the youthful <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a> learned to survive, my travels took me far away, so that even today, despite my deadly dexterity, only dark dreams can bring me closer to my goal.
 
 The loud rumble of a brawl interrupts my writing, so I must now put you off until next time, dear reader.If these are my last lines, please burn them, because I don't want it to be said that the last Count of Praven bit the dust in a bar brawl!
 

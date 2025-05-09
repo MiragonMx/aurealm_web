@@ -6,7 +6,7 @@ thumbnail: img/Aldric.png
 Summary: "Obwohl Aldric einen adligen Ursprung hat, gibt es bei unseren Freunden wahrscheinlich dennoch niemanden, der den Adel so sehr verachtet wie Aldric. Abgesehen von seiner gewandten Sprache, wenn er denn will, ist auch nicht mehr viel an Aldric adelig. Stattdessen hat er sich zu einem Fan von Bögen und Armbrüsten entwickelt, der genau weiß, wie man Schaden austeilt."
 ---
 
-Mein Name ist Aldric, Sohn von Osric, des vorletzten Grafen von Praven und dies ist meine Geschichte.
+Mein Name ist <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a>, Sohn von Osric, des vorletzten Grafen von Praven und dies ist meine Geschichte.
 
 Während diese Zeilen zu Papier wandern, werter Leser, befinde ich mich auf dem Abort einer gottlosen Spelunke, geschlagen mit der Gesellschaft von drei, oder besser zweieinhalb, wilden und aufschneiderischen, wenn auch gutmütigen, Halunken, zu denen mich jedoch mittlerweile die enge Bande gemeinsamer Heldentaten und, gelegentlich, nicht so gemeinsamer Untaten bindet. Doch der Reihe nach.
 
@@ -16,6 +16,6 @@ Mein Vater war ein guter Soldat und der Meinung, dass ein Feldherr die Waffe sei
 
 Von diesem Tag an lebte ich viel in Wäldern und bestritt meinen Lebensunterhalt mit Gelegenheitsarbeit, Jagd und zu meiner Schande auch weniger gesellschaftsfähigeren Beschäftigungen. Dabei kamen mir meine anerzogenen Eigenschaften teils zu Gunste, teils gerieten sie in Vergessenheit. Heute falle ich nur gelegentlich durch meine hohe Statur von gut sechs Fuß unter dem gemeinen Volk auf und gehe als Herumtreiber und Waldläufer durch.
 
-Damals wie heute treiben mich Rachegelüste in ruhigen Minuten umher, doch während der jugendliche Aldric gerade so das Überleben lernte, so trieben mich meine Reisen weit fort, sodass auch heute, trotz meiner tödlichen Gewandtheit mich nur düstere Träume meinem Ziel näher bringen zu vermögen.
+Damals wie heute treiben mich Rachegelüste in ruhigen Minuten umher, doch während der jugendliche <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a> gerade so das Überleben lernte, so trieben mich meine Reisen weit fort, sodass auch heute, trotz meiner tödlichen Gewandtheit mich nur düstere Träume meinem Ziel näher bringen zu vermögen.
 
 Lautes Gepolter einer Prügelei unterbricht mein Geschreibsel, sodass ich euch nun auf das nächste Mal vertrösten muss, lieber Leser. Falls dies meine letzten Zeilen sind, so bitte ich euch diese zu verbrennen, denn es soll nicht heißen, dass der letzte Graf von Praven in einer Kneipenschlägerei in Gras gebissen hat!

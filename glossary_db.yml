@@ -16,6 +16,7 @@ people:
   elisabeth:
     words:
       - Elisabeth
+    slug: "elisabeth"
   emanuel:
     words:
       - Emanuel
@@ -49,7 +50,7 @@ people:
       - Kampf
       - Fridolin
       - Lieutnant Kampf
-    slug: "leutnant_kampf"  
+    slug: "leutnant_kampf"
   lukas_lukan_valerius:
     words:
       - Lukas
@@ -229,4 +230,3 @@ things:
       - moonstone
       - Mondstein
     slug: "moonstone"
-    

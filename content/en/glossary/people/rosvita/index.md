@@ -4,4 +4,4 @@ publishdate: 2024-10-30T08:00:00+02:00
 draft: false
 Summary: “Rosvita the herb woman of Fichtenstein.”
 ---
-Rosvita owns the pharmacy 'Apo' in Fichtenstein. She has basic knowledge of herbs and potions, but also of drugs. She also has a daughter Kira.
+<a class="glossary-link" href={{<ref "glossary/people/rosvita">}} >Rosvita</a> owns the pharmacy 'Apo' in <a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a>. She has basic knowledge of herbs and potions, but also of drugs. She also has a daughter <a class="glossary-link" href={{<ref "glossary/people/kira">}} >Kira</a>.

@@ -5,4 +5,4 @@ draft: false
 Summary: “Odu is the owner of the seedy harbor pub ‘The Drunken Mermaid’.”
 ---
 
-The owner of the pub “Die besoffene Meerjungfrau” in the harbor of Fichtenstein is actually called Norbert, but our friends have lovingly renamed him Odu in reference to the barkeeper Udo in Fichtenstein.
+The owner of the pub “Die besoffene Meerjungfrau” in the harbor of <a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a> is actually called Norbert, but our friends have lovingly renamed him <a class="glossary-link" href={{<ref "glossary/people/odu">}} >Odu</a> in reference to the barkeeper <a class="glossary-link" href={{<ref "glossary/people/udo">}} >Udo</a> in <a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a>.

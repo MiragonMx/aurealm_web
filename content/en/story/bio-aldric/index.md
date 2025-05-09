@@ -5,7 +5,7 @@ draft: false
 thumbnail: "img/Aldric.png"
 ---
 
-My name is Aldric, son of Osric, the second last Earl of Praven, and this is my story.
+My name is <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a>, son of Osric, the second last Earl of Praven, and this is my story.
 
 As these lines are being committed to paper, dear reader, I find myself in the privy of a godless dive, beaten in the company of three, or rather two and a half, savage and boastful, if good-natured, scoundrels, with whom I am now bound by the close bonds of shared exploits and, occasionally, not so shared misdeeds. But first things first.
 
@@ -15,6 +15,6 @@ My father was a good soldier and believed that a commander should be able to wie
 
 From that day on, I lived a lot in the woods and made my living with casual labour, hunting and, to my shame, less socially acceptable pursuits. Some of the qualities I was brought up with worked in my favour, others were forgotten. Today, I only occasionally stand out among the common folk due to my tall stature of a good six feet and pass as a prowler and ranger.
 
-Then as now, I am driven by the desire for revenge in quiet moments, but while the youthful Aldric learnt to survive, my travels took me far away, so that even today, despite my deadly dexterity, only dark dreams can bring me closer to my goal.
+Then as now, I am driven by the desire for revenge in quiet moments, but while the youthful <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a> learnt to survive, my travels took me far away, so that even today, despite my deadly dexterity, only dark dreams can bring me closer to my goal.
 
 The loud rumble of a brawl interrupts my writing, so I must now put you off until next time, dear reader. If these are my last lines, please burn them, because I don't want it to be said that the last Count of Praven bit the dust in a pub brawl!

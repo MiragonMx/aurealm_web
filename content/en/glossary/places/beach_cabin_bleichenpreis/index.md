@@ -5,4 +5,4 @@ draft: false
 Summary: “The first own house of our heroes, which is located in Selbingen directly at the Selbig lake.”
 ---
 
-As the name of the small beach hut suggests, our heroes earned their first home by liberating Selbingen against the Pale Ones. As a reward, Mayor Siegfried gave them the little house on the beach.
+As the name of the small beach hut suggests, our heroes earned their first home by liberating <a class="glossary-link" href={{<ref "glossary/places/selbingen">}} >Selbingen</a> against the Pale Ones. As a reward, Mayor Siegfried gave them the little house on the beach.

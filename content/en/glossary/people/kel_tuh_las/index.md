@@ -6,7 +6,7 @@ thumbnail: img/Kel Tuh Las.png
 Summary: “Kel Tuh Las is one of our four heroes on this adventure. With strong magical abilities, pumped-up muscles and a sharp mind, he can strike fear into the hearts of many enemies. However, his tendency to do rash things and flirt with everything that's not three on the tree often terrifies his friends.”
 ---
 
-My name is Kel Tuh Las,
+My name is <a class="glossary-link" href={{<ref "glossary/people/kel_tuh_las">}} >Kel Tuh Las</a>,
 
 I am 25, 195 cm tall, my chest circumference is also 195 cm and I bench press more than anyone else, so this adventure belongs to me and I am the sole ruler here.
 

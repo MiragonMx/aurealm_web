@@ -5,4 +5,4 @@ draft: false
 Summary: "Der Eigentümer der Residenz Chiraque sowie der Nztrv-Mine 'Gungeaug'."
 ---
 
-Monsieur Chiraque ist ein sehr wohlhabender und durchaus einflussreicher Mensch in Zazyrus. Beides hat er vorallem seiner riesigen Nztrv-Mine zu verdanken, die sowohl für die politischen Ziele des Zyrens enorm wichtig ist und zusätzlich durch die Sklavenarbeit auch extrem kostengünstig produzieren kann.
+<a class="glossary-link" href={{<ref "glossary/people/monsieur_chiraque">}} >Monsieur Chiraque</a> ist ein sehr wohlhabender und durchaus einflussreicher Mensch in <a class="glossary-link" href={{<ref "glossary/places/zazyrus">}} >Zazyrus</a>. Beides hat er vorallem seiner riesigen <a class="glossary-link" href={{<ref "glossary/things/nztrv">}} >Nztrv</a>-Mine zu verdanken, die sowohl für die politischen Ziele des Zyrens enorm wichtig ist und zusätzlich durch die Sklavenarbeit auch extrem kostengünstig produzieren kann.

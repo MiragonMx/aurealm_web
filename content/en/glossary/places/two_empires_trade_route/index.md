@@ -5,4 +5,4 @@ draft: false
 Summary: “One of two trade routes in Zazyrus.”
 ---
 
-A trade route in Zazyrus that connects the realm of Thauros with large parts of Zazyrus, passing through the capital Don Rogan. It runs from Thauros through the cities of Esmer, Helenau, Renalec, Plas, Don Rogan and Falkenstein.
+A trade route in <a class="glossary-link" href={{<ref "glossary/places/zazyrus">}} >Zazyrus</a> that connects the realm of <a class="glossary-link" href={{<ref "glossary/places/thauros">}} >Thauros</a> with large parts of <a class="glossary-link" href={{<ref "glossary/places/zazyrus">}} >Zazyrus</a>, passing through the capital Don Rogan. It runs from <a class="glossary-link" href={{<ref "glossary/places/thauros">}} >Thauros</a> through the cities of Esmer, Helenau, Renalec, Plas, Don Rogan and Falkenstein.

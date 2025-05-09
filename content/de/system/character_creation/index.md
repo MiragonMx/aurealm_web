@@ -16,7 +16,7 @@ Nun geht es an die Vergabe der Werte. Der hier vorgestellte Beispielscharakter s
 * **Intelligenz:** 2
 * **Charisma:** 4
 
-Verlon möchte keine Magie lernen, vergibt also auch keine FPs in diese Fähigkeit, kann dies später aber bei jedem Levelaufstieg nachholen. Damit ergeben sich für ihn folgende Werte:
+Verlon möchte keine <a class="glossary-link" href={{<ref "glossary/things/magic">}} >Magie</a> lernen, vergibt also auch keine FPs in diese Fähigkeit, kann dies später aber bei jedem Levelaufstieg nachholen. Damit ergeben sich für ihn folgende Werte:
 
 {{<table>}}
 | Wert <img width=300/> | Formel <img width=300/> | Verlons Wert <img width=300/> |
