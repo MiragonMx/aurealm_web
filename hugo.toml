@@ -72,6 +72,13 @@ defaultContentLanguage = 'de'
     weight = 50
 
 [[languages.de.menu.main]]
+    identifier = "organisations"
+    parent = "glossary"
+    name = "Organisationen"
+    pageRef = "glossary/organisations/"
+    url = "/glossary/organisations/"
+
+[[languages.de.menu.main]]
     identifier = "people"
     parent = "glossary"
     name = "Personen"
@@ -148,6 +155,13 @@ defaultContentLanguage = 'de'
     pageRef = "glossary/"
     url = "/glossary/"
     weight = 50
+
+[[languages.en.menu.main]]
+    identifier = "organisations"
+    parent = "glossary"
+    name = "Organisations"
+    pageRef = "glossary/organisations/"
+    url = "/glossary/organisations/"
 
 [[languages.en.menu.main]]
     identifier = "people"
