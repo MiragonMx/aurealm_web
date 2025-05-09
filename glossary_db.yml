@@ -3,94 +3,94 @@ people:
     words:
       - Aldric
       - Aldric von Praven
-    slug: "Aldric-von-Praven"
+    slug: "aldric_von_praven"
   emanuel:
     words:
       - Emanuel
-    slug: "Emanuel"
+    slug: "emanuel"
   feandal:
     words:
       - Feandal
-    slug: "Feandal"
+    slug: "feandal"
   hellebard:
     words:
       - Hellebard
       - Hellebard Dunkel
-    slug: "Hellebard-Dunkel"
+    slug: "hellebard_dunkel"
   herzfried:
     words:
       - Herzfried
       - Herzfried Oben
-    slug: "Herzfried-Oben"
+    slug: "herzfried_oben"
   karl:
     words:
       - Karl
       - Karl Flittenberg
-    slug: "Karl-Flittenberg"
+    slug: "karl_flittenberg"
   kel:
     words:
       - Kel
       - Kel Tu Las
-    slug: "Kel-Tu-Las"
+    slug: "kel_tu_las"
   kevin:
     words:
       - Kevin
-    slug: "Kevin"
+    slug: "kevin"
   kira:
     words:
       - Kira
-    slug: "Kira"
+    slug: "kira"
   loewenzahn:
     words:
       - Löwenzahn
-    slug: "Löwenzahn"
+    slug: "löwenzahn"
   chiraque:
     words:
       - Chiraque
       - Monsieur Chiraque
-    slug: "Monsieur-Chiraque"
+    slug: "monsieur_chiraque"
   robin:
     words:
       - Robin
-    slug: "Robin"
+    slug: "robin"
   rosvita:
     words:
       - Rosvita
-    slug: "Rosvita"
+    slug: "rosvita"
   simon:
     words:
       - Simon
-    slug: "Simon"
+    slug: "simon"
   theo:
     words:
       - Theo
       - Theobald
       - Theobald Bonter
-    slug: "Theobald-Bonter"
+    slug: "theobald_bonter"
   udo:
     words:
       - Udo
-    slug: "Udo"
+    slug: "udo"
   wilhelm:
     words:
       - Wilhelm
-    slug: "Wilhelm"
+    slug: "wilhelm"
 
 places:
   aurealm:
     words:
       - Aurealm
-    slug: "Aurealm"
+    slug: "aurealm"
   balrum:
     words:
       - Balrum
-    slug: "Balrum"
+    slug: "balrum"
   meerjungfrau:
     words:
       - Die saufende Meerjungfrau
       - Saufende Meerjungfrau
       - saufende Meerjungfrau
-    slug: "Die-saufende-Meerjungfrau"
+    slug: "die_saufende_meerjungfrau"
   fichtenstein:
     words:
       - Fichtenstein
@@ -100,53 +100,52 @@ places:
       - Fichtenstein Hafen
       - Fichtenstein haven
       - Fichtensteiner Hafen
-    slug: "Fichtenstein-Hafen"
+    slug: "fichtenstein_hafen"
   helenau-handelsroute:
     words:
       - Helenau Handelsroute
       - Helenauer Handelsroute
       - Helenau trade route
-    slug: "Helenau-Handelsroute"
+    slug: "helenau_handelsroute"
   mine-gungeaug:
     words:
       - Mine Gungeaug
       - Gungeauger Mine
       - Gungeauger mine
       - Gungeaug mine
-    slug: "Mine-Gungeaug"
+    slug: "mine_gungeaug"
   chiraque-residency:
     words:
       - Residenz Chiraque
       - Residenz von Chiraque
       - Chiraque residency
-    slug: "Residenz-Chiraque"
+    slug: "residenz_chiraque"
   rhatcyl:
     words:
       - Rhatcyl
-    slug: "Rhatcyl"
+    slug: "rhatcyl"
   thauros:
     words:
       - Thauros
-    slug: "Thauros"
+    slug: "thauros"
   theke:
     words:
       - Theke
-    slug: "Theke"
+    slug: "theke"
   ullana-nana:
     words:
       - Ullana-Nana
-    slug: "Ullana-Nana"
+    slug: "ullana_nana"
   zazyrus:
     words:
       - Zazyrus
-    slug: "Zazyrus"
+    slug: "zazyrus"
   zwei-reiche-handelsroute:
     words:
       - Zwei Reiche Handelsroute
       - Handelsroute der zwei Reiche
       - Two kingdom trade route
       - Two empire trade route
-    slug: "Zwei-Reiche-Handelsroute"
+    slug: "zwei_reiche_handelsroute"
 
 things:
-
