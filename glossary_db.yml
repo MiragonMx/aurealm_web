@@ -1,27 +1,30 @@
 people:
+  aki:
+    words:
+      - Aki
+    slug: "aldric_von_praven"
   aldric:
     words:
       - Aldric
       - Aldric von Praven
     slug: "aldric_von_praven"
+  bibiane:
+    words:
+      - Bibiane
+      - Bibi
+    slug: "bibiane"
+  elisabeth:
+    words:
+      - Elisabeth
   emanuel:
     words:
       - Emanuel
     slug: "emanuel"
-  feandal:
-    words:
-      - Feandal
-    slug: "feandal"
   hellebard:
     words:
       - Hellebard
       - Hellebard Dunkel
     slug: "hellebard_dunkel"
-  herzfried:
-    words:
-      - Herzfried
-      - Herzfried Oben
-    slug: "herzfried_oben"
   karl:
     words:
       - Karl
@@ -30,8 +33,8 @@ people:
   kel:
     words:
       - Kel
-      - Kel Tu Las
-    slug: "kel_tu_las"
+      - Kel Tuh Las
+    slug: "kel_tuh_las"
   kevin:
     words:
       - Kevin
@@ -40,26 +43,46 @@ people:
     words:
       - Kira
     slug: "kira"
+  leutnant_kampf:
+    words:
+      - Leutnant Kampf
+      - Kampf
+      - Fridolin
+      - Lieutnant Kampf
+    slug: "leutnant_kampf"  
+  lukas_lukan_valerius:
+    words:
+      - Lukas
+      - Lukas Lukan Valerius
+    slug: "lukas_lukan_valerius"
   loewenzahn:
     words:
       - Löwenzahn
     slug: "löwenzahn"
-  chiraque:
+  monsieur chiraque:
     words:
       - Chiraque
       - Monsieur Chiraque
     slug: "monsieur_chiraque"
-  robin:
+  nina:
     words:
-      - Robin
-    slug: "robin"
+      - Nina
+      - nina
+    slug: "nina"
+  odu:
+    words:
+      - Odu
+      - odu
+    slug: "odu"
   rosvita:
     words:
       - Rosvita
+      - rosvita
     slug: "rosvita"
   simon:
     words:
       - Simon
+      - simon
     slug: "simon"
   theo:
     words:
@@ -71,10 +94,6 @@ people:
     words:
       - Udo
     slug: "udo"
-  wilhelm:
-    words:
-      - Wilhelm
-    slug: "wilhelm"
 
 places:
   aurealm:
@@ -85,12 +104,20 @@ places:
     words:
       - Balrum
     slug: "balrum"
-  meerjungfrau:
+  bleichenpreis:
     words:
-      - Die saufende Meerjungfrau
-      - Saufende Meerjungfrau
-      - saufende Meerjungfrau
-    slug: "die_saufende_meerjungfrau"
+      - Bleichenpreis
+      - Strandhaus Bleichenpreis
+      - Beach cabin Bleichenpreis
+    slug: "beach_cabin_bleichenpreis"
+  ceaydryssnar:
+    words:
+      - Ceaydryssnar
+    slug: "ceaydryssnar"
+  feth:
+    words:
+      - Feth
+    slug: "feth"
   fichtenstein:
     words:
       - Fichtenstein
@@ -99,14 +126,19 @@ places:
     words:
       - Fichtenstein Hafen
       - Fichtenstein haven
+      - Fichtenstein harbor
       - Fichtensteiner Hafen
-    slug: "fichtenstein_hafen"
+    slug: "fichtenstein_harbor"
   helenau-handelsroute:
     words:
       - Helenau Handelsroute
       - Helenauer Handelsroute
       - Helenau trade route
-    slug: "helenau_handelsroute"
+    slug: "helenau_trade_route"
+  midgar:
+    words:
+      - Midgar
+    slug: "helenau_trade_route"
   mine-gungeaug:
     words:
       - Mine Gungeaug
@@ -119,19 +151,50 @@ places:
       - Residenz Chiraque
       - Residenz von Chiraque
       - Chiraque residency
-    slug: "residenz_chiraque"
+      - Residence Chiraque
+    slug: "residence_chiraque"
   rhatcyl:
     words:
       - Rhatcyl
     slug: "rhatcyl"
+  selbingen:
+    words:
+      - Selbingen
+    slug: "selbingen"
+  selbinger_rock_island:
+    words:
+      - Selbinger Felseninsel
+      - Felseninsel
+      - selbinger rock island
+      - rock island
+    slug: "selbinger_rock_island"
   thauros:
     words:
       - Thauros
     slug: "thauros"
+  the_boozing_mermaid:
+    words:
+      - Die saufende Meerjungfrau
+      - Saufende Meerjungfrau
+      - saufende Meerjungfrau
+      - the boozing mermaid
+      - boozing mermaid
+    slug: "the_boozing_mermaid"
+  the wanderer:
+    words:
+      - The Wanderer
+      - Der Wanderer
+    slug: "the_wanderer"
   theke:
     words:
       - Theke
     slug: "theke"
+  two_empires_trade_route:
+    words:
+      - Zwei Reiche Handelsroute
+      - Handelsroute der zwei Reiche
+      - Two empires trade route
+    slug: "two_empires_trade_route"
   ullana-nana:
     words:
       - Ullana-Nana
@@ -140,12 +203,30 @@ places:
     words:
       - Zazyrus
     slug: "zazyrus"
-  zwei-reiche-handelsroute:
+
+organisations:
+  the_pale_ones:
     words:
-      - Zwei Reiche Handelsroute
-      - Handelsroute der zwei Reiche
-      - Two kingdom trade route
-      - Two empire trade route
-    slug: "zwei_reiche_handelsroute"
+      - The pale ones
+      - Pale ones
+      - Die Blassen
+      - Blassen
+    slug: "the_pale_ones"
 
 things:
+  magic:
+    words:
+      - magic
+      - Magie
+    slug: "magic"
+  nztrv:
+    words:
+      - nztrv
+      - Nztrv
+    slug: "nztrv"
+  moonstone:
+    words:
+      - moonstone
+      - Mondstein
+    slug: "moonstone"
+    
