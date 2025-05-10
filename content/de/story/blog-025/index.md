@@ -15,7 +15,7 @@ Gemächlich wandern sie die Helenau-Handelsroute gen Südwesten entlang und geni
 Als sie in <a class="glossary-link" href={{<ref "glossary/places/selbingen">}} >Selbingen</a> ankommen, ist die Dämmerung bereits hereingebrochen, doch viele Fenster sind erleuchtet. Besonders <a class="glossary-link" href={{<ref "glossary/people/löwenzahn">}} >Löwenzahn</a>, dessen Interesse für Religion groß ist, zieht es direkt zur hell erleuchteten Kathedrale. Die anderen drei entscheiden sich, zunächst den Pferdestall am Dorfeingang in Augenschein zu nehmen, bevor es sie zum Handelsposten zieht.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Karte <a class="glossary-link" href={{<ref "glossary/places/selbingen">}} >Selbingen</a>" alt="Karte <a class="glossary-link" href={{<ref "glossary/places/selbingen">}} >Selbingen</a>." src="/img/selbingen.jpg" />
+  <img class="img-fluid" title="Karte Selbingen" alt="Karte Selbingen." src="/img/selbingen.jpg" />
 </div>
 
 Dort lernen sie den Besitzer <a class="glossary-link" href={{<ref "glossary/people/lukas_lukan_valerius">}} >Lukas Lukan Valerius</a> kennen, der eine beeindruckende Auswahl an Waren anbietet. Doch die Preise scheinen unseren Helden alles andere als gerecht, und obwohl <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a> sich schließlich eine kleine Phiole Weihwasser leistet, verlässt die Gruppe das Kontor frustriert. <a class="glossary-link" href={{<ref "glossary/people/lukas_lukan_valerius">}} >Lukas</a> Lukan sieht ihnen enttäuscht nach, da er sonst für seine fairen Preise und den guten Service geschätzt wird. Doch schnell wendet er sich wieder seinen Waren zu.
