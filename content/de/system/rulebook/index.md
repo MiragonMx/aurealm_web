@@ -22,7 +22,7 @@ Attribute sollen den Charakter grundlegend beschreiben und geben eine grobe Rich
 
 * **Stärke:** Das Attribut Stärke beschreibt nicht nur die Muskelmassen deines Charakters, sondern auch, wie zäh dieser ist. Es wirkt sich positiv auf die *Treffer-Punkte* deines Charakters, aber negativ auf dessen *Initiative* aus.
 * **Geschicklichkeit:** Eine Figur mit hohe Geschicklichkeit ist besonders gut darin, schnell und mit hoher Gewandtheit Aufgaben auszuführen. Das hilft dir zum Beispiel, wenn du etwas reparieren oder ein Handwerk ausführen möchtest. Ein hoher Geschicklichkeitswert begünstigt daher die *Initiative* und die *Reichweite* deines Heldens sowie den Wert *Ausweichen*.
-* **Konstitution:** Ein Charakter mit hoher Konstitution ist körperlich sehr fit und ausdauernd. Damit kann dein Charakter gut in einer langen Verfolgungsjagd bestehen und hat weniger Probleme, wenn mehrere Tage lang gereist werden muss. Es verbessert daher die *Treffer-Punkte* und *Handeln-Fähigkeiten* deines Spieler-Charakters sowie dessen *Reichweite* im Kampf.
+* **Konstitution:** Ein Charakter mit hoher Konstitution ist körperlich sehr fit und ausdauernd. Damit kann dein Charakter gut in einer langen Verfolgungsjagd bestehen und hat weniger Probleme, wenn mehrere Tage lang gereist werden muss. Es verbessert daher die *Treffer-Punkte* und *Handeln-Fähigkeiten* deines Spieler-Charakters sowie dessen *Reichweite* im <a class="glossary-link" href={{<ref "glossary/people/leutnant_kampf">}} >Kampf</a>.
 * **Intelligenz:** Ein intelligenter Held verfügt über eine besonders gute Auffassungsgabe und kann auch komplizierte Zusammenhänge schnell verstehen. Deshalb profitieren alle *Wissens-Fähigkeiten* von einem hohen Wert in Intelligenz und dieser wirkt sich auch positiv auf die *Mana-Punkte* aus.
 * **Charisma:** Charisma beschreibt die Ausstrahlungskraft des Charakters. Je charismatischer der Held ist, desto stärker ist dessen Wirkung auf andere Menschen. Daher wirkt sich ein hoher Charisma-Wert positiv auf alle *Sozialen-Fähigkeiten* aus, allerdings profitiert auch die *Mentale-Belastbarkeit* deines Charakters von hohem Charisma.
 
@@ -57,7 +57,7 @@ $$ Mentale Belastbarkeit = \left(Charisma \cdot Level \over 2 \right) + 50$$
 $$ MB-Regeneration / h = \left(max.\ \  MB \over 10 \right) - X (Art\ \  der\ \  Verstörung)$$
 
 
-* **Initiative:** Die Initiative ist entscheidend für das Kampf-System. Je geringer die Initiative ist, desto häufiger kommt ein Charakter dran. Alles Weitere hierzu in Kapitel **Kampfsystem**.
+* **Initiative:** Die Initiative ist entscheidend für das <a class="glossary-link" href={{<ref "glossary/people/leutnant_kampf">}} >Kampf</a>-System. Je geringer die Initiative ist, desto häufiger kommt ein Charakter dran. Alles Weitere hierzu in Kapitel **Kampfsystem**.
 
 $$ Initiative = 10 + \left(Stärke \over 2 \right) - \left(Geschicklichkeit \over 2 \right) $$
 

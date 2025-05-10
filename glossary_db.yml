@@ -1,0 +1,229 @@
+people:
+  aki:
+    words:
+      - Aki
+    slug: "aldric_von_praven"
+  aldric:
+    words:
+      - Aldric
+      - Aldric von Praven
+    slug: "aldric_von_praven"
+  bibiane:
+    words:
+      - Bibiane
+      - Bibi
+    slug: "bibiane"
+  elisabeth:
+    words:
+      - Elisabeth
+    slug: "elisabeth"
+  emanuel:
+    words:
+      - Emanuel
+    slug: "emanuel"
+  hellebard:
+    words:
+      - Hellebard
+      - Hellebard Dunkel
+    slug: "hellebard_dunkel"
+  karl:
+    words:
+      - Karl
+      - Karl Flittenberg
+    slug: "karl_flittenberg"
+  kel:
+    words:
+      - Kel
+      - Kel Tuh Las
+    slug: "kel_tuh_las"
+  kevin:
+    words:
+      - Kevin
+    slug: "kevin"
+  leutnant_kampf:
+    words:
+      - Leutnant Kampf
+      - Kampf
+      - Fridolin
+      - Lieutnant Kampf
+    slug: "leutnant_kampf"
+  lukas_lukan_valerius:
+    words:
+      - Lukas
+      - Lukas Lukan Valerius
+    slug: "lukas_lukan_valerius"
+  loewenzahn:
+    words:
+      - Löwenzahn
+    slug: "löwenzahn"
+  monsieur chiraque:
+    words:
+      - Chiraque
+      - Monsieur Chiraque
+    slug: "monsieur_chiraque"
+  nina:
+    words:
+      - Nina
+      - nina
+    slug: "nina"
+  odu:
+    words:
+      - Odu
+      - odu
+    slug: "odu"
+  rosvita:
+    words:
+      - Rosvita
+      - rosvita
+    slug: "rosvita"
+  simon:
+    words:
+      - Simon
+      - simon
+    slug: "simon"
+  theo:
+    words:
+      - Theo
+      - Theobald
+      - Theobald Bonter
+    slug: "theobald_bonter"
+  udo:
+    words:
+      - Udo
+    slug: "udo"
+
+places:
+  aurealm:
+    words:
+      - Aurealm
+    slug: "aurealm"
+  balrum:
+    words:
+      - Balrum
+    slug: "balrum"
+  bleichenpreis:
+    words:
+      - Bleichenpreis
+      - Strandhaus Bleichenpreis
+      - Beach cabin Bleichenpreis
+    slug: "beach_cabin_bleichenpreis"
+  ceaydryssnar:
+    words:
+      - Ceaydryssnar
+    slug: "ceaydryssnar"
+  feth:
+    words:
+      - Feth
+    slug: "feth"
+  fichtenstein:
+    words:
+      - Fichtenstein
+    slug: "fichtenstein"
+  fichtenstein-hafen:
+    words:
+      - Fichtenstein Hafen
+      - Fichtenstein haven
+      - Fichtenstein harbor
+      - Fichtensteiner Hafen
+    slug: "fichtenstein_harbor"
+  helenau-handelsroute:
+    words:
+      - Helenau Handelsroute
+      - Helenauer Handelsroute
+      - Helenau trade route
+    slug: "helenau_trade_route"
+  midgar:
+    words:
+      - Midgar
+    slug: "helenau_trade_route"
+  mine-gungeaug:
+    words:
+      - Mine Gungeaug
+      - Gungeauger Mine
+      - Gungeauger mine
+      - Gungeaug mine
+    slug: "mine_gungeaug"
+  chiraque-residency:
+    words:
+      - Residenz Chiraque
+      - Residenz von Chiraque
+      - Chiraque residency
+      - Residence Chiraque
+    slug: "residence_chiraque"
+  rhatcyl:
+    words:
+      - Rhatcyl
+    slug: "rhatcyl"
+  selbingen:
+    words:
+      - Selbingen
+    slug: "selbingen"
+  selbinger_rock_island:
+    words:
+      - Selbinger Felseninsel
+      - Felseninsel
+      - selbinger rock island
+      - rock island
+    slug: "selbinger_rock_island"
+  thauros:
+    words:
+      - Thauros
+    slug: "thauros"
+  the_boozing_mermaid:
+    words:
+      - Die saufende Meerjungfrau
+      - Saufende Meerjungfrau
+      - saufende Meerjungfrau
+      - the boozing mermaid
+      - boozing mermaid
+    slug: "the_boozing_mermaid"
+  the wanderer:
+    words:
+      - The Wanderer
+      - Der Wanderer
+    slug: "the_wanderer"
+  theke:
+    words:
+      - Theke
+    slug: "theke"
+  two_empires_trade_route:
+    words:
+      - Zwei Reiche Handelsroute
+      - Handelsroute der zwei Reiche
+      - Two empires trade route
+    slug: "two_empires_trade_route"
+  ullana-nana:
+    words:
+      - Ullana-Nana
+      - Ullana Nana
+    slug: "ullana_nana"
+  zazyrus:
+    words:
+      - Zazyrus
+    slug: "zazyrus"
+
+organisations:
+  the_pale_ones:
+    words:
+      - The pale ones
+      - Pale ones
+      - Die Blassen
+      - Blassen
+    slug: "the_pale_ones"
+
+things:
+  magic:
+    words:
+      - magic
+      - Magie
+    slug: "magic"
+  nztrv:
+    words:
+      - nztrv
+      - Nztrv
+    slug: "nztrv"
+  moonstone:
+    words:
+      - moonstone
+      - Mondstein
+    slug: "moonstone"

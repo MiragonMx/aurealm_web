@@ -5,7 +5,7 @@ draft: false
 thumbnail: "img/Kel_Tu_Las.png"
 ---
 
-Mein Name ist Kel Tuh Las,
+Mein Name ist <a class="glossary-link" href={{<ref "glossary/people/kel_tuh_las">}} >Kel Tuh Las</a>,
 
 ich bin 25, 195 cm groß, mein Brustumfang beträgt ebenfalls 195 cm und ich Bankdrücke mehr als alle anderen, demnach gehört mir dieses Abenteuer und ich bin der alleinige Herrscher hier.
 
