@@ -62,6 +62,8 @@ def replace_with_links(content, mapping):
             return matched_text  # Skip replacement
         if re.search(rf'{re.escape(matched_text)}\b">', content):
             return matched_text  # Skip replacement
+        if re.search(rf"<img .*{re.escape(matched_text)}.*/>", content):
+            return matched_text  # Skip replacement
 
         # Get the subpath for the matched word
         subpath = mapping.get(matched_text)
