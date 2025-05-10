@@ -1,8 +1,8 @@
 ---
-title: “Die Blassen”
+title: "Die Blassen"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-Summary: “Eine Gruppe von Banditen, die ursprünglich von der Insel Ceaydryssnar stammt.”
+Summary: "Eine Gruppe von Banditen, die ursprünglich von der Insel Ceaydryssnar stammt."
 ---
 
 

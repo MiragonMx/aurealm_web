@@ -1,8 +1,8 @@
 ---
-title: “Magic”
+title: "Magic"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
-Summary: “A colorless but pink shimmering liquid. Some people are able to use magic to cast spells and the like.”
+Summary: "A colorless but pink shimmering liquid. Some people are able to use magic to cast spells and the like."
 ---
 Magic is a strange form of energy that only a select few can use, as <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> perceives them as hosts. With the help of spells, <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> can be used to implement the will of the chosen one. To do this, the <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> leaves the magician's body and forms their spell. Magically conjured objects always have a transparent character and are surrounded by a blue shimmer. After the spell has been cast, the <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> is released from its predetermined form and disperses into its surroundings. As a result, there is a lot of scattered <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> throughout the world. Over time, the mage's <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> reserve, also known as mana, is passively replenished as the scattered <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> voluntarily gathers back into a host.
 The reaction of <a class="glossary-link" href={{<ref "glossary/things/magic">}} >magic</a> that encounters <a class="glossary-link" href={{<ref "glossary/things/nztrv">}} >Nztrv</a> is special. Both react violently with each other and form a new, glass-like substance at the point of contact.

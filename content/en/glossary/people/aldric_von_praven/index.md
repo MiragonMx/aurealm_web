@@ -1,9 +1,9 @@
 ---
-title: “Aldric of Praven”
+title: "Aldric of Praven"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
 thumbnail: img/Aldric.png
-Summary: “Although Aldric has noble origins, there is probably no one among our friends who despises the nobility as much as Aldric. Aside from his eloquent speech when he wants to, there is not much about Aldric that is noble anymore. Instead, he's become a fan of bows and crossbows who knows exactly how to deal damage.”
+Summary: "Although Aldric has noble origins, there is probably no one among our friends who despises the nobility as much as Aldric. Aside from his eloquent speech when he wants to, there is not much about Aldric that is noble anymore. Instead, he's become a fan of bows and crossbows who knows exactly how to deal damage."
 ---
 
 My name is <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a>, son of Osric, the penultimate Earl of Praven, and this is my story.

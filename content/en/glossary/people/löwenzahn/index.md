@@ -1,9 +1,9 @@
 ---
-title: “Löwenzahn”
+title: "Löwenzahn"
 publishdate: 2024-10-30T08:00:00+02:00
 draft: false
 thumbnail: img/Löwenzahn.png
-Summary: “Born a half-orc, rejected by his own tribe and raised alone in nature before being forced to mine Nztrv as a slave. This is the sad past of Dandelion, who has finally found his place in our group of adventurers. With extensive knowledge of plants and animals, he has been able to help his new friends directly, and with more time in civilization, his social skills are slowly becoming a weapon.”
+Summary: "Born a half-orc, rejected by his own tribe and raised alone in nature before being forced to mine Nztrv as a slave. This is the sad past of Dandelion, who has finally found his place in our group of adventurers. With extensive knowledge of plants and animals, he has been able to help his new friends directly, and with more time in civilization, his social skills are slowly becoming a weapon."
 ---
 
 My name is <a class="glossary-link" href={{<ref "glossary/people/löwenzahn">}} >Löwenzahn</a>,
