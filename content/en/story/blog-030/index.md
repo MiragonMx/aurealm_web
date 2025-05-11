@@ -12,7 +12,7 @@ After the successful battle against the Pale Ones, our four heroes realised that
 Today they want to make their way to the rocky island in the centre of Lake <a class="glossary-link" href={{<ref "glossary/places/selbingen">}} >Selbingen</a> to explore it and possibly find the hiding place of the pale ones. <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a> in particular doesn't like this idea, as he is still struggling with his traumatic phobia of water. But his concerns are generously ignored by the group. With the help of a rope, <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a> is loaded into the boat they have found on the beach and they row off in the direction of the rocky island.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Map Selbingen" alt="Map." src="/img/selbingen.jpg" />
+  <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="/img/selbingen.jpg" />
 </div>
 
 From a distance, the island looks small and inconspicuous, but with every paddle stroke it grows in front of them and eventually turns out to be an impressive natural monument. Rugged rock faces rise steeply from the calm water, and only a few sparse trees defy the stony ground. They circle the island to find a suitable place to moor and discover an opening about forty metres wide that leads into the interior of the island. What they see there takes even <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a>'s breath away: a huge cave stretches deep into the island, almost as if a stone dome were enthroned above it. At the entrance to the cave, they find a shallow spot where they can safely land the boat.

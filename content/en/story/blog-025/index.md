@@ -15,7 +15,7 @@ They walk leisurely along the <a class="glossary-link" href={{<ref "glossary/pla
 When they arrive in <a class="glossary-link" href={{<ref "glossary/places/selbingen">}} >Selbingen</a>, dusk has already fallen, but many windows are illuminated. <a class="glossary-link" href={{<ref "glossary/people/löwenzahn">}} >Löwenzahn</a> in particular, whose interest in religion is great, is drawn directly to the brightly lit cathedral. The other three decide to take a look at the stables at the entrance to the village before heading to the trading post.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Map Selbingen" alt="Map." src="/img/selbingen.jpg" />
+  <img class="img-fluid" title="Map Selbingen" alt="Map Selbingen." src="/img/selbingen.jpg" />
 </div>
 
 There they meet the owner, <a class="glossary-link" href={{<ref "glossary/people/lukas_lukan_valerius">}} >Lukas Lukan Valerius</a>, who offers an impressive selection of goods. However, the prices seem anything but fair to our heroes, and although <a class="glossary-link" href={{<ref "glossary/people/aldric_von_praven">}} >Aldric</a> eventually buys a small vial of holy water, the group leaves the trading post in frustration. <a class="glossary-link" href={{<ref "glossary/people/lukas_lukan_valerius">}} >Lukas</a> Lukan looks after them in disappointment, as he is usually appreciated for his fair prices and good service. But he quickly turns his attention back to his goods.
