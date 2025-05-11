@@ -5,7 +5,7 @@ startdate: 1237-10-09T00:10:03+02:00
 enddate: 1237-10-10T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_38.jpg
-summary: "Unsere Helden erreichen heute nach einem langen Marsch endlich das verschlafene Dörfchen Feth. Im Wirtshaus "Die müden Pferdebeine" treffen sie überraschend auf Bibiane - doch das soll in dem Dorf bei weitem nicht die einzige Überraschung bleiben. Was in Feth sonst noch auf sie wartet, erfahrt ihr hier:"
+summary: "Unsere Helden erreichen heute nach einem langen Marsch endlich das verschlafene Dörfchen Feth. Im Wirtshaus 'Die müden Pferdebeine' treffen sie überraschend auf Bibiane - doch das soll in dem Dorf bei weitem nicht die einzige Überraschung bleiben. Was in Feth sonst noch auf sie wartet, erfahrt ihr hier:"
 ---
 
 Als Helden verließen unsere vier Freunde beim letzten Mal Selbingen und machten sich auf den Weg zu neuen Herausforderungen. Genauer genommen heißt das Ziel Feth, ein winzig kleiner Ort auf der Helenau-Handelsroute zwischen Selbingen und der Stadt Port Kresto. Dass sie sich gerade auf den Weg zu einer Ansammlung von ein paar Häusern machen, wissen unsere Helden aber noch gar nicht, weil sie ja selbst nie so richtig die Nordmarsch verlassen haben und den Ort nur auf der großen Handelskarte von Lukas Lukan Valerius gesehen haben.
