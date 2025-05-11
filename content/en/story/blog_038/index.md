@@ -17,7 +17,7 @@ After several breaks to catch their breath, darkness falls over the horizon agai
 One of these houses immediately catches their attention, as a wonderful aroma wafts from there into their noses. Baked bread, roasted meat and savoury cheese lure them straight into the inn in front of them. As they approach, they also discover various horse troughs, an astonishing number of which are already full. The large number of visitors surprises our friends, but before they start to rack their brains over this, they prefer to march through the large oak door into the interior of the ‘Tired Horses’ Legs’ inn.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Karte Feth" alt="Map Feth" src="/img/feth.jpg" />
+  <img class="img-fluid" title="Map Feth" alt="Map Feth" src="/img/feth.jpg" />
 </div>
 
 It is cosy and warm inside, and the delicious aroma that had already hit them outside now completely envelops them and makes their mouths water. They take a quick look around and are greeted by the owner, Gerda. She kindly offers them a hearty dinner and rooms for the night. Exhausted from their long journey, Kel, Theo, Aldric and Löwenzahn have only been waiting for such an offer and they accept without hesitation. Aldric has another enquiry, however: the inn almost looks as if it specialises in horses, and Aldric is interested to know exactly how it works here. Gerda explains to the four of them that she keeps some well-rested horses in her stables. Travellers who are in a hurry can leave their exhausted horse here and ride on with another, rested mount. The horse can then be picked up again later, for example on the way back. Our friends are of course particularly interested in horses, but Gerda makes it clear that she has no horses to give away at the moment. If anything, she could offer an old horse whose best years have already passed. Aldric is generally interested, but for now he too wants to eat and then sleep quickly.
@@ -37,5 +37,5 @@ The first path in Feth now leads them to Carla-Theresia, the village wagon maker
 Their path also leads them to the merchant Fiona, the huntress Margret and the jarl's wife Konstanze. What becomes increasingly clear to them over time: There are simply no local men. This really surprises our friends, so they decide to ask Konstanze about this. But you won't find out what exciting story she has to tell until next time: Arkanthia Pen and Paper.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Weltkarte Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Feth.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Feth.jpg" />
 </div>
