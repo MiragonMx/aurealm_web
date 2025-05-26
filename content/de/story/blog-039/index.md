@@ -1,7 +1,7 @@
 ---
 title: "Vergangenheit und Zukunft"
 publishdate: 2025-05-26T10:00:00+02:00
-startdate: 1237-10-010T00:10:03+02:00
+startdate: 1237-10-10T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_39.jpg
 summary: "In Feth entdecken unsere Helden heute ein düsteres Geheimnis. Nach und nach verschwanden alle Männer aus dem Dorf spurlos – zurück blieben nur Glasperlen und eine bedrückende Stille. Als sie schließlich Wahrsagerin Isabel aufsuchen, erhält Theo eine auch noch rätselhafte Vision. Was hat es mit dem Fluch auf sich? Und was bedeuten die Perlen? Die Antworten – oder neue Fragen – findet ihr hier:"
