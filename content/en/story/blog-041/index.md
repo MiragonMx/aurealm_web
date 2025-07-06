@@ -1,5 +1,5 @@
 ---
-title: "Building before Investigating"
+title: "A suspicious trace"
 publishdate: 2025-06-22T10:00:00+02:00
 startdate: 1237-10-13T00:10:03+02:00
 enddate: 1237-10-14T00:10:03+02:00
