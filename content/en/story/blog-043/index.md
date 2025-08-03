@@ -31,5 +31,5 @@ They keep picking up the bottles, rereading the riddle and thinking about possib
 So the first puzzle is solved – and you'll find out in two weeks' time in the next Arkanthia – Pen and Paper blog whether our friends can open the next six bottles correctly.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Feth.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Feth_Kresto_Hochebene.jpg" />
 </div>
