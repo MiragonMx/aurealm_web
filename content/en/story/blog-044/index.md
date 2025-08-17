@@ -4,7 +4,7 @@ publishdate: 2025-08-03T10:00:00+02:00
 startdate: 1237-10-14T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_44.jpg
-summary: "To solve Grete's potion puzzle, our heroes must first empty the red potion. 🧪 But as soon as they pour out the red liquid, they are surrounded by a thick fog. 🌫️ The world tilts, and with a jolt, they lose their footing. They fall, endlessly, through a space without light. Find out what awaits them there here:"
+summary: "To solve Grete's potion puzzle, our heroes must first empty the red potion. But as soon as they pour out the red liquid, they are surrounded by a thick fog. The world tilts, and with a jolt, they lose their footing. They fall, endlessly, through a space without light. Find out what awaits them there here:"
 ---
 
 An exhausting march from Feth to the Kresto Plateau led our four heroes to Grete's next hiding place: a small cave right next to a vast plateau. There, a riddle awaited them. Seven bottles were waiting for them, six of which had to be drunk in the correct order to get to the metallic reward at the bottom of the bottles. Our friends had already figured out the function of the seventh bottle: its contents unlock the otherwise unbreakable caps. From the riddle that Grete had carved into the stone wall, they deduced that the first bottle must be the one with red contents.
