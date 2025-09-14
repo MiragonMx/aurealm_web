@@ -3,7 +3,7 @@ title: "Ein neuer Pfad"
 publishdate: 2025-09-14T10:00:00+02:00
 startdate: 1237-10-15T00:10:03+02:00
 draft: false
-thumbnail: img/Blog_46.jpg
+thumbnail: img/Blog_47.jpg
 summary: "Weißer Nebel, eine glühende Klinge und ein geisterhafter Krieger erwartet unsere Helden dieses Mal. Doch der anschließende Kampf soll nicht umsonst sein, denn der Krieger hält wertvolle Informationen für unsere Freunde bereit. Welche das sind, erfahrt ihr hier:"
 ---
 
