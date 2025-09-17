@@ -1,6 +1,6 @@
 ---
 title: "Zwischen Leben und Tod"
-publishdate: 2025-09-14T10:00:00+02:00
+publishdate: 2025-09-13T10:00:00+02:00
 startdate: 1237-10-15T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_46.jpg
