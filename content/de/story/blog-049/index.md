@@ -1,6 +1,6 @@
 ---
 title: "Gretes Geschichte"
-publishdate: 2025-02-12T10:00:00+02:00
+publishdate: 2025-10-12T10:00:00+02:00
 startdate: 1237-10-16T00:10:03+02:00
 draft: false
 thumbnail: img/Blog_49.jpg
