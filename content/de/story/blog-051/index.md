@@ -1,6 +1,6 @@
 ---
 title: "Rückkehr nach Feth"
-publishdate: 2025-10-12T10:00:00+02:00
+publishdate: 2025-11-09T10:00:00+02:00
 startdate: 1237-10-17T00:10:03+02:00
 enddate: 1237-10-18T00:10:03+02:00
 draft: false
