@@ -14,6 +14,10 @@ Müde wühlen sich unsere Helden am Morgen aus ihren Schlafrollen. Ihr kleines N
 
 Bereits nach weniger als einer Stunde lassen sie die Schwefelweiher hinter sich und erreichen die kleine Straße, die Feth mit dem Küstendorf Zist verbindet. Die Wanderung ist zwar anstrengend, aber nichts im Vergleich zu ihrem chaotischen Hinweg durch die Kresto-Hochebene. Nach einer kleinen Mittagspause im sanften Hügelland um Zist arbeiten sie sich Kilometer um Kilometer näher an ihr Ziel heran und erreichen Feth schließlich kurz vor der Dämmerung. Sie werden bereits ungeduldig erwartet, doch für das, was sie zu erzählen haben, reicht kein halber Abend. Daher kündigen sie an, sich am nächsten Morgen mit dem gesamten Dorf im ehemaligen Jarlshaus zu versammeln. Anschließend geht es für Kel, Aldric, Theo und Löwenzahn auf direktem Weg zu Gerdas Gasthaus „Die müden Pferdebeine“ – heute wohl passender „Die müden Menschenbeine“. Bei Bier und einem warmen Essen genießen sie es, endlich wieder ein richtiges Bett zu haben.
 
+<div class="img-max center">
+  <img class="img-fluid" title="Karte Feth" alt="Karte Feth" src="/img/feth.jpg" />
+</div>
+
 Der Muskelkater, mit dem sie am nächsten Morgen aufwachen, hat es in sich. Doch Zeit zum Klagen bleibt nicht. Wenige Minuten später stehen sie bereits im Jarlshaus. Wie erwartet ist das gesamte Dorf versammelt und blickt gespannt auf die vier Abenteurer. Wie schon in Selbingen ergreift Kel Tuh Las das Wort:
 
 „Liebe Dorfgemeinschaft von Feth. Unsere Nachforschungen im Fall Grete haben eure schlimmsten Befürchtungen bestätigt. Wir haben ihre Spur bis in die Schwefelweiher verfolgt, wo wir einen Unterschlupf von ihr gefunden haben. Dort fanden wir nicht nur viele Informationen über ihre Motive, sondern auch die Leichen der vermissten Dorfbewohner. Leider konnten wir nicht alle Überreste mitnehmen. Wir haben jedoch die Schädel eurer Liebsten geborgen und würden sie gerne gemeinsam mit euch hinter dem Jarlshaus an eurem Lebensbaum bestatten, damit ihr endlich einen Ort zum Trauern habt.“
