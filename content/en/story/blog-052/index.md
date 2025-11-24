@@ -41,5 +41,5 @@ After a brief chat with her, who once again provides them with a few horses, our
 Find out what happens next in two weeks' time at Arkanthia Pen and Paper!
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Feth.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Selbingen_Feth.jpg" />
 </div>
