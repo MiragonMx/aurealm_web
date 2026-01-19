@@ -46,5 +46,5 @@ A short time later, the four of them are sitting in the taproom with greasy roas
 And so the new day begins very early. Luckily for them, Elisabeth is already up and offers them a hearty breakfast before the four of them set off back on the Helenau trade route. The entire morning is spent traveling to Selbingen until they finally reach the small town on Lake Selbig. The rocky island rises proudly from the lake – but whether our four friends actually find the hideout of Lieutenant Kampf's mysterious guild there, you'll only find out in two weeks in the next Arkanthia Pen and Paper blog.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Selbingen_Chiraque.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Fichtenstein_Hafen_Selbingen.jpg" />
 </div>
