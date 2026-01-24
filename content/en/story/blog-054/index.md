@@ -17,9 +17,9 @@ After successfully completing the last thirty minutes to Fichtenstein, Löwenzah
 “It's best to just put them in the small garden at the back,” Udo suggests and disappears into the kitchen for the time being. Dandelion also leaves the dining room, and after he and his friends have tied up the horses in the garden, the four of them return to the dining room.
 
 <div class="img-max center">
-  <img class="img-fluid rounded"  title="Map <a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a>" alt="Map <a class="glossary-link" href={{<ref "glossary/places/fichtenstein">}} >Fichtenstein</a>." src="/img/fichtenstein.jpg" />
+  <img class="img-fluid rounded"  title="Map Fichtenstein." alt="Map Fichtenstein." src="/img/fichtenstein.jpg" />
 </div>
-    
+
 They make themselves comfortable in a small corner of the room and have just sat down when Udo places four mugs of beer on the table in front of them. A short time later, the food arrives, and since they are the only guests today, Udo joins them without further ado. The conversation quickly becomes more relaxed, and our friends realize that a real friendship has developed between them and the innkeeper.
 “Say, Udo,” Aldric begins, addressing the innkeeper directly, “you don't happen to need chickens, do you?”
 Udo looks at him in bewilderment, but then begins to grin in disbelief. “Why the hell do you have chickens?” he asks Aldric, who then briefly tells him the story of Feandal and Wilhelm and explains their role in the matter.

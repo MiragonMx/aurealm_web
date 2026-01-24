@@ -18,5 +18,5 @@ Kel and Theo wait wide-eyed for their two friends in their rudimentary camp. ‘
 After several hours of descent, the terrain flattens out again and the vegetation becomes noticeably sparser. Another hour later, our four heroes find themselves in the middle of the sulphur ponds. Thousands of rotting pools, barren trees and a terrible smell of sulphur make their stay here quite unpleasant, but they stubbornly continue to follow the ghost knight's directions. After a long day, they finally reach a tiny wooden hut located directly on a somewhat stony slope. This is where the directions end – which is just as well, because our heroes would not have had the strength to go much further today anyway. But you'll have to wait until the next Arkanthia Pen and Paper to find out what awaits them in the hut.
 
 <div class="img-max center">
-  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Kresto_Hochebene_Schwefelweihere.jpg" />
+  <img class="img-fluid" title="Worldmap Arkanthia" alt="Worldmap Arkanthia." src="/img/Arkanthia_Full_Map_Kresto_Hochebene_Schwefelweiher.jpg" />
 </div>
