@@ -12,15 +12,16 @@ Essentials Prio:
 Essentials weniger Prio:
 
 - [ ] Seite für Regelwerk, Excel Sheets etc.
-- [ ] Color Schemes
+- [x] Color Schemes (?)
 - [ ] Link, QR-Code zu Insta/Buch, etc.
 
 Nice 2 have:
 
-- [ ] Charakterseite (Bild, Charakterbeschreibung)
+- [x] Charakterseite (Bild, Charakterbeschreibung)
 - [ ] Maps
-- [ ] Glossar
-- [ ] Links im Blog zum Glossar
+- [x] Glossar
+- [x] Links im Blog zum Glossar
+        - maybe automated updates
 
 Advanced Nice 2 have:
 
