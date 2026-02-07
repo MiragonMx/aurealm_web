@@ -162,24 +162,28 @@ body.light-theme .navbar-brand:hover,
   margin: auto;
 }
 
-/* For TAGLIST.HTML */
-/*.taglist {*/
-/*text-align: center ;*/
-/*clear: both ;*/
-/*}*/
 
-/* For NEXTPREV.HTML */
-/*#nextprev {*/
-/* The container for both the previous and next articles. */
-/*}*/
+/* For pagination.html */
+.pagination .page-item .page-link {
+    color: var(--gold);
+    background-color: var(--dark);
+    border-color: var(--gold);
+}
 
-/*float: left ;*/
-/*text-align: left ;*/
-/*}*/
-/*#nextart {*/
-/*float: right ;*/
-/*text-align: right ;*/
-/*}*/
-/*#nextart,#prevart {*/
-/*max-width: 33% ;*/
-/*}*/
+.pagination .page-item .page-link:hover {
+  box-shadow: 0.1em 0.1em 0.1em var(--gold) inset, 0.1em 0.1em 0.1em var(--gold) ;
+    font-weight: bold;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: var(--red);
+}
+
+body.light-theme .pagination .page-item .page-link {
+    color: var(--red);
+    background-color: var(--light);
+}
+
+body.light-theme .pagination .page-item.active .page-link {
+    background-color: var(--gold);
+}
