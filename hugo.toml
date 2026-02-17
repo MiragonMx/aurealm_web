@@ -214,3 +214,10 @@ defaultContentLanguage = 'de'
     disable = true
   [privacy.youtube]
     disable = true
+
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  compression = 'lossy'
+  quality = 75
+  resampleFilter = 'mitchellNetravali'
