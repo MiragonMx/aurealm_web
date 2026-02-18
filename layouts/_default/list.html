@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="container">
+  <div class="section">
+    {{/*fall back to section title, if no _index.md is provided*/}}
+    <h1>
+      {{ .Title }}
+    </h1>
+
+    {{ .Content }}
+    {{ $paginator := .Paginate (.Pages.ByPublishDate.Reverse) 5 }}
+    {{ range $paginator.Pages }}
+      <div class="card-container">
+        {{ partial "widgets/post-card.html" . }}
+      </div>
+    {{ end }}
+  </div>
+  <div class="center">
+    {{ partial "pagination" . }}
+  </div>
+</div>
+{{ end }}
