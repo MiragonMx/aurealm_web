@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Moritz Boueke
+Copyright (c) 2026 Moritz Boueke
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@ SOFTWARE.
 
 The MIT License (MIT)
 
-Copyright (c) 2011-2023 The Bootstrap Authors
+Copyright (c) 2011-2025 The Bootstrap Authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,7 +48,7 @@ THE SOFTWARE.
 
 The MIT License (MIT)
 
-Copyright (c) 2019-2023 The Bootstrap Authors
+Copyright (c) 2019-2024 The Bootstrap Authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
