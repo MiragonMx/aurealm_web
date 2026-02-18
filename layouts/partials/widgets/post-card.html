@@ -1,0 +1,24 @@
+{{ $permalink := .Permalink }}
+<div class="card rounded mt-3 mb-3">
+  <div class="row g-0">
+    <div class="col-md-3">
+      {{ $image := resources.Get (printf "%s" .Params.thumbnail) }}
+      {{ with $image }}
+        {{ with .Resize "500x"}}
+          <img src="{{ .RelPermalink }}" class="img-fluid rounded " alt="Thumbnail for {{ .Title }} ">
+        {{ end }}
+      {{ end }}
+    </div>
+    <div class="col-md-9">
+      <div class="card-body text-start">
+        <h4 class="card-title">{{ .Title }}</h4>
+        {{/*{{ partial "metadata.html" . }}*/}}
+        <div class="card-text summary">
+          {{ .Summary }}
+        </div>
+        {{/*makes the whole card a link (bootstrap util)*/}}
+        <a href="{{ .RelPermalink }}" class="stretched-link"></a>
+      </div>
+    </div>
+  </div>
+</div>

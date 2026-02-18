@@ -1,0 +1,7 @@
+{{- if or .IsHome (.Parent.IsHome) -}}
+  {{- $.Site.Params.Description -}}
+{{- else if .IsPage -}}
+  {{- with .Summary -}}
+    {{- . -}}
+  {{- end -}}
+{{- end -}}

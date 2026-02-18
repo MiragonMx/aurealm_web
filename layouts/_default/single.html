@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container">
+  <div class="section">
+    {{/*fall back to section title, if no _index.md is provided*/}}
+
+    <h1>
+      {{ .Title }}
+    </h1>
+
+    {{ partial "metadata.html" . }}
+
+    <div class="img-max center">
+      {{ $image := resources.Get (printf "%s" .Params.thumbnail) }}
+      {{ with $image }}
+        {{ with .Resize "700x"}}
+          <img src="{{ .RelPermalink }}" class="img-fluid rounded " alt="Thumbnail for {{ .Title }} ">
+        {{ end }}
+      {{ end }}
+    </div>
+    <br>
+
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}
