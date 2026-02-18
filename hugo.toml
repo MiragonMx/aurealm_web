@@ -1,12 +1,11 @@
 # License for Icons:
 #
 # Bootstrap Icons (https://icons.getbootstrap.com/)
-# Copyright 2019-2023 The Bootstrap Authors
+# Copyright 2019-2024 The Bootstrap Authors
 # Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE.md)
 
 baseURL = 'https://arkanthia.pages.dev/'
 title = 'Arkanthia: Deine Quelle für Pen and Paper Abenteuer'
-theme = 'dev'
 
 [markup]
   [markup.goldmark]
@@ -32,8 +31,6 @@ defaultContentLanguage = 'de'
 [[languages.de.menu.main]]
     identifier = "home"
     name = 'Startseite'
-    #name = "arkanthia"
-    #pre = "<img src='/img/icon_tobi.png' aria-hidden='true' focusable='false' width='16' height='16'>"
     pre = '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-grid" aria-hidden="true" focusable="false" viewBox="0 0 16 16"> <path d="M1 2.5A1.5 1.5 0 0 1 2.5 1h3A1.5 1.5 0 0 1 7 2.5v3A1.5 1.5 0 0 1 5.5 7h-3A1.5 1.5 0 0 1 1 5.5v-3zM2.5 2a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zm6.5.5A1.5 1.5 0 0 1 10.5 1h3A1.5 1.5 0 0 1 15 2.5v3A1.5 1.5 0 0 1 13.5 7h-3A1.5 1.5 0 0 1 9 5.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zM1 10.5A1.5 1.5 0 0 1 2.5 9h3A1.5 1.5 0 0 1 7 10.5v3A1.5 1.5 0 0 1 5.5 15h-3A1.5 1.5 0 0 1 1 13.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3zm6.5.5A1.5 1.5 0 0 1 10.5 9h3a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-3A1.5 1.5 0 0 1 9 13.5v-3zm1.5-.5a.5.5 0 0 0-.5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-3z"/> </svg>'
     pageRef = "/"
     url = '/'
@@ -98,14 +95,6 @@ defaultContentLanguage = 'de'
     name = "Dinge"
     pageRef = "glossary/things/"
     url = "/glossary/things/"
-
-#[[languages.de.menu.main]]
-    #identifier = "quests"
-    #name = "Quests"
-    #pre = '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-exclamation-diamond" aria-hidden="true" focusable="false" viewBox="0 0 16 16"> <path d="M6.95.435c.58-.58 1.52-.58 2.1 0l6.515 6.516c.58.58.58 1.519 0 2.098L9.05 15.565c-.58.58-1.519.58-2.098 0L.435 9.05a1.482 1.482 0 0 1 0-2.098L6.95.435zm1.4.7a.495.495 0 0 0-.7 0L1.134 7.65a.495.495 0 0 0 0 .7l6.516 6.516a.495.495 0 0 0 .7 0l6.516-6.516a.495.495 0 0 0 0-.7L8.35 1.134z"/> <path d="M7.002 11a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 4.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995z"/> </svg>'
-    #pageRef = "quests/"
-    #url = "/quests/"
-    #weight = 40
 
   [languages.en]
     contentDir = 'content/en'
@@ -183,14 +172,6 @@ defaultContentLanguage = 'de'
     name = "Things"
     pageRef = "glossary/things/"
     url = "/glossary/things/"
-
-#[[languages.en.menu.main]]
-    #identifier = "quests"
-    #name = "Quests"
-    #pre = '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi bi-exclamation-diamond" aria-hidden="true" focusable="false" viewBox="0 0 16 16"> <path d="M6.95.435c.58-.58 1.52-.58 2.1 0l6.515 6.516c.58.58.58 1.519 0 2.098L9.05 15.565c-.58.58-1.519.58-2.098 0L.435 9.05a1.482 1.482 0 0 1 0-2.098L6.95.435zm1.4.7a.495.495 0 0 0-.7 0L1.134 7.65a.495.495 0 0 0 0 .7l6.516 6.516a.495.495 0 0 0 .7 0l6.516-6.516a.495.495 0 0 0 0-.7L8.35 1.134z"/> <path d="M7.002 11a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 4.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995z"/> </svg>'
-    #pageRef = "quests/"
-    #url = "/quests/"
-    #weight = 40
 
 [taxonomies]
     tag = "tags"
