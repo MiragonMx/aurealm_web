@@ -1,5 +1,5 @@
 ---
-title: "Upgrades"
+title: "A shady spot"
 publishdate: 2026-04-12T10:00:00+02:00
 startdate: 1237-10-22T00:10:03+02:00
 draft: false
